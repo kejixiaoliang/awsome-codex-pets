@@ -9,6 +9,7 @@
     "discover:write": "node tools/discover.mjs --write",
     "discover:fetch": "node tools/discover.mjs --fetch --write",
     "download": "node tools/download.mjs --write --petscodex-index",
+    "generate:readme": "node tools/generate-readme.mjs",
     "promote": "node tools/promote-downloads.mjs --write",
     "import:candidates": "node tools/import-candidates.mjs --write",
     "report": "node tools/report.mjs",

@@ -34,7 +34,7 @@ function assetPath(value) {
   return String(value || "").replace(/\\/g, "/");
 }
 
-function petCard(pet, lang) {
+function petCard(pet) {
   const name = escapeHtml(pet.name || pet.id);
   const image = assetPath(pet.files.spritesheetPath);
   const zip = assetPath(pet.files.packagePath);
@@ -42,9 +42,8 @@ function petCard(pet, lang) {
   const meta = assetPath(pet.files.metaPath || "");
   const source = escapeHtml(sourceNames[pet.sourceId] || pet.sourceId);
   const alt = `${name} Codex pet spritesheet`;
-  const actions = lang === "zh"
-    ? `<a href="${zip}">下载 ZIP</a> · <a href="${json}">pet.json</a>${meta ? ` · <a href="${meta}">meta</a>` : ""}`
-    : `<a href="${zip}">Download ZIP</a> · <a href="${json}">pet.json</a>${meta ? ` · <a href="${meta}">meta</a>` : ""}`;
+  const actions = `<a href="${zip}">Download ZIP</a> · <a href="${json}">pet.json</a>${meta ? ` · <a href="${meta}">meta</a>` : ""}`;
+
   return [
     `<td width="25%" align="center" valign="top">`,
     `<a href="${image}"><img src="${image}" alt="${escapeHtml(alt)}" width="118"></a><br>`,
@@ -55,127 +54,71 @@ function petCard(pet, lang) {
   ].join("");
 }
 
-function galleryTable(items, lang) {
+function galleryTable(items) {
   const rows = [];
   for (let index = 0; index < items.length; index += 4) {
-    const cells = items.slice(index, index + 4).map((pet) => petCard(pet, lang));
+    const cells = items.slice(index, index + 4).map((pet) => petCard(pet));
     while (cells.length < 4) cells.push(`<td width="25%"></td>`);
     rows.push(`<tr>${cells.join("")}</tr>`);
   }
   return `<table>\n${rows.join("\n")}\n</table>`;
 }
 
-function sourceDetails(lang) {
+function sourceDetails() {
   return Object.entries(bySource)
     .map(([sourceId, items], index) => {
       const title = `${sourceNames[sourceId] || sourceId} (${items.length})`;
       const open = index === 0 ? " open" : "";
-      return `<details${open}>\n<summary><strong>${escapeHtml(title)}</strong></summary>\n\n${galleryTable(items, lang)}\n\n</details>`;
+      return `<details${open}>\n<summary><strong>${escapeHtml(title)}</strong></summary>\n\n${galleryTable(items)}\n\n</details>`;
     })
     .join("\n\n");
 }
 
-function featuredGallery(lang) {
+function featuredGallery() {
   const featured = [
     ...packaged.filter((pet) => pet.sourceId === "openpets"),
     ...packaged.filter((pet) => pet.sourceId === "codexpets"),
     ...packaged.filter((pet) => pet.sourceId === "petscodex").slice(0, 8),
     ...packaged.filter((pet) => pet.sourceId === "codex-pet").slice(0, 13)
   ].slice(0, 28);
-  return galleryTable(featured, lang);
+  return galleryTable(featured);
 }
+
+const sourceList = Object.keys(bySource).map((sourceId) => sourceNames[sourceId] || sourceId).join(" / ");
 
 const readme = `# Awesome Codex Pets
 
 <p align="center">
-  <a href="#中文">中文</a> · <a href="#english">English</a>
+  <strong>A visual archive of packaged Codex pets.</strong><br>
+  <strong>一个可预览、可下载、可继续扩展的 Codex Pet 图鉴。</strong>
 </p>
 
 <p align="center">
-  <strong>266 packaged Codex pets with previewable spritesheets and direct ZIP downloads.</strong>
+  <a href="#overview--项目概览">Overview 项目概览</a> ·
+  <a href="#gallery">Gallery</a> ·
+  <a href="#commands--常用命令">Commands 常用命令</a>
 </p>
 
-<a id="中文"></a>
+## Overview / 项目概览
 
-## 中文
+Awesome Codex Pets collects community-made Codex pet packages and turns them into a browsable gallery. The repository is designed to be useful both as a visual catalog and as a structured asset archive.
 
-这是一个可以直接浏览、预览和下载的 Codex Pet 图鉴。每个已整理的 pet 都包含：
+Awesome Codex Pets 收集社区制作的 Codex pet，并把它们整理成可以直接浏览的图鉴。这个仓库既是一个视觉目录，也是一个结构化素材库。
 
-- 可直接下载的 ZIP 包
-- 可在 README 和网页中预览的 spritesheet 图片
-- 可查看的 \`pet.json\`
-- 记录来源和校验信息的 \`meta.json\`
+Each packaged pet includes a downloadable ZIP package, a previewable spritesheet, the original or generated \`pet.json\`, and a local \`meta.json\` file with source and integrity metadata.
 
-当前状态：
+每个已标准化的 pet 都包含可直接下载的 ZIP 包、可在 README 或网页中预览的 spritesheet、对应的 \`pet.json\`，以及记录来源和校验信息的 \`meta.json\`。
 
-- 已标准化 pet：${packaged.length}
-- 来源：${Object.keys(bySource).map((sourceId) => sourceNames[sourceId] || sourceId).join(" / ")}
-- 二进制资源通过 Git LFS 管理：\`*.zip\`、\`*.webp\`、\`*.png\`
+Current catalog status:
 
-### 快速预览
+当前目录状态：
 
-点击图片可以查看完整 spritesheet，点击 ZIP 可以直接下载对应 pet 包。
+- Packaged pets / 已标准化 pet：${packaged.length}
+- Sources / 来源：${sourceList}
+- Binary assets / 二进制资源：managed by Git LFS, including \`*.zip\`, \`*.webp\`, and \`*.png\`
+- Index data / 索引数据：\`data/pets.json\`
 
-${featuredGallery("zh")}
-
-### 完整图鉴
-
-${sourceDetails("zh")}
-
-### 本地结构
-
-\`\`\`text
-pets/<source>/<pet-id>/
-  pet.json
-  spritesheet.webp 或 spritesheet.png
-  <pet-id>.zip
-  meta.json
-\`\`\`
-
-### 常用命令
-
-\`\`\`bash
-npm run discover:fetch
-npm run import:candidates
-npm run download
-npm run promote
-npm run report
-npm run validate
-npm run generate:readme
-\`\`\`
-
-<p align="right"><a href="#awesome-codex-pets">回到顶部</a> · <a href="#english">English</a></p>
-
----
-
-<a id="english"></a>
-
-## English
-
-This is a browsable Codex Pet gallery with direct previews and downloads. Every packaged pet includes:
-
-- a ZIP package for direct download
-- a spritesheet image that can be previewed in README or a website
-- a readable \`pet.json\`
-- a \`meta.json\` file with source and integrity metadata
-
-Current status:
-
-- Packaged pets: ${packaged.length}
-- Sources: ${Object.keys(bySource).map((sourceId) => sourceNames[sourceId] || sourceId).join(" / ")}
-- Binary assets are managed with Git LFS: \`*.zip\`, \`*.webp\`, \`*.png\`
-
-### Quick Preview
-
-Click an image to inspect the full spritesheet. Click ZIP to download the pet package.
-
-${featuredGallery("en")}
-
-### Full Gallery
-
-${sourceDetails("en")}
-
-### Local Layout
+## Repository Layout / 仓库结构
 
 \`\`\`text
 pets/<source>/<pet-id>/
@@ -185,7 +128,25 @@ pets/<source>/<pet-id>/
   meta.json
 \`\`\`
 
-### Commands
+\`pets/\` stores the installable and previewable pet assets. \`data/pets.json\` is the machine-readable index used by scripts and future website/gallery tooling.
+
+\`pets/\` 存放可以安装和预览的 pet 素材。\`data/pets.json\` 是给脚本和后续网页图鉴使用的机器可读索引。
+
+## Quick Preview
+
+Click an image to inspect the full spritesheet. Click \`Download ZIP\` to download the pet package.
+
+${featuredGallery()}
+
+## Gallery
+
+The gallery below is grouped by source. It is intentionally kept in English only to avoid duplicating hundreds of visual cards.
+
+下面的图鉴按来源分组。图鉴卡片统一使用英文，避免中英文重复展示数百个图片卡片。
+
+${sourceDetails()}
+
+## Commands / 常用命令
 
 \`\`\`bash
 npm run discover:fetch
@@ -197,7 +158,15 @@ npm run validate
 npm run generate:readme
 \`\`\`
 
-<p align="right"><a href="#awesome-codex-pets">Back to top</a> · <a href="#中文">中文</a></p>
+\`generate:readme\` rebuilds this visual README from \`data/pets.json\`.
+
+\`generate:readme\` 会根据 \`data/pets.json\` 自动重建当前这个图鉴 README。
+
+## Notes / 说明
+
+GitHub README files cannot run custom JavaScript, so this page uses static Markdown and HTML tables. That keeps previews visible directly on the repository homepage.
+
+GitHub 的 README 不能运行自定义 JavaScript，所以这里使用静态 Markdown 和 HTML 表格。这样打开仓库首页时就能直接看到 pet 图片预览。
 
 ## License
 

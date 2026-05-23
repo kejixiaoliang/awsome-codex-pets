@@ -187,9 +187,9 @@ GitHub 的 README 不能运行自定义 JavaScript，所以这里使用静态 Ma
 
 ## Acknowledgements / 致谢
 
-Thanks to the community sites and creators that made these Codex pet resources discoverable, including OpenPets, Codex Pets, codex-pet.com, Pets Codex, CodexPetHub, CodingPets.dev, and other community contributors.
+Thanks to the community sites and creators that made these Codex pet resources discoverable, including [OpenPets](https://openpets.app/), [Codex Pets](https://codexpets.org/), [codex-pet.com](https://codex-pet.com/), [Pets Codex](https://petscodex.com/), [CodexPetHub](https://codexpethub.com/), [CodingPets.dev](https://www.codingpets.dev/), and other community contributors.
 
-感谢让这些 Codex pet 资源能够被发现、预览和使用的社区站点与创作者，包括 OpenPets、Codex Pets、codex-pet.com、Pets Codex、CodexPetHub、CodingPets.dev，以及其他社区贡献者。
+感谢让这些 Codex pet 资源能够被发现、预览和使用的社区站点与创作者，包括 [OpenPets](https://openpets.app/)、[Codex Pets](https://codexpets.org/)、[codex-pet.com](https://codex-pet.com/)、[Pets Codex](https://petscodex.com/)、[CodexPetHub](https://codexpethub.com/)、[CodingPets.dev](https://www.codingpets.dev/)，以及其他社区贡献者。
 
 This project is an archive and gallery built on top of those public resources. Please visit the original sites when you want to explore the upstream galleries, generators, installers, and submission pages.
 

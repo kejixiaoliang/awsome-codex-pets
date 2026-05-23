@@ -185,6 +185,16 @@ GitHub README files cannot run custom JavaScript, so this page uses static Markd
 
 GitHub 的 README 不能运行自定义 JavaScript，所以这里使用静态 Markdown 和 HTML 表格。这样打开仓库首页时就能直接看到 pet 图片预览。
 
+## Acknowledgements / 致谢
+
+Thanks to the community sites and creators that made these Codex pet resources discoverable, including OpenPets, Codex Pets, codex-pet.com, Pets Codex, CodexPetHub, CodingPets.dev, and other community contributors.
+
+感谢让这些 Codex pet 资源能够被发现、预览和使用的社区站点与创作者，包括 OpenPets、Codex Pets、codex-pet.com、Pets Codex、CodexPetHub、CodingPets.dev，以及其他社区贡献者。
+
+This project is an archive and gallery built on top of those public resources. Please visit the original sites when you want to explore the upstream galleries, generators, installers, and submission pages.
+
+本项目是在这些公开资源基础上整理出的归档和图鉴。如果你想继续探索上游图鉴、生成器、安装工具和提交入口，请优先访问对应的原始站点。
+
 ## License
 
 Project code and documentation are released under the MIT License. Pet package metadata preserves source attribution for each item.

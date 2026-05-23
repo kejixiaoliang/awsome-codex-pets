@@ -1,0 +1,39 @@
+{
+  "id": "boba-2",
+  "name": "Boba 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/boba-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "boba-2",
+    "displayName": "Boba 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/boba-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/boba-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "fc2e026d806c160d6f53ab549457b73958cfbaf73606d2ef2285e9c1056a0eb8"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/boba-2/spritesheet.webp",
+      "bytes": 1652490,
+      "sha256": "aa1a306f6ad265107e1032dd456db07282293735f0a1bb6be46c1381da45e3a7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/boba-2",
+      "bytes": 1653062,
+      "sha256": "90f2abac5f5ca9762561b177f2d23d6f0e2c30c7d6facedc2a9af588078beda9"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/boba-2/boba-2.zip",
+  "petJsonPath": "pets/codex-pet/boba-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/boba-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.871Z"
+}

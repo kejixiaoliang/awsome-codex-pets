@@ -1,0 +1,39 @@
+{
+  "id": "bumblebee",
+  "name": "Bumblebee",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bumblebee",
+  "description": "",
+  "generatedManifest": {
+    "id": "bumblebee",
+    "displayName": "Bumblebee",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bumblebee/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bumblebee"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "411e653f3eb413a39386bbb33a3ea6cd505ed4d3e95e50c9139bc34f0d183a9d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bumblebee/spritesheet.webp",
+      "bytes": 2549418,
+      "sha256": "d05e4b8faa1f83bff97eb4d8def61fcd0ca37bad8962f4f9788ef5227ad3e230"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bumblebee",
+      "bytes": 2547415,
+      "sha256": "cd3929aef31ea0d6f6c1927d901ac4ecdb15f4734b3d4c40ede3ec721e60289c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bumblebee/bumblebee.zip",
+  "petJsonPath": "pets/codex-pet/bumblebee/pet.json",
+  "spritesheetPath": "pets/codex-pet/bumblebee/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.026Z"
+}

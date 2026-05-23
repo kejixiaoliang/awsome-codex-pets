@@ -1,0 +1,39 @@
+{
+  "id": "consento-kun",
+  "name": "Consento Kun",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/consento-kun",
+  "description": "",
+  "generatedManifest": {
+    "id": "consento-kun",
+    "displayName": "Consento Kun",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/consento-kun/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/consento-kun"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "73d264f587b3c01b30453bc4d7ffcdbce85a5f6333c4e279f862a60a06fd641f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/consento-kun/spritesheet.webp",
+      "bytes": 2236,
+      "sha256": "df77f67cab5a1fc79c777211f75b927b2635bd48f14dd8be783b27916b36eba9"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/consento-kun",
+      "bytes": 2267,
+      "sha256": "403442bbc0c9683f4226b3157abc1165b80b89dd700c491bec0381958437105e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/consento-kun/consento-kun.zip",
+  "petJsonPath": "pets/codex-pet/consento-kun/pet.json",
+  "spritesheetPath": "pets/codex-pet/consento-kun/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.740Z"
+}

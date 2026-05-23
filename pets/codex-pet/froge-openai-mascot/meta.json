@@ -1,0 +1,39 @@
+{
+  "id": "froge-openai-mascot",
+  "name": "Froge Openai Mascot",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/froge-openai-mascot",
+  "description": "",
+  "generatedManifest": {
+    "id": "froge-openai-mascot",
+    "displayName": "Froge Openai Mascot",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/froge-openai-mascot/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/froge-openai-mascot"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "2373978c382ab2cd4f15b96e93a950263d13cd9302aa390cf9eaf0453385adb3"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/froge-openai-mascot/spritesheet.webp",
+      "bytes": 1477980,
+      "sha256": "fe2afc7e8876a740df8c2f22d48bf1bcff71264af23ee65ea22d4c09e51d9d2d"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/froge-openai-mascot",
+      "bytes": 1478558,
+      "sha256": "a72250b81d3582468e8fd8f65e7b7d93b1ebf3b845915b728f624658ef728b9d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/froge-openai-mascot/froge-openai-mascot.zip",
+  "petJsonPath": "pets/codex-pet/froge-openai-mascot/pet.json",
+  "spritesheetPath": "pets/codex-pet/froge-openai-mascot/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.955Z"
+}

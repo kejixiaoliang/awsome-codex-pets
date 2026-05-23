@@ -1,0 +1,12 @@
+{
+  "id": "terminal-pup",
+  "sourceId": "openpets",
+  "sourceUrl": "https://openpets.app/pets/terminal-pup",
+  "name": "Terminal Pup",
+  "author": "OpenPets Studio",
+  "license": "CC BY 4.0",
+  "packagePath": "pets/openpets/terminal-pup/terminal-pup.zip",
+  "petJsonPath": "pets/openpets/terminal-pup/pet.json",
+  "spritesheetPath": "pets/openpets/terminal-pup/spritesheet.png",
+  "updatedAt": "2026-05-23T14:12:55.730Z"
+}

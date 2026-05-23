@@ -1,0 +1,39 @@
+{
+  "id": "aku",
+  "name": "Aku",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/aku",
+  "description": "",
+  "generatedManifest": {
+    "id": "aku",
+    "displayName": "Aku",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/aku/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/aku"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "99d20350091f36030e5475f3e4b49ee03df9ae7f6046d28cb17d9d5fd0bc7b33"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/aku/spritesheet.webp",
+      "bytes": 1942950,
+      "sha256": "f3cdde29ef010861ac61343a86efb03019d9f04ac9c42a3a8f1d5e8523650c2b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/aku",
+      "bytes": 1941416,
+      "sha256": "69289dddcae912d5fbbbc07433781b1fa2173a4b56d1bf44b36632d737c865df"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/aku/aku.zip",
+  "petJsonPath": "pets/codex-pet/aku/pet.json",
+  "spritesheetPath": "pets/codex-pet/aku/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.424Z"
+}

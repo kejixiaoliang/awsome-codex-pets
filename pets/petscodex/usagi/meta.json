@@ -1,0 +1,41 @@
+{
+  "id": "usagi",
+  "name": "Usagi",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/usagi",
+  "description": "An energetic cream bunny Codex pet with floppy ears, snack poses, power-up cheers, and chaotic joyful charm.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "usagi"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/usagi/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/usagi/spritesheet.webp",
+    "package": "https://petscodex.com/download/usagi.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/usagi/pet.json",
+      "bytes": 216,
+      "sha256": "695ccb0db99dba09d1f67740039b4ce5fa45f73acea8716f86431384c0ea34fe"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/usagi/spritesheet.webp",
+      "bytes": 1434614,
+      "sha256": "e5bbef3c918ef670b6f57c7c0bc873419e2a17a96ecb1ab0120db323459fb80f"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/usagi.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/usagi/usagi.zip",
+  "petJsonPath": "pets/petscodex/usagi/pet.json",
+  "spritesheetPath": "pets/petscodex/usagi/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.292Z"
+}

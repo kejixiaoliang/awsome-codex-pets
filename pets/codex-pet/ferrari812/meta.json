@@ -1,0 +1,39 @@
+{
+  "id": "ferrari812",
+  "name": "Ferrari812",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ferrari812",
+  "description": "",
+  "generatedManifest": {
+    "id": "ferrari812",
+    "displayName": "Ferrari812",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ferrari812/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ferrari812"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "db8ab173adcf2bff4af4027e55eeffc751a02ea008bd5d44dbf7840dfcd05008"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ferrari812/spritesheet.webp",
+      "bytes": 1522352,
+      "sha256": "f4f86840b13485655477005d3030ebc3a34b53231c42be312d13b179b4a91b85"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ferrari812",
+      "bytes": 1522985,
+      "sha256": "0e9ec89c10291683345697759fc63909dd92443fdbafe53400854b67754f1e5f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ferrari812/ferrari812.zip",
+  "petJsonPath": "pets/codex-pet/ferrari812/pet.json",
+  "spritesheetPath": "pets/codex-pet/ferrari812/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.768Z"
+}

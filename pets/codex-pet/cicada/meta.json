@@ -1,0 +1,39 @@
+{
+  "id": "cicada",
+  "name": "Cicada",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cicada",
+  "description": "",
+  "generatedManifest": {
+    "id": "cicada",
+    "displayName": "Cicada",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cicada/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cicada"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "864560f27da9d331b53f0996f3b523f11ce651cf61a9a3f35e3481ac3d4c6ee3"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cicada/spritesheet.webp",
+      "bytes": 2822908,
+      "sha256": "5a09fa71c8664ad4d4a3075e6927225044544bab0327653096a568dfd62d79b8"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cicada",
+      "bytes": 2820062,
+      "sha256": "eec9c2f96b68ab1c7346e902c2b5679125114872cc30037a73959c7e1f8f2183"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cicada/cicada.zip",
+  "petJsonPath": "pets/codex-pet/cicada/pet.json",
+  "spritesheetPath": "pets/codex-pet/cicada/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.387Z"
+}

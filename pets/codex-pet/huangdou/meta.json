@@ -1,0 +1,39 @@
+{
+  "id": "huangdou",
+  "name": "Huangdou",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/huangdou",
+  "description": "",
+  "generatedManifest": {
+    "id": "huangdou",
+    "displayName": "Huangdou",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/huangdou/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/huangdou"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a7f0e5fbaef8ee6bb501d1a32f9d1b7f01d9e2cb249588ab684be75a8348767c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/huangdou/spritesheet.webp",
+      "bytes": 1841932,
+      "sha256": "3ecf51d1b951c13f11c6a2a0169cc667aeeb5bca3bcc1129e06c51526832d4b4"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/huangdou",
+      "bytes": 1842621,
+      "sha256": "d73c29a2ab2871791132d996fa58d73a09128fdaf43c42ac2e722e6530d598e4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/huangdou/huangdou.zip",
+  "petJsonPath": "pets/codex-pet/huangdou/pet.json",
+  "spritesheetPath": "pets/codex-pet/huangdou/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.750Z"
+}

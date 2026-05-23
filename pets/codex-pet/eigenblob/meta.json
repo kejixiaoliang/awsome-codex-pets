@@ -1,0 +1,39 @@
+{
+  "id": "eigenblob",
+  "name": "Eigenblob",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/eigenblob",
+  "description": "",
+  "generatedManifest": {
+    "id": "eigenblob",
+    "displayName": "Eigenblob",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/eigenblob/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/eigenblob"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "2687fab9c1db31d08e1f737eccbf69b5ba02626e22c7699cf3ea98117b2e37a3"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/eigenblob/spritesheet.webp",
+      "bytes": 1616434,
+      "sha256": "0e151589d08246152c6131d5d76c4c54307fd9dc891dc801f26f091b9a81ee3b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/eigenblob",
+      "bytes": 1617083,
+      "sha256": "cb2634d17a70e3abec29ccb140797eafc709c5d85ee26a902ee4c4ad8e049237"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/eigenblob/eigenblob.zip",
+  "petJsonPath": "pets/codex-pet/eigenblob/pet.json",
+  "spritesheetPath": "pets/codex-pet/eigenblob/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.569Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "gym-ajussi",
+  "name": "Gym Ajussi",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gym-ajussi",
+  "description": "",
+  "generatedManifest": {
+    "id": "gym-ajussi",
+    "displayName": "Gym Ajussi",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gym-ajussi/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gym-ajussi"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "65a862437cdcd1029a1404c89966cc0aac7128dffebab8b0078525afdb3a80cf"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gym-ajussi/spritesheet.webp",
+      "bytes": 1789344,
+      "sha256": "e60c5914d217fb6dd13cb4596355c862d57b97e2977bc9965996fb352dd1a5b3"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gym-ajussi",
+      "bytes": 1790030,
+      "sha256": "a8754e7cbe9d96b618bc4f005a9c8a53edc164bd0637760fe5f6bc42e897a937"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gym-ajussi/gym-ajussi.zip",
+  "petJsonPath": "pets/codex-pet/gym-ajussi/pet.json",
+  "spritesheetPath": "pets/codex-pet/gym-ajussi/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.447Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jrpg-hero",
+  "name": "JRPG Hero",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/jrpg-hero",
+  "description": "A retro chibi JRPG hero programmer Codex pet with a cursor sword, tiny shield, and excessive victory poses.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "jrpg-hero"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/jrpg-hero/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/jrpg-hero/spritesheet.webp",
+    "package": "https://petscodex.com/download/jrpg-hero.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/jrpg-hero/pet.json",
+      "bytes": 223,
+      "sha256": "a6c99916ba3818c9a963561817da0124e993a6097d220d44709ca72c8c7e38ee"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/jrpg-hero/spritesheet.webp",
+      "bytes": 1792622,
+      "sha256": "d8dc5bd4aa91b75f3b018272f24a9995d3c3eca0fc2c898418ccc8ff76088509"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/jrpg-hero.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/jrpg-hero/jrpg-hero.zip",
+  "petJsonPath": "pets/petscodex/jrpg-hero/pet.json",
+  "spritesheetPath": "pets/petscodex/jrpg-hero/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.106Z"
+}

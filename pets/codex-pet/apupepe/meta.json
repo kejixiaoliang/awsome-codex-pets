@@ -1,0 +1,39 @@
+{
+  "id": "apupepe",
+  "name": "Apupepe",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/apupepe",
+  "description": "",
+  "generatedManifest": {
+    "id": "apupepe",
+    "displayName": "Apupepe",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/apupepe/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/apupepe"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "043274739bdf5fca29eec836fc0c955ab3e900787fdefe963053e6fe94bb3956"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/apupepe/spritesheet.webp",
+      "bytes": 2088484,
+      "sha256": "5a610a22657ed0aa2bdca54f9e1022e7dfaed5b83f08795c63f30187552f82e0"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/apupepe",
+      "bytes": 2089164,
+      "sha256": "0fd3b6d2189e2223f1b88b793f76913a68aca90ee247d98894b86433153c9b3e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/apupepe/apupepe.zip",
+  "petJsonPath": "pets/codex-pet/apupepe/pet.json",
+  "spritesheetPath": "pets/codex-pet/apupepe/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.530Z"
+}

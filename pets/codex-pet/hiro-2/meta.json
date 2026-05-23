@@ -1,0 +1,39 @@
+{
+  "id": "hiro-2",
+  "name": "Hiro 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hiro-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "hiro-2",
+    "displayName": "Hiro 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hiro-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hiro-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "064628a273872c15ca2ee9e9a6a1852768e9c244ffb3469577f42b770cb86e19"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hiro-2/spritesheet.webp",
+      "bytes": 2132834,
+      "sha256": "a031f3294eef18f91b92232056cbfb20188bbf62520917f5b54ea04118a6e3aa"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hiro-2",
+      "bytes": 2132362,
+      "sha256": "749fb7fbb7894e771eabd298012ef510de456e5ee00a3893429eb2b3bd6b828e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hiro-2/hiro-2.zip",
+  "petJsonPath": "pets/codex-pet/hiro-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/hiro-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.725Z"
+}

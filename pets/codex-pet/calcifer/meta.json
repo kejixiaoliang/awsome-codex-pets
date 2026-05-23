@@ -1,0 +1,39 @@
+{
+  "id": "calcifer",
+  "name": "Calcifer",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/calcifer",
+  "description": "",
+  "generatedManifest": {
+    "id": "calcifer",
+    "displayName": "Calcifer",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/calcifer/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/calcifer"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a6246472b8acc7e9ac6907a398391bc2cd4e750ae5e48a9e79a16d7c5e980a4f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/calcifer/spritesheet.webp",
+      "bytes": 2114206,
+      "sha256": "c55bc9800e11afb6f1a4f892912ea90c9b5d00c6b357e50f02d68dfe5afbbdae"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/calcifer",
+      "bytes": 2108568,
+      "sha256": "354ae10cf0734c85b484ea97a8ae698a0041e8dcc819f2004901972a261ecbb8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/calcifer/calcifer.zip",
+  "petJsonPath": "pets/codex-pet/calcifer/pet.json",
+  "spritesheetPath": "pets/codex-pet/calcifer/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.125Z"
+}

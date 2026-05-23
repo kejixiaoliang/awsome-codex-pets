@@ -1,0 +1,39 @@
+{
+  "id": "buddhist",
+  "name": "Buddhist",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/buddhist",
+  "description": "",
+  "generatedManifest": {
+    "id": "buddhist",
+    "displayName": "Buddhist",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/buddhist/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/buddhist"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "4751e9f9cb455668224fd95962881f64a868e76ef5b1468fc277ae13d3f861db"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/buddhist/spritesheet.webp",
+      "bytes": 1811720,
+      "sha256": "841008738bf3270a88143c4654c334b45ed295bce77efc2491d71f9af8f81c84"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/buddhist",
+      "bytes": 1812351,
+      "sha256": "4690aed266b353b697287e9fda6dc256ac60516b4f9a7cedecaa495c39c863ed"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/buddhist/buddhist.zip",
+  "petJsonPath": "pets/codex-pet/buddhist/pet.json",
+  "spritesheetPath": "pets/codex-pet/buddhist/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.984Z"
+}

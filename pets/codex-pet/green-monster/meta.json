@@ -1,0 +1,39 @@
+{
+  "id": "green-monster",
+  "name": "Green Monster",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/green-monster",
+  "description": "",
+  "generatedManifest": {
+    "id": "green-monster",
+    "displayName": "Green Monster",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/green-monster/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/green-monster"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "9b0a3510443ac2d5ea16991fb35b3b6129ecab0b8afaf40edcb59cc6d08b6ac1"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/green-monster/spritesheet.webp",
+      "bytes": 1092404,
+      "sha256": "647d429573f427f54f9d474845256871f8efa8e6a305356b2eab3b2d220665ca"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/green-monster",
+      "bytes": 1092908,
+      "sha256": "63a4f35b6de5cb9afb27f32ea21499a0a541cd65f208d2e7b364b60b416658e5"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/green-monster/green-monster.zip",
+  "petJsonPath": "pets/codex-pet/green-monster/pet.json",
+  "spritesheetPath": "pets/codex-pet/green-monster/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.302Z"
+}

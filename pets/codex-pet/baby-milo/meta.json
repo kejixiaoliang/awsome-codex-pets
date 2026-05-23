@@ -1,0 +1,39 @@
+{
+  "id": "baby-milo",
+  "name": "Baby Milo",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/baby-milo",
+  "description": "",
+  "generatedManifest": {
+    "id": "baby-milo",
+    "displayName": "Baby Milo",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/baby-milo/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/baby-milo"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1746c06f29d93b3e747c3a105bb8fa4e75ac228aa95c12bfc91a9df97400b6fc"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/baby-milo/spritesheet.webp",
+      "bytes": 1789950,
+      "sha256": "9a87166690af4296f35368e67fe78d5d8a44c829bef92491cf9ae348f754afba"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/baby-milo",
+      "bytes": 1790588,
+      "sha256": "9d7e623ae1e5015ab46c5357074d4e615b9c3290dcfcc4b9ea402101f5be22a4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/baby-milo/baby-milo.zip",
+  "petJsonPath": "pets/codex-pet/baby-milo/pet.json",
+  "spritesheetPath": "pets/codex-pet/baby-milo/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.644Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cloudy",
+  "name": "Cloudy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cloudy",
+  "description": "",
+  "generatedManifest": {
+    "id": "cloudy",
+    "displayName": "Cloudy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cloudy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cloudy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "319f3cfc71a9a3fb685164e1e20291a5bb8f149e64db6814da2cf9b99da81584"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cloudy/spritesheet.webp",
+      "bytes": 1889792,
+      "sha256": "b706cf263678922a2aa6d3f74d24bd2e7367af1848e27da79e44c945dd0526b5"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cloudy",
+      "bytes": 1890478,
+      "sha256": "7a90f10215b4605c9934d92a96205d70d9f22ad4137c8d4ea0c53ece5175a6f6"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cloudy/cloudy.zip",
+  "petJsonPath": "pets/codex-pet/cloudy/pet.json",
+  "spritesheetPath": "pets/codex-pet/cloudy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.563Z"
+}

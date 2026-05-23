@@ -1,0 +1,39 @@
+{
+  "id": "gat-reaper",
+  "name": "Gat Reaper",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gat-reaper",
+  "description": "",
+  "generatedManifest": {
+    "id": "gat-reaper",
+    "displayName": "Gat Reaper",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gat-reaper/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gat-reaper"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "3c46301f044994f4ea0643a1edba8c2937be33dd806b2f7bebe94f5b16b45313"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gat-reaper/spritesheet.webp",
+      "bytes": 1619868,
+      "sha256": "66c9470b4c95cc91f7ee10a77fed2e1eb328e84962b23b0cf0d6c2ea562989db"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gat-reaper",
+      "bytes": 1620526,
+      "sha256": "81adca265eb4641f581b61cbcea690222ac00f57242f25f0ed3733e7ab6c974d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gat-reaper/gat-reaper.zip",
+  "petJsonPath": "pets/codex-pet/gat-reaper/pet.json",
+  "spritesheetPath": "pets/codex-pet/gat-reaper/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.053Z"
+}

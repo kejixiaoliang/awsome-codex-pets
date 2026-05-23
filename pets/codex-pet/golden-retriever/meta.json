@@ -1,0 +1,39 @@
+{
+  "id": "golden-retriever",
+  "name": "Golden Retriever",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/golden-retriever",
+  "description": "",
+  "generatedManifest": {
+    "id": "golden-retriever",
+    "displayName": "Golden Retriever",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/golden-retriever/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/golden-retriever"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b66d0d9ee167ea3bbb4e765de2cc797c6a18f44ee57ea815ad402b189a3a0619"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/golden-retriever/spritesheet.webp",
+      "bytes": 2062608,
+      "sha256": "4ac2a7e9f58b7bc9398aae7c89b13e4445a30033f5ccffb9ff310ec5af64fdec"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/golden-retriever",
+      "bytes": 2063387,
+      "sha256": "addb5854992ad5343c12ed95506671f1cd3bdf7c8d6c31ed4d441c605370cc22"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/golden-retriever/golden-retriever.zip",
+  "petJsonPath": "pets/codex-pet/golden-retriever/pet.json",
+  "spritesheetPath": "pets/codex-pet/golden-retriever/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.174Z"
+}

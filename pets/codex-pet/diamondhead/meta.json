@@ -1,0 +1,39 @@
+{
+  "id": "diamondhead",
+  "name": "Diamondhead",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/diamondhead",
+  "description": "",
+  "generatedManifest": {
+    "id": "diamondhead",
+    "displayName": "Diamondhead",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/diamondhead/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/diamondhead"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "3bf4ae209ae24052a54499a84436013a147b983a18bfbe59f8afef2fcae18ac1"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/diamondhead/spritesheet.webp",
+      "bytes": 2145696,
+      "sha256": "f5b066c8f8322a5c9040841a1c31a1a77ca2c8b12bdf1cae15c6f18902b19302"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/diamondhead",
+      "bytes": 2146451,
+      "sha256": "f5e040dd5f9b62cb5a810fc8b6849ac43cb7b6b5f874fca1c8abe653f54fa352"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/diamondhead/diamondhead.zip",
+  "petJsonPath": "pets/codex-pet/diamondhead/pet.json",
+  "spritesheetPath": "pets/codex-pet/diamondhead/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.237Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "buff-patrick",
+  "name": "Buff Patrick",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/buff-patrick",
+  "description": "",
+  "generatedManifest": {
+    "id": "buff-patrick",
+    "displayName": "Buff Patrick",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/buff-patrick/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/buff-patrick"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "653593df57d989bec523add4b9462228ba99ff98afa61b36d86b0c03cdcb32f5"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/buff-patrick/spritesheet.webp",
+      "bytes": 1691022,
+      "sha256": "1ffaa77f405d33086ffb46db91414e3d72c40082aca1d594bf8df8c2dab8c17c"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/buff-patrick",
+      "bytes": 1691706,
+      "sha256": "5a3ed3ad3530c1738d98d58405f5f5b0281c81a73dc7362f3263ee61f5aa1061"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/buff-patrick/buff-patrick.zip",
+  "petJsonPath": "pets/codex-pet/buff-patrick/pet.json",
+  "spritesheetPath": "pets/codex-pet/buff-patrick/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.998Z"
+}

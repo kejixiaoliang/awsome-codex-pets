@@ -1,0 +1,39 @@
+{
+  "id": "doodlebob",
+  "name": "Doodlebob",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/doodlebob",
+  "description": "",
+  "generatedManifest": {
+    "id": "doodlebob",
+    "displayName": "Doodlebob",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/doodlebob/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/doodlebob"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a9715a0998735c2f0c8a87d32179bb51ccc83c00f1980398b03376bfa7e56628"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/doodlebob/spritesheet.webp",
+      "bytes": 1928704,
+      "sha256": "9a9dbcbed3e8d86fd36ba56a3542a4ee5c426948f333ee148ad41bc2e478986e"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/doodlebob",
+      "bytes": 1929327,
+      "sha256": "84ac794d5193e8a0a9846d291dea8531528be8febffade5b5241a36384923aee"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/doodlebob/doodlebob.zip",
+  "petJsonPath": "pets/codex-pet/doodlebob/pet.json",
+  "spritesheetPath": "pets/codex-pet/doodlebob/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.374Z"
+}

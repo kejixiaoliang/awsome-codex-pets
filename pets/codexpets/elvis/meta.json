@@ -1,0 +1,35 @@
+{
+  "id": "elvis",
+  "name": "Elvis",
+  "sourceId": "codexpets",
+  "sourceUrl": "https://codexpets.org/pets/elvis",
+  "description": "",
+  "urls": {
+    "petJson": "https://codexpets.org/pets/elvis/pet.json",
+    "spritesheet": "https://codexpets.org/pets/elvis/spritesheet.webp",
+    "package": "https://codexpets.org/pets/elvis/elvis-codex-pet.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://codexpets.org/pets/elvis/pet.json",
+      "bytes": 198,
+      "sha256": "b91788fe50de780a5ff5c6cc424d69e5bbc97a78a3259fc43c5fe633b6e89f91"
+    },
+    "spritesheet": {
+      "url": "https://codexpets.org/pets/elvis/spritesheet.webp",
+      "bytes": 1848484,
+      "sha256": "1610b3a2a2eac2e91fc950e03a96600ce236c83ef53d3c95d2a8d8cc8e073931"
+    },
+    "package": {
+      "url": "https://codexpets.org/pets/elvis/elvis-codex-pet.zip",
+      "bytes": 1849388,
+      "sha256": "bc82a2e8c5a9772eca49b95c56e99fcdab186339012489612c629f1b063058f2"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codexpets/elvis/elvis.zip",
+  "petJsonPath": "pets/codexpets/elvis/pet.json",
+  "spritesheetPath": "pets/codexpets/elvis/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.987Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "foxcloud",
+  "name": "Foxcloud",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/foxcloud",
+  "description": "",
+  "generatedManifest": {
+    "id": "foxcloud",
+    "displayName": "Foxcloud",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/foxcloud/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/foxcloud"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "254e90b3a0d8ac4cef8c36e985f0a369778e8a1c700b6e3bb0920b4fa1fcf93c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/foxcloud/spritesheet.webp",
+      "bytes": 1466390,
+      "sha256": "dc1d3f20c53089ebaa120b98c29cc94a70f96c0db669002935948643c271f66e"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/foxcloud",
+      "bytes": 1466946,
+      "sha256": "cf85c85087d09516dfd445c65c729cf291d61495dde1fa26ca81ebef0ad343af"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/foxcloud/foxcloud.zip",
+  "petJsonPath": "pets/codex-pet/foxcloud/pet.json",
+  "spritesheetPath": "pets/codex-pet/foxcloud/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.879Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "gopher",
+  "name": "Gopher",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gopher",
+  "description": "",
+  "generatedManifest": {
+    "id": "gopher",
+    "displayName": "Gopher",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gopher/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gopher"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "e3345790c2943beeed15208271596f42c4be0a71c1185f7bae0536bcf8c02c3f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gopher/spritesheet.webp",
+      "bytes": 1741750,
+      "sha256": "326e05d82758771f53f84851bf4e4a73fca9b3477575569e3f1860edb14b3ec1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gopher",
+      "bytes": 1742361,
+      "sha256": "692e3695ebe501a07102b4c7187fe8f41beb6a771a18249e0807c56de9f141e4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gopher/gopher.zip",
+  "petJsonPath": "pets/codex-pet/gopher/pet.json",
+  "spritesheetPath": "pets/codex-pet/gopher/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.189Z"
+}

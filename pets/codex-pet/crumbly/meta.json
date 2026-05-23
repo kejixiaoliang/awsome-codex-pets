@@ -1,0 +1,39 @@
+{
+  "id": "crumbly",
+  "name": "Crumbly",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/crumbly",
+  "description": "",
+  "generatedManifest": {
+    "id": "crumbly",
+    "displayName": "Crumbly",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/crumbly/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/crumbly"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "9723a80304d05491044863163d32bf17fc280de4591bf0fc2250990d362537d1"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/crumbly/spritesheet.webp",
+      "bytes": 2267674,
+      "sha256": "9d02925165bae8941dfbbaf788cd743fae08182bf3e02e1f90bb8bb380f369fa"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/crumbly",
+      "bytes": 2268428,
+      "sha256": "62017607f47427371102c2c343c3e64969575ecea0d006cc3af6707165878573"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/crumbly/crumbly.zip",
+  "petJsonPath": "pets/codex-pet/crumbly/pet.json",
+  "spritesheetPath": "pets/codex-pet/crumbly/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.930Z"
+}

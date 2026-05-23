@@ -1,0 +1,39 @@
+{
+  "id": "discopuff",
+  "name": "Discopuff",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/discopuff",
+  "description": "",
+  "generatedManifest": {
+    "id": "discopuff",
+    "displayName": "Discopuff",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/discopuff/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/discopuff"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d4189cd678dd08126edc9d99b9401d5047e149e27340207e4c1c325af19d4060"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/discopuff/spritesheet.webp",
+      "bytes": 1832790,
+      "sha256": "74c7195b99a2782515115290069fe42e9bbee9b2d3a984f759955a0558bfd650"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/discopuff",
+      "bytes": 1833380,
+      "sha256": "3f34db98dc2c401bb36148940102f769a3f938fe01a0678780242b5bb461deb1"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/discopuff/discopuff.zip",
+  "petJsonPath": "pets/codex-pet/discopuff/pet.json",
+  "spritesheetPath": "pets/codex-pet/discopuff/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.300Z"
+}

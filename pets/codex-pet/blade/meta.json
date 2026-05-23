@@ -1,0 +1,39 @@
+{
+  "id": "blade",
+  "name": "Blade",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/blade",
+  "description": "",
+  "generatedManifest": {
+    "id": "blade",
+    "displayName": "Blade",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/blade/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/blade"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "270f3e60199ad8139a8f7c1fee4c7f073dd4713ed896adc1853c5a3c766667d7"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/blade/spritesheet.webp",
+      "bytes": 2496526,
+      "sha256": "c736c9f0d5eace3d39948832c3854b02da4152dc1c8a14dd833a76e757263ff7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/blade",
+      "bytes": 2497335,
+      "sha256": "f07d22f57782df56f1359b9eb9b3ed2235cd183fdebf68ca505ce2ede87a7ecb"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/blade/blade.zip",
+  "petJsonPath": "pets/codex-pet/blade/pet.json",
+  "spritesheetPath": "pets/codex-pet/blade/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.811Z"
+}

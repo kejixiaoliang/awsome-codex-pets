@@ -1,0 +1,39 @@
+{
+  "id": "chef",
+  "name": "Chef",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/chef",
+  "description": "",
+  "generatedManifest": {
+    "id": "chef",
+    "displayName": "Chef",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/chef/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/chef"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a516ef0fe5ef75a33b8948bc8d801267a6bf7520e1ab33bcd9eed814a230cb6c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/chef/spritesheet.webp",
+      "bytes": 1881040,
+      "sha256": "4fdd787e8c74a0cfaa8077d3d14676a67cc7e98d00d9b0dbc3ce5bc8f8c1c3fb"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/chef",
+      "bytes": 1881664,
+      "sha256": "92b05d62eef216d38a5279312da52429bc0351f7986266f573150abb19d845fd"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/chef/chef.zip",
+  "petJsonPath": "pets/codex-pet/chef/pet.json",
+  "spritesheetPath": "pets/codex-pet/chef/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.300Z"
+}

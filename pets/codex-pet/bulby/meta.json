@@ -1,0 +1,39 @@
+{
+  "id": "bulby",
+  "name": "Bulby",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bulby",
+  "description": "",
+  "generatedManifest": {
+    "id": "bulby",
+    "displayName": "Bulby",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bulby/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bulby"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7d7f489ca6dff96a7076d32b72274cc719c446d29424ef582f122dc2f4ff4d33"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bulby/spritesheet.webp",
+      "bytes": 1614892,
+      "sha256": "c3bbce5d2696ffe9ecbde7e1ce3172adea42889d573cb5d03f7128fd5c9e723a"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bulby",
+      "bytes": 1611440,
+      "sha256": "70b2d7a454f99df0131c1bad2f9af3c7261a1b16a6f4824aeaf370cbe9df6d57"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bulby/bulby.zip",
+  "petJsonPath": "pets/codex-pet/bulby/pet.json",
+  "spritesheetPath": "pets/codex-pet/bulby/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.011Z"
+}

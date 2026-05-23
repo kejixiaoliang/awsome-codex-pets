@@ -1,0 +1,39 @@
+{
+  "id": "chompers",
+  "name": "Chompers",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/chompers",
+  "description": "",
+  "generatedManifest": {
+    "id": "chompers",
+    "displayName": "Chompers",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/chompers/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/chompers"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "59896aeade68db42c0c809138d883ed297cf06b2c1d8610b27bbce6f3e8ab915"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/chompers/spritesheet.webp",
+      "bytes": 1636988,
+      "sha256": "92aa6f800800414b1219b2c71b88d02be5b66f4dff5e69699db225f43e245eeb"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/chompers",
+      "bytes": 1637266,
+      "sha256": "d8251ef315b0fd47700b7d1b5834f2d56f7053548e1b0a03e992f29f65c7b464"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/chompers/chompers.zip",
+  "petJsonPath": "pets/codex-pet/chompers/pet.json",
+  "spritesheetPath": "pets/codex-pet/chompers/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.360Z"
+}

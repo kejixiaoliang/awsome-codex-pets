@@ -1,0 +1,39 @@
+{
+  "id": "exec",
+  "name": "Exec",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/exec",
+  "description": "",
+  "generatedManifest": {
+    "id": "exec",
+    "displayName": "Exec",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/exec/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/exec"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "84fd581a3ca05aad608999081ccf8f175b32dddde9dde60cbac4585977b0fa89"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/exec/spritesheet.webp",
+      "bytes": 1282856,
+      "sha256": "cbda315c7e18fe0adf7d81713df2c8da4052bec4ae858d141325d2618029cb63"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/exec",
+      "bytes": 1282986,
+      "sha256": "49b966d53b9fe4dc0bae5a8e0c4ac3e96535e2c84c449b3a4b8f4a8ebfbc3b21"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/exec/exec.zip",
+  "petJsonPath": "pets/codex-pet/exec/pet.json",
+  "spritesheetPath": "pets/codex-pet/exec/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.703Z"
+}

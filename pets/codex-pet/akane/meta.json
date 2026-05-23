@@ -1,0 +1,39 @@
+{
+  "id": "akane",
+  "name": "Akane",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/akane",
+  "description": "",
+  "generatedManifest": {
+    "id": "akane",
+    "displayName": "Akane",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/akane/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/akane"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "eaffe0ed65e2e61b8bdb413d58e0e10c6923f261894d3a2c3187ee2650045ea8"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/akane/spritesheet.webp",
+      "bytes": 2263284,
+      "sha256": "5bb5cbcc6343bd0bfd6333ad059c53e6fd26d5c1bfc1fb69b24596bc21c410dd"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/akane",
+      "bytes": 2259671,
+      "sha256": "1d0e0d5a404a3f2c237782faca65faba1059962e2a86ffc1c3ecb41d06ebe2f3"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/akane/akane.zip",
+  "petJsonPath": "pets/codex-pet/akane/pet.json",
+  "spritesheetPath": "pets/codex-pet/akane/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.407Z"
+}

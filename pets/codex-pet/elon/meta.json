@@ -1,0 +1,39 @@
+{
+  "id": "elon",
+  "name": "Elon",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/elon",
+  "description": "",
+  "generatedManifest": {
+    "id": "elon",
+    "displayName": "Elon",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/elon/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/elon"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1137bc94f78274b84012519566be5779e0a4942b799bf840954adc66863029ea"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/elon/spritesheet.webp",
+      "bytes": 1750322,
+      "sha256": "560a270d60b01c6cfa85fdb89470fb8fa4ab7a270f4a9b79790f62c05b686c9d"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/elon",
+      "bytes": 1750971,
+      "sha256": "b76b21d172f5e3680238348c3350c2f9b15cfe33a42d7f188aa8e1509dc8cc0e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/elon/elon.zip",
+  "petJsonPath": "pets/codex-pet/elon/pet.json",
+  "spritesheetPath": "pets/codex-pet/elon/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.624Z"
+}

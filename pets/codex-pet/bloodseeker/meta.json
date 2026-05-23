@@ -1,0 +1,39 @@
+{
+  "id": "bloodseeker",
+  "name": "Bloodseeker",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bloodseeker",
+  "description": "",
+  "generatedManifest": {
+    "id": "bloodseeker",
+    "displayName": "Bloodseeker",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bloodseeker/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bloodseeker"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1810d7c58b9a292f23a433c0386ff76780646879fd09759f9bc693e9172d8b61"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bloodseeker/spritesheet.webp",
+      "bytes": 2758592,
+      "sha256": "9d4e1ccd175a2ecf40a8eadb76ccef5ece3e45a372c1d0970ed05e44a61ae0f3"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bloodseeker",
+      "bytes": 2758031,
+      "sha256": "096f05f719e295ad23f84648b9348269b6108ccd27525ecad5039cca94bc571c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bloodseeker/bloodseeker.zip",
+  "petJsonPath": "pets/codex-pet/bloodseeker/pet.json",
+  "spritesheetPath": "pets/codex-pet/bloodseeker/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.839Z"
+}

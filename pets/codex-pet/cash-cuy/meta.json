@@ -1,0 +1,39 @@
+{
+  "id": "cash-cuy",
+  "name": "Cash Cuy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cash-cuy",
+  "description": "",
+  "generatedManifest": {
+    "id": "cash-cuy",
+    "displayName": "Cash Cuy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cash-cuy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cash-cuy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "136bf2d8e575dc22fa91e457cdfce8d4c4ce4e09b7e0c4704808077db8269714"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cash-cuy/spritesheet.webp",
+      "bytes": 2406382,
+      "sha256": "62508c8a2e901e2c8b5f369823d6633b59c9716382a01209fb7d6aa791fb466b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cash-cuy",
+      "bytes": 2407190,
+      "sha256": "c84ee30baf97f056d8d521836144972e1da019bcfc4473032f165ce1989f00ae"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cash-cuy/cash-cuy.zip",
+  "petJsonPath": "pets/codex-pet/cash-cuy/pet.json",
+  "spritesheetPath": "pets/codex-pet/cash-cuy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.228Z"
+}

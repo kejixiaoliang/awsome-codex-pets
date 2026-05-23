@@ -1,0 +1,39 @@
+{
+  "id": "chirayu",
+  "name": "Chirayu",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/chirayu",
+  "description": "",
+  "generatedManifest": {
+    "id": "chirayu",
+    "displayName": "Chirayu",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/chirayu/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/chirayu"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d087dd5fde5f73c08bb69432be330eefc9b4b8b1b4768aeca5b9f2397d9a4aa7"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/chirayu/spritesheet.webp",
+      "bytes": 1535168,
+      "sha256": "691cf2f5d6e637b69773903d75f1cdfddf93efb517d029d323f71bf11f8d3b09"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/chirayu",
+      "bytes": 1527990,
+      "sha256": "3baba551abf86fcf8c54ef61f8ab7606ad00288308dcf109e7b605e4001274a6"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/chirayu/chirayu.zip",
+  "petJsonPath": "pets/codex-pet/chirayu/pet.json",
+  "spritesheetPath": "pets/codex-pet/chirayu/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.346Z"
+}

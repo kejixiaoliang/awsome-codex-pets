@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-05-23T14:10:23.336Z",
+  "total": 276,
+  "promoted": 263,
+  "skipped": [
+    {
+      "sourceId": "codex-pet",
+      "id": "becky",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "bubu-2",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "bubu-3",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "capoo",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "carro-real",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "clawd",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "cortana-2",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "cow",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "crystal-maiden",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "fleta",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "gandalfclassy",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "golden-wyrmling",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    },
+    {
+      "sourceId": "codex-pet",
+      "id": "homie",
+      "skipped": true,
+      "reason": "missing pet.json or spritesheet"
+    }
+  ]
+}

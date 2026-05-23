@@ -1,0 +1,39 @@
+{
+  "id": "cuppy",
+  "name": "Cuppy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cuppy",
+  "description": "",
+  "generatedManifest": {
+    "id": "cuppy",
+    "displayName": "Cuppy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cuppy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cuppy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ecdd6e8436b33865ee1dc25ef7c977a4986cffa7e1270628d25a1f2a2c64dfdb"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cuppy/spritesheet.webp",
+      "bytes": 323968,
+      "sha256": "8a034ab34a069d968298010781e20b417df66cd63899fd75d4b53548c9fa6a82"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cuppy",
+      "bytes": 323985,
+      "sha256": "1592d0f191e1f750f354d2f4a81fa5ab056708188b3960785547bc96d11fcdcc"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cuppy/cuppy.zip",
+  "petJsonPath": "pets/codex-pet/cuppy/pet.json",
+  "spritesheetPath": "pets/codex-pet/cuppy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.951Z"
+}

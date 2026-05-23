@@ -1,0 +1,39 @@
+{
+  "id": "goku-blue",
+  "name": "Goku Blue",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/goku-blue",
+  "description": "",
+  "generatedManifest": {
+    "id": "goku-blue",
+    "displayName": "Goku Blue",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/goku-blue/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/goku-blue"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "8d93dfe08499458e6f16324f8fbe0a562d32f261bec26c96cc31bf892ee77ff9"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/goku-blue/spritesheet.webp",
+      "bytes": 2106678,
+      "sha256": "fd850c05c3f100d41064d599f53e5c82aea3f969551e614c94b80c64984ff77a"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/goku-blue",
+      "bytes": 2107431,
+      "sha256": "9184c390a90ec2efc8e0ed478807ee80fa2f89b2caa807f609d5650f126f56f1"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/goku-blue/goku-blue.zip",
+  "petJsonPath": "pets/codex-pet/goku-blue/pet.json",
+  "spritesheetPath": "pets/codex-pet/goku-blue/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.158Z"
+}

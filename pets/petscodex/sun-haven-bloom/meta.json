@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-bloom",
+  "name": "Bloom",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-bloom",
+  "description": "A cute Sun Haven-style Codex pet blooming with spring fairy charm.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-bloom"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-bloom/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-bloom/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-bloom.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-bloom/pet.json",
+      "bytes": 184,
+      "sha256": "9aa8c22c89d184b94b5f14b9588e8efd9b2058fd2f6842e626c39c143f16cbd8"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-bloom/spritesheet.webp",
+      "bytes": 1565152,
+      "sha256": "cdda2141d0f360d7170f96608639708d8dc5b93e4b617bdc405c40693d332974"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-bloom.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-bloom/sun-haven-bloom.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-bloom/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-bloom/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.153Z"
+}

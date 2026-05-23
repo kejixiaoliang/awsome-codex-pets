@@ -1,0 +1,39 @@
+{
+  "id": "fangjia",
+  "name": "Fangjia",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/fangjia",
+  "description": "",
+  "generatedManifest": {
+    "id": "fangjia",
+    "displayName": "Fangjia",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/fangjia/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/fangjia"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "982943ad88b460aef89eef63c2e7a4bd29bcfe0a73dad7503efc852aaf10fdac"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/fangjia/spritesheet.webp",
+      "bytes": 1475304,
+      "sha256": "a2e49028c43e04ea259ce74aa59ab67527794c0f2542ddbd516c6fdde2d5c2e2"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/fangjia",
+      "bytes": 1475856,
+      "sha256": "7963934dc40fb5945177f83b4d19f95ad8416b25a7206f40851dccf4171769f1"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/fangjia/fangjia.zip",
+  "petJsonPath": "pets/codex-pet/fangjia/pet.json",
+  "spritesheetPath": "pets/codex-pet/fangjia/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.729Z"
+}

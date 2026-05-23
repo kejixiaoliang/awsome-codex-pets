@@ -1,0 +1,39 @@
+{
+  "id": "cinnamonroll",
+  "name": "Cinnamonroll",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cinnamonroll",
+  "description": "",
+  "generatedManifest": {
+    "id": "cinnamonroll",
+    "displayName": "Cinnamonroll",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cinnamonroll/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cinnamonroll"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "af92054677f6e25bf6d1129d352b85bd05253057001ebc0233360a968a96a64f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cinnamonroll/spritesheet.webp",
+      "bytes": 562042,
+      "sha256": "63faba611039de521dafc6a731509b9b3b548c28458224f5fe623c211d65885e"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cinnamonroll",
+      "bytes": 562215,
+      "sha256": "8f4cbdc1642698c8cd2c68219fb8dd551b2e1a86fcf30498952f51a5a744083e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cinnamonroll/cinnamonroll.zip",
+  "petJsonPath": "pets/codex-pet/cinnamonroll/pet.json",
+  "spritesheetPath": "pets/codex-pet/cinnamonroll/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.435Z"
+}

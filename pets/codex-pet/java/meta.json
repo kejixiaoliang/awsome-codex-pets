@@ -1,0 +1,39 @@
+{
+  "id": "java",
+  "name": "Java",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/java",
+  "description": "",
+  "generatedManifest": {
+    "id": "java",
+    "displayName": "Java",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/java/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/java"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "29e0b39f6a5a1a35166292fd797b67a1eeb6acae2bdabd6b61bfa835a4b00ae2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/java/spritesheet.webp",
+      "bytes": 1008218,
+      "sha256": "59e291e625dc9a1c5575ef70ea43a1ff4122a85686a1cf2edbc96791b08e2ca7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/java",
+      "bytes": 1007959,
+      "sha256": "838fc967c298ea3993f0123837f3a7d2cab70807a9a3a35df223283df55ac4b2"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/java/java.zip",
+  "petJsonPath": "pets/codex-pet/java/pet.json",
+  "spritesheetPath": "pets/codex-pet/java/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.931Z"
+}

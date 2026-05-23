@@ -1,0 +1,39 @@
+{
+  "id": "bubu",
+  "name": "Bubu",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bubu",
+  "description": "",
+  "generatedManifest": {
+    "id": "bubu",
+    "displayName": "Bubu",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bubu/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bubu"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5fdf1d9955e5f2b11bea88f8c1ac734e6e0009e55c5d806e8a23e1e8b448bde2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bubu/spritesheet.webp",
+      "bytes": 1875482,
+      "sha256": "9af13c0b42d8f75d242fd334967a4ee70af71b29e69ff07e74cc1bf11c6dbf51"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bubu",
+      "bytes": 1876138,
+      "sha256": "50153aab66d9428b341dad1cb142aa158b69762e003a3322f30604c59845d71a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bubu/bubu.zip",
+  "petJsonPath": "pets/codex-pet/bubu/pet.json",
+  "spritesheetPath": "pets/codex-pet/bubu/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.968Z"
+}

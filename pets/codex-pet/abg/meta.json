@@ -1,0 +1,39 @@
+{
+  "id": "abg",
+  "name": "Abg",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/abg",
+  "description": "",
+  "generatedManifest": {
+    "id": "abg",
+    "displayName": "Abg",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/abg/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/abg"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7bd5d337636ab425ddc00bbcb89357bdc4d1667c0ac97ba14679c044363a55ca"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/abg/spritesheet.webp",
+      "bytes": 1671466,
+      "sha256": "aaf8a1320f4930d327578d20de29c8486ebaca05f4f9cdfdab94a647d6f1da97"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/abg",
+      "bytes": 1671712,
+      "sha256": "fb3c092f6edb67472a6691312484e0ed6e252d98604bc209a7de1bf9523e1e46"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/abg/abg.zip",
+  "petJsonPath": "pets/codex-pet/abg/pet.json",
+  "spritesheetPath": "pets/codex-pet/abg/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.238Z"
+}

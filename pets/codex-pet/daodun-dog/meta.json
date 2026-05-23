@@ -1,0 +1,39 @@
+{
+  "id": "daodun-dog",
+  "name": "Daodun Dog",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/daodun-dog",
+  "description": "",
+  "generatedManifest": {
+    "id": "daodun-dog",
+    "displayName": "Daodun Dog",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/daodun-dog/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/daodun-dog"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "edb9ce838d9644aedbef9a3a2b2b20b6d558d83de8c8095018db435dda1ab12e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/daodun-dog/spritesheet.webp",
+      "bytes": 1768850,
+      "sha256": "7bb94bde829c33dbe6205fdc03da3adf2d18b1f982a9e67747e13b7e272f93a7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/daodun-dog",
+      "bytes": 1767347,
+      "sha256": "64e204c138ec2a124444b93df25eb72e601c6ca387faa829038be4a1ff6a0a64"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/daodun-dog/daodun-dog.zip",
+  "petJsonPath": "pets/codex-pet/daodun-dog/pet.json",
+  "spritesheetPath": "pets/codex-pet/daodun-dog/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.124Z"
+}

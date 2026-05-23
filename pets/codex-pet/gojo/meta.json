@@ -1,0 +1,39 @@
+{
+  "id": "gojo",
+  "name": "Gojo",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gojo",
+  "description": "",
+  "generatedManifest": {
+    "id": "gojo",
+    "displayName": "Gojo",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gojo/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gojo"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "4ff9a38c840ac5bfe5aa7ca06969f838e3a6e37f6178d81a1a869203e432b8ed"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gojo/spritesheet.webp",
+      "bytes": 1529008,
+      "sha256": "d8343d1037285915581d5403b914ff9357549d2fad7f53bfd1073cec7fcf3935"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gojo",
+      "bytes": 1529612,
+      "sha256": "60d52f0f1175b71ef1e741a9f117bf35bfaf23a6f933df60f54455502d18ec04"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gojo/gojo.zip",
+  "petJsonPath": "pets/codex-pet/gojo/pet.json",
+  "spritesheetPath": "pets/codex-pet/gojo/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.144Z"
+}

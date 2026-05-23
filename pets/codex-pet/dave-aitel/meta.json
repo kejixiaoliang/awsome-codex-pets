@@ -1,0 +1,39 @@
+{
+  "id": "dave-aitel",
+  "name": "Dave Aitel",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dave-aitel",
+  "description": "",
+  "generatedManifest": {
+    "id": "dave-aitel",
+    "displayName": "Dave Aitel",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dave-aitel/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dave-aitel"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "743eb61a4cd2d87fd62adf3dd6522f9eecedd392d1994dfe2b63dbc8dd7cebbe"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dave-aitel/spritesheet.webp",
+      "bytes": 1675512,
+      "sha256": "570c1840b2f2271aa750db22001a1ee2bfb46cb893c1f45d4d3d44e8c777c656"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dave-aitel",
+      "bytes": 1676180,
+      "sha256": "1fc3edb80689f00087a337da8217a907cd04f50c1a4abb12283e3a0e256ea55c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dave-aitel/dave-aitel.zip",
+  "petJsonPath": "pets/codex-pet/dave-aitel/pet.json",
+  "spritesheetPath": "pets/codex-pet/dave-aitel/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.138Z"
+}

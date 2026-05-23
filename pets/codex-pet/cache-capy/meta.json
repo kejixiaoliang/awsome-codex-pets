@@ -1,0 +1,39 @@
+{
+  "id": "cache-capy",
+  "name": "Cache Capy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cache-capy",
+  "description": "",
+  "generatedManifest": {
+    "id": "cache-capy",
+    "displayName": "Cache Capy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cache-capy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cache-capy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ac51e5f75df72b48761b18887c218530ee499ddf91437442e3c1b592172f4bac"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cache-capy/spritesheet.webp",
+      "bytes": 1823070,
+      "sha256": "2447997a9341402c8a62af2bf778ed237661d180bbc9bbe019e7f2f5879ae4e7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cache-capy",
+      "bytes": 1823653,
+      "sha256": "ea006a4cb5b37e236ac9f654a378d147b9a35a5c3776c6e6b9ef20381bc0218f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cache-capy/cache-capy.zip",
+  "petJsonPath": "pets/codex-pet/cache-capy/pet.json",
+  "spritesheetPath": "pets/codex-pet/cache-capy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.067Z"
+}

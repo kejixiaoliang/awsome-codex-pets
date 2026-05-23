@@ -1,0 +1,39 @@
+{
+  "id": "fangbyte",
+  "name": "Fangbyte",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/fangbyte",
+  "description": "",
+  "generatedManifest": {
+    "id": "fangbyte",
+    "displayName": "Fangbyte",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/fangbyte/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/fangbyte"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "15ccf86acc604c1acec4a21bcac17a98e4ac5a10ca97d9d95acea176694eb46e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/fangbyte/spritesheet.webp",
+      "bytes": 2133710,
+      "sha256": "c04e9deef6b8c26bc414357eea136f484b0816723bcd9a18e61af8b044c62bb2"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/fangbyte",
+      "bytes": 2130550,
+      "sha256": "dfe4b6642560157291db34981fcb5dbf1689f497d537cd67ba3c5fe25691f3bd"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/fangbyte/fangbyte.zip",
+  "petJsonPath": "pets/codex-pet/fangbyte/pet.json",
+  "spritesheetPath": "pets/codex-pet/fangbyte/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.716Z"
+}

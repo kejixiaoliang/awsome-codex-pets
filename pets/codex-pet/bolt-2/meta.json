@@ -1,0 +1,39 @@
+{
+  "id": "bolt-2",
+  "name": "Bolt 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bolt-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "bolt-2",
+    "displayName": "Bolt 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bolt-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bolt-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "baf763ca0b6da8eea39f276dd23f20476d7c8fba6ae38b9bd3b3ecad24924c4d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bolt-2/spritesheet.webp",
+      "bytes": 2134318,
+      "sha256": "9f5ce4b0076efca09f1e755cfccffc2ca5f4af6d8448ff8586b650988b7362dd"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bolt-2",
+      "bytes": 2130274,
+      "sha256": "200edf82bc67d912253deebfdebac49a1fe741e0f6102cf3b495d4bc4634e824"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bolt-2/bolt-2.zip",
+  "petJsonPath": "pets/codex-pet/bolt-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/bolt-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.898Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cool-clippy",
+  "name": "Cool Clippy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cool-clippy",
+  "description": "",
+  "generatedManifest": {
+    "id": "cool-clippy",
+    "displayName": "Cool Clippy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cool-clippy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cool-clippy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "55797b6d9448882d36285bcde1105a80408f8318619d5bd93ae2e42dc0a66c69"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cool-clippy/spritesheet.webp",
+      "bytes": 1626396,
+      "sha256": "abd5102f1df73acc5ac7bb923f6c50720314dbb45b9ba399da19b512172480c9"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cool-clippy",
+      "bytes": 1627059,
+      "sha256": "01a251febe8b1f45edd453f3a1adb59c25e2e1d4a3616da57e41481d83b6aeaa"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cool-clippy/cool-clippy.zip",
+  "petJsonPath": "pets/codex-pet/cool-clippy/pet.json",
+  "spritesheetPath": "pets/codex-pet/cool-clippy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.754Z"
+}

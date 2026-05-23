@@ -1,0 +1,39 @@
+{
+  "id": "dobby-2",
+  "name": "Dobby 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dobby-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "dobby-2",
+    "displayName": "Dobby 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dobby-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dobby-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "6032e4c92b94655e6768328494f095f7c97f713aecc73f7ac67b25e211325e79"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dobby-2/spritesheet.webp",
+      "bytes": 2115338,
+      "sha256": "26e20d687f6174b3bead841a28d2093ac0af639bd9bd27dca7a483c29028b775"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dobby-2",
+      "bytes": 2116047,
+      "sha256": "5ac6312b917286988dacf5d8a2695ac874c3be9a069c9fdc451f0c1b4bfd23c3"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dobby-2/dobby-2.zip",
+  "petJsonPath": "pets/codex-pet/dobby-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/dobby-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.346Z"
+}

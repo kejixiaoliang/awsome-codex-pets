@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-vivi",
+  "name": "Vivi",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-vivi",
+  "description": "A spunky squirrel bounty hunter Sun Haven-style Codex pet with nimble dagger poses.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-vivi"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-vivi/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-vivi/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-vivi.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-vivi/pet.json",
+      "bytes": 199,
+      "sha256": "cebc3e3042a7bcdad5ba832220fd8f81212fd73adc10844edb22f65781b506ec"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-vivi/spritesheet.webp",
+      "bytes": 1982926,
+      "sha256": "45f92387072dac4c54825cd2197789494767e5dbee776df045fd39dfc6681b97"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-vivi.zip",
+      "bytes": 311883,
+      "sha256": "39ec797f8b97cc123d688f8135ddc7194b5276df397674b7aebac18f94722019"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-vivi/sun-haven-vivi.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-vivi/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-vivi/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.232Z"
+}

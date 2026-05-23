@@ -1,0 +1,39 @@
+{
+  "id": "asterix",
+  "name": "Asterix",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/asterix",
+  "description": "",
+  "generatedManifest": {
+    "id": "asterix",
+    "displayName": "Asterix",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/asterix/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/asterix"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5298449f008c7a4b009c3bc381484830592e1cb0f80c24b89a5867f4e29a979e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/asterix/spritesheet.webp",
+      "bytes": 1972048,
+      "sha256": "1fe29abaecd56380d886c511d8e10e60077f7388987523c9900381cf5dfc4394"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/asterix",
+      "bytes": 1972757,
+      "sha256": "9a96843d44ca9fbcdcb2dd735475785608d8bd02aeea045f0761366bccfa9c80"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/asterix/asterix.zip",
+  "petJsonPath": "pets/codex-pet/asterix/pet.json",
+  "spritesheetPath": "pets/codex-pet/asterix/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.572Z"
+}

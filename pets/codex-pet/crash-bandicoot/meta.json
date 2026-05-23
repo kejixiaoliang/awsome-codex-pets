@@ -1,0 +1,39 @@
+{
+  "id": "crash-bandicoot",
+  "name": "Crash Bandicoot",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/crash-bandicoot",
+  "description": "",
+  "generatedManifest": {
+    "id": "crash-bandicoot",
+    "displayName": "Crash Bandicoot",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/crash-bandicoot/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/crash-bandicoot"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7b7b4b523f64d2ce9bb30f839e5125e0121754598c4a6cd47b37ba8cf53eb7b1"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/crash-bandicoot/spritesheet.webp",
+      "bytes": 2165252,
+      "sha256": "9a92b29c5ee23fc6ba895bb821e24e63670a8ab2e12dbacadc89133d6ee27fd8"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/crash-bandicoot",
+      "bytes": 2165403,
+      "sha256": "c9159314e2c209475e265f3fde52e9330e5959f1604ff765dcc3378d1dcccb94"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/crash-bandicoot/crash-bandicoot.zip",
+  "petJsonPath": "pets/codex-pet/crash-bandicoot/pet.json",
+  "spritesheetPath": "pets/codex-pet/crash-bandicoot/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.841Z"
+}

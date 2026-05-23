@@ -1,0 +1,39 @@
+{
+  "id": "elyndex",
+  "name": "Elyndex",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/elyndex",
+  "description": "",
+  "generatedManifest": {
+    "id": "elyndex",
+    "displayName": "Elyndex",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/elyndex/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/elyndex"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c3f27988f86f90fcafee85e917010be9a97e923815fbba699630b334641cd7c9"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/elyndex/spritesheet.webp",
+      "bytes": 1779990,
+      "sha256": "933beb7419712dfe4d6e36ad4218385b99bf72cd4da0653f88e48393ecba1d32"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/elyndex",
+      "bytes": 1780660,
+      "sha256": "535ecec843b6d37031b5eddabfa9e50d2ec910373e5849baba2893dd8ad8df03"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/elyndex/elyndex.zip",
+  "petJsonPath": "pets/codex-pet/elyndex/pet.json",
+  "spritesheetPath": "pets/codex-pet/elyndex/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.638Z"
+}

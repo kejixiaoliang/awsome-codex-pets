@@ -1,0 +1,39 @@
+{
+  "id": "crab-buddy",
+  "name": "Crab Buddy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/crab-buddy",
+  "description": "",
+  "generatedManifest": {
+    "id": "crab-buddy",
+    "displayName": "Crab Buddy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/crab-buddy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/crab-buddy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "cf76893c6b271e94e95376b92e111a21f6ea0ebff8754ebf340f37992fb8c2a4"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/crab-buddy/spritesheet.webp",
+      "bytes": 329012,
+      "sha256": "b3d5ca527862406d7832e1d90e4cab172a47108166412e66ddc3580b1b3ac3fe"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/crab-buddy",
+      "bytes": 327147,
+      "sha256": "b38f58b5232a82b71f4870d3fb4333c2a4fe8dfc1cbbc1bd09d883e8fe34208f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/crab-buddy/crab-buddy.zip",
+  "petJsonPath": "pets/codex-pet/crab-buddy/pet.json",
+  "spritesheetPath": "pets/codex-pet/crab-buddy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.823Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "graycraft7",
+  "name": "Graycraft7",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/graycraft7",
+  "description": "",
+  "generatedManifest": {
+    "id": "graycraft7",
+    "displayName": "Graycraft7",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/graycraft7/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/graycraft7"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "6632f5a342372ac35359a235f0b9134717c997ffd18cf76ad27c774245137c73"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/graycraft7/spritesheet.webp",
+      "bytes": 2305360,
+      "sha256": "e3f8772f4502b8b5391917222b1abe7bd338f8f9f40461bdbed9476b7ac00a59"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/graycraft7",
+      "bytes": 2306172,
+      "sha256": "457e0971595af36feb392e9b2cd7152895669b1ee6ce02aa55416002bb5d854a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/graycraft7/graycraft7.zip",
+  "petJsonPath": "pets/codex-pet/graycraft7/pet.json",
+  "spritesheetPath": "pets/codex-pet/graycraft7/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.287Z"
+}

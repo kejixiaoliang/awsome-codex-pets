@@ -1,0 +1,39 @@
+{
+  "id": "frieren-4",
+  "name": "Frieren 4",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/frieren-4",
+  "description": "",
+  "generatedManifest": {
+    "id": "frieren-4",
+    "displayName": "Frieren 4",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/frieren-4/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/frieren-4"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "96d0797529a70992e81e237697c0ead88470421f3d8dcda8bd6537f04ab65f79"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/frieren-4/spritesheet.webp",
+      "bytes": 2654512,
+      "sha256": "68df14a367b8b6c68c0019b946d95d66804d8dd11e9ecb3189e20f8b49fa5afd"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/frieren-4",
+      "bytes": 2655373,
+      "sha256": "404c938e25350cf303c7f108245574036c67714570a46f29e7c3d195b29a7a12"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/frieren-4/frieren-4.zip",
+  "petJsonPath": "pets/codex-pet/frieren-4/pet.json",
+  "spritesheetPath": "pets/codex-pet/frieren-4/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.938Z"
+}

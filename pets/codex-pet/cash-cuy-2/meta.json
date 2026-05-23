@@ -1,0 +1,39 @@
+{
+  "id": "cash-cuy-2",
+  "name": "Cash Cuy 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cash-cuy-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "cash-cuy-2",
+    "displayName": "Cash Cuy 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cash-cuy-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cash-cuy-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "746642cef282ff84fa5534b350659329cd93cc86c2f83cca31b56d9b4c5d92d6"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cash-cuy-2/spritesheet.webp",
+      "bytes": 2406382,
+      "sha256": "62508c8a2e901e2c8b5f369823d6633b59c9716382a01209fb7d6aa791fb466b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cash-cuy-2",
+      "bytes": 2407202,
+      "sha256": "d4afe41619082641e08cb6481f6b804ef262a7d13f69b0a1e625791fd43141b5"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cash-cuy-2/cash-cuy-2.zip",
+  "petJsonPath": "pets/codex-pet/cash-cuy-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/cash-cuy-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.245Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tilly",
+  "name": "Tilly",
+  "sourceId": "codexpets",
+  "sourceUrl": "https://codexpets.org/pets/tilly",
+  "description": "",
+  "urls": {
+    "petJson": "https://codexpets.org/pets/tilly/pet.json",
+    "spritesheet": "https://codexpets.org/pets/tilly/spritesheet.webp",
+    "package": "https://codexpets.org/pets/tilly/tilly-codex-pet.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://codexpets.org/pets/tilly/pet.json",
+      "bytes": 254,
+      "sha256": "578af7cc15b4656d57457d7a4f87c27bb27d9a130caeba8953cf093224adc0b4"
+    },
+    "spritesheet": {
+      "url": "https://codexpets.org/pets/tilly/spritesheet.webp",
+      "bytes": 2269180,
+      "sha256": "f83a17def0c4d14d38aafea0fbea2760fa30876b632cc5d04fcbfe9e01560e44"
+    },
+    "package": {
+      "url": "https://codexpets.org/pets/tilly/tilly-codex-pet.zip",
+      "bytes": 2270248,
+      "sha256": "ee78d725d79af67dc6a00080dcd4bc232bc4bfb319e3ab37a2282125d4b6e884"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codexpets/tilly/tilly.zip",
+  "petJsonPath": "pets/codexpets/tilly/pet.json",
+  "spritesheetPath": "pets/codexpets/tilly/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.020Z"
+}

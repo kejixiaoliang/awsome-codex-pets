@@ -1,0 +1,39 @@
+{
+  "id": "gutsy",
+  "name": "Gutsy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gutsy",
+  "description": "",
+  "generatedManifest": {
+    "id": "gutsy",
+    "displayName": "Gutsy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gutsy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gutsy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "132ce4ad12522393ecbc434d2d1090bfd2efae59af2a2e857bc6ab677a64325f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gutsy/spritesheet.webp",
+      "bytes": 2482472,
+      "sha256": "bb47b2a6be9cd188a8c7753d95b180a07a9e77dd731f5d0d660e42cd57ba3c71"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gutsy",
+      "bytes": 2478983,
+      "sha256": "6a480627cfc390cdee0266f9976f64b33978592a3eeb6999177c255c1ababdc5"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gutsy/gutsy.zip",
+  "petJsonPath": "pets/codex-pet/gutsy/pet.json",
+  "spritesheetPath": "pets/codex-pet/gutsy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.375Z"
+}

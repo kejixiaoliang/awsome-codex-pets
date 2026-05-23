@@ -1,0 +1,39 @@
+{
+  "id": "eminem-brisk",
+  "name": "Eminem Brisk",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/eminem-brisk",
+  "description": "",
+  "generatedManifest": {
+    "id": "eminem-brisk",
+    "displayName": "Eminem Brisk",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/eminem-brisk/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/eminem-brisk"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "6504508ac99aafa5d76ca3c3d7b0f0d9bcef8e8e35fc2909ac88a8b690aa1173"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/eminem-brisk/spritesheet.webp",
+      "bytes": 1917682,
+      "sha256": "8c0b90270a30699a28ba9f25a31e8c03b734c545df94fa0f705b009a7d9a691f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/eminem-brisk",
+      "bytes": 1916666,
+      "sha256": "bfaa306f3f4aff20de055f56a656613f37d61612dcab6ab1f5adad575c313ff7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/eminem-brisk/eminem-brisk.zip",
+  "petJsonPath": "pets/codex-pet/eminem-brisk/pet.json",
+  "spritesheetPath": "pets/codex-pet/eminem-brisk/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.650Z"
+}

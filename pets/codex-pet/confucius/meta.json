@@ -1,0 +1,39 @@
+{
+  "id": "confucius",
+  "name": "Confucius",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/confucius",
+  "description": "",
+  "generatedManifest": {
+    "id": "confucius",
+    "displayName": "Confucius",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/confucius/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/confucius"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b5282806fd8c6ee63d7d85924734dfae5bf7045e79734e84ebee9f876cff2618"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/confucius/spritesheet.webp",
+      "bytes": 1840616,
+      "sha256": "54d401e0f137e63eb3952e9a8f6f0f680d6aa4ef74744d7c10ff80ac8f15717a"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/confucius",
+      "bytes": 1838069,
+      "sha256": "48d434c2fb0d71a6ea31ce1cabc67fcf70064362912b7602552fed4222c5932a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/confucius/confucius.zip",
+  "petJsonPath": "pets/codex-pet/confucius/pet.json",
+  "spritesheetPath": "pets/codex-pet/confucius/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.721Z"
+}

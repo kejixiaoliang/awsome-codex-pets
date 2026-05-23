@@ -1,0 +1,39 @@
+{
+  "id": "daxter",
+  "name": "Daxter",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/daxter",
+  "description": "",
+  "generatedManifest": {
+    "id": "daxter",
+    "displayName": "Daxter",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/daxter/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/daxter"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "40c67b9cfc21920a86b1717b9ac0bd2a9b3c039eaf30bf339055d501467e47bc"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/daxter/spritesheet.webp",
+      "bytes": 2276418,
+      "sha256": "6db474c178259a1538bf9b1ca77272cdce4c18c21082c8960b481fc9a3741eca"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/daxter",
+      "bytes": 2277187,
+      "sha256": "d56bfde2eb3e3402942313d92e9cca59124aa62c98f1d8c96840a78c5f54fa27"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/daxter/daxter.zip",
+  "petJsonPath": "pets/codex-pet/daxter/pet.json",
+  "spritesheetPath": "pets/codex-pet/daxter/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.154Z"
+}

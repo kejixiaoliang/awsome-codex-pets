@@ -1,0 +1,39 @@
+{
+  "id": "denissexy-itier",
+  "name": "Denissexy Itier",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/denissexy-itier",
+  "description": "",
+  "generatedManifest": {
+    "id": "denissexy-itier",
+    "displayName": "Denissexy Itier",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/denissexy-itier/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/denissexy-itier"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c2990991a0e5a366c8a42407e9ae469e476c046d87677e0b703f787a8e29c820"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/denissexy-itier/spritesheet.webp",
+      "bytes": 1943576,
+      "sha256": "c2bb84ed9efe88c7e60fb107abcf59c6d114e848f71ee6c14fe1467396e13b26"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/denissexy-itier",
+      "bytes": 1944292,
+      "sha256": "47e7f13a0141d7eef7185804ad2ede175fd9f641b2e8f9e68eb6cf64f7d6888d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/denissexy-itier/denissexy-itier.zip",
+  "petJsonPath": "pets/codex-pet/denissexy-itier/pet.json",
+  "spritesheetPath": "pets/codex-pet/denissexy-itier/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.192Z"
+}

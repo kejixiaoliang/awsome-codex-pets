@@ -1,0 +1,39 @@
+{
+  "id": "hannah-montana",
+  "name": "Hannah Montana",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hannah-montana",
+  "description": "",
+  "generatedManifest": {
+    "id": "hannah-montana",
+    "displayName": "Hannah Montana",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hannah-montana/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hannah-montana"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "19b2bae5754da9874f4cb9ece82dec741577af70791cbb4beda68131ad824ec2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hannah-montana/spritesheet.webp",
+      "bytes": 2182126,
+      "sha256": "a20183402ecbaca01e44d1a31e5726830e341da80f5eecb7509eab488c9306ae"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hannah-montana",
+      "bytes": 2181365,
+      "sha256": "5c34e5df428067c526dedb1699b3c7e796cbee0cd1d52484ba98a653edf40b6e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hannah-montana/hannah-montana.zip",
+  "petJsonPath": "pets/codex-pet/hannah-montana/pet.json",
+  "spritesheetPath": "pets/codex-pet/hannah-montana/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.579Z"
+}

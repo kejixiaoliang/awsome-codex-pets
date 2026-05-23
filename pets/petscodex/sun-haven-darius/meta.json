@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-darius",
+  "name": "Darius",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-darius",
+  "description": "A cocky demon-prince Sun Haven-style Codex pet with regal party energy.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-darius"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-darius/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-darius/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-darius.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-darius/pet.json",
+      "bytes": 191,
+      "sha256": "1d844f168b4714733edb03c73edfb1e8303deacce09ef484a22e836fc70b8626"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-darius/spritesheet.webp",
+      "bytes": 2587580,
+      "sha256": "e06c0fe8c4463b2d2a783305023475829da4cf44ee44e7e1e5677c6691a235fc"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-darius.zip",
+      "bytes": 311883,
+      "sha256": "79105220d69cef729f13795ebc849c60ba8df9859a0702356e409a24d1038be8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-darius/sun-haven-darius.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-darius/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-darius/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.178Z"
+}

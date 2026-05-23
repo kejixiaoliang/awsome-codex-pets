@@ -1,0 +1,39 @@
+{
+  "id": "happy-cat",
+  "name": "Happy Cat",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/happy-cat",
+  "description": "",
+  "generatedManifest": {
+    "id": "happy-cat",
+    "displayName": "Happy Cat",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/happy-cat/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/happy-cat"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "8f3a575da43ee1d23427a27aa5e2d4dbea290efed2953e9f264580b7893c7d34"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/happy-cat/spritesheet.webp",
+      "bytes": 1197624,
+      "sha256": "c212a9a5208f206d2488572f401f4844c55f45c322252c7282304e84c246ce20"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/happy-cat",
+      "bytes": 1198182,
+      "sha256": "393345192df17d2d6a5bfcd78c22bcab68136685cd30d266e952a12ebbdba096"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/happy-cat/happy-cat.zip",
+  "petJsonPath": "pets/codex-pet/happy-cat/pet.json",
+  "spritesheetPath": "pets/codex-pet/happy-cat/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.646Z"
+}

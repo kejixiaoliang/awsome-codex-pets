@@ -1,0 +1,39 @@
+{
+  "id": "invincible-mark-2",
+  "name": "Invincible Mark 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/invincible-mark-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "invincible-mark-2",
+    "displayName": "Invincible Mark 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/invincible-mark-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/invincible-mark-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "89eb97413d9a1ba462f0ba4518ad8bbf93953a00e3e6c48da83ca725aaff1215"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/invincible-mark-2/spritesheet.webp",
+      "bytes": 1713834,
+      "sha256": "08c5b35a9a941d213cc8dd273e80dd14e7842b32edeaab8b8220f61a58d0d4c2"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/invincible-mark-2",
+      "bytes": 1714541,
+      "sha256": "8529e1e6ac5baf22cf81c54e3825fe6e4f6c75a9dac8025a5a2edf036ed48921"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/invincible-mark-2/invincible-mark-2.zip",
+  "petJsonPath": "pets/codex-pet/invincible-mark-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/invincible-mark-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.851Z"
+}

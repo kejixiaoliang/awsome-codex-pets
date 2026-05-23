@@ -1,0 +1,41 @@
+{
+  "id": "musk",
+  "name": "Musk",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/musk",
+  "description": "A cute chibi anime Elon Musk-style Codex pet.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "musk"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/musk/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/musk/spritesheet.webp",
+    "package": "https://petscodex.com/download/musk.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/musk/pet.json",
+      "bytes": 151,
+      "sha256": "5b31e43bfa2d084dc65fb6428a199f91b291a3165e863d5466a2da568640902e"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/musk/spritesheet.webp",
+      "bytes": 1216230,
+      "sha256": "679c1fdc2e834ca0dbdb176bb226555bf0d9728ab7b9d45f4772280fca162a52"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/musk.zip",
+      "bytes": 311883,
+      "sha256": "6b26cabee790c889fa3665872297617af9405f60456eaf9f1e623009cc1cfa5f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/musk/musk.zip",
+  "petJsonPath": "pets/petscodex/musk/pet.json",
+  "spritesheetPath": "pets/petscodex/musk/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.129Z"
+}

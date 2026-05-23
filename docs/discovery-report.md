@@ -1,0 +1,566 @@
+# Discovery Report
+
+Generated from local catalog data.
+
+## Summary
+
+| Metric | Count |
+| --- | --- |
+| Sources | 6 |
+| Discovery candidates | 6 |
+| Cataloged pets | 449 |
+
+## Source Review Queue
+
+| Source | Status | HTTP | Candidate links | Redistribution |
+| --- | --- | --- | --- | --- |
+| OpenPets | source-review | 200 | 14 | unknown |
+| Codex Pets | source-review | 200 | 7 | unknown |
+| CodingPets.dev | source-review | 200 | 3 | unknown |
+| CodexPetHub | source-review | 200 | 54 | unknown |
+| codex-pet.com | source-review | 200 | 400 | unknown |
+| Pets Codex | source-review | 200 | 17 | unknown |
+
+## OpenPets
+
+- URL: https://openpets.app/
+- Page title: OpenPets - Codex CLI Pet Gallery and Validator
+- Status: source-review
+- Redistribution: unknown
+
+- https://openpets.app/assets/pet-gallery-page-CtqypDKu.js
+- https://openpets.app/assets/seed-pets-a4VDklcO.js
+- https://openpets.app/assets/pet-manifest-DkcJ-Pqo.js
+- https://openpets.app/assets/IconDownload-D-dOTYuv.js
+- https://openpets.app/
+- https://openpets.app/pets
+- https://openpets.app/docs/codex-pets
+- https://openpets.app/pets/terminal-pup
+- https://openpets.app/pets/review-fox
+- https://openpets.app/pets/sprite-debugger
+- https://codex-pet.org/pets/signal/
+- https://codex-pet.org/pets/floaty/
+- https://codingpets.com/
+- https://www.codex-pet.com/
+
+## Codex Pets
+
+- URL: https://codexpets.org/
+- Page title: Codex Pets - Browse, preview, and add Codex pets
+- Status: source-review
+- Redistribution: unknown
+
+- https://codexpets.org/
+- https://codexpets.org/gallery
+- https://codexpets.org/install
+- https://codexpets.org/what-are-codex-pets
+- https://codexpets.org/pets/pixelcorn
+- https://codexpets.org/pets/elvis
+- https://codexpets.org/pets/tilly
+
+## CodingPets.dev
+
+- URL: https://www.codingpets.dev/
+- Page title: Codex Pet Generator - Create Custom OpenAI Codex Pets
+- Status: source-review
+- Redistribution: unknown
+
+- https://www.codingpets.dev/
+- https://www.codingpets.dev/gallery
+- mailto:support@codingpets.dev
+
+## CodexPetHub
+
+- URL: https://codexpethub.com/
+- Page title: CodexPetHub — Install Custom Codex Pets with Codex
+- Status: source-review
+- Redistribution: unknown
+
+- https://codexpethub.com/
+- https://codexpethub.com/pets
+- https://codexpethub.com/pets/random
+- https://codexpethub.com/pets/ren
+- https://codexpethub.com/pets/masayoshi-son
+- https://codexpethub.com/pets/cartman
+- https://codexpethub.com/pets/clippy-3
+- https://codexpethub.com/docs/install-with-codex
+- https://codexpethub.com/pets?kind=creature
+- https://codexpethub.com/pets?kind=character
+- https://codexpethub.com/pets?kind=object
+- https://codexpethub.com/pets?vibes=cozy
+- https://codexpethub.com/pets?vibes=playful
+- https://codexpethub.com/pets?vibes=sleek
+- https://codexpethub.com/pets?vibes=chaotic
+- https://codexpethub.com/pets?vibes=sleepy
+- https://codexpethub.com/pets?vibes=focused
+- https://codexpethub.com/pets?vibes=retro
+- https://codexpethub.com/pets?vibes=minimal
+- https://codexpethub.com/pets?vibes=void
+- https://codexpethub.com/pets?vibes=bright
+- https://codexpethub.com/pets?vibes=mythic
+- https://codexpethub.com/pets?vibes=rebel
+- https://codexpethub.com/pets/lulu-capybara-2
+- https://codexpethub.com/tags/codex-pet
+- https://codexpethub.com/prompts/install/lulu-capybara-2.txt
+- https://codexpethub.com/tags/petdex
+- https://codexpethub.com/prompts/install/cartman.txt
+- https://codexpethub.com/prompts/install/clippy-3.txt
+- https://codexpethub.com/pets/ayanami-rei
+- https://codexpethub.com/prompts/install/ayanami-rei.txt
+- https://codexpethub.com/pets/poncho-chick
+- https://codexpethub.com/prompts/install/poncho-chick.txt
+- https://codexpethub.com/pets/lulu-capybara
+- https://codexpethub.com/prompts/install/lulu-capybara.txt
+- https://codexpethub.com/pets/taffy
+- https://codexpethub.com/prompts/install/taffy.txt
+- https://codexpethub.com/pets/diana
+- https://codexpethub.com/prompts/install/diana.txt
+- https://codexpethub.com/pets?sort=newest
+- https://codexpethub.com/prompts/install/masayoshi-son.txt
+- https://codexpethub.com/prompts/install/ren.txt
+- https://codexpethub.com/pets/mute-mirror-plate
+- https://codexpethub.com/prompts/install/mute-mirror-plate.txt
+- https://codexpethub.com/pets/diode
+- https://codexpethub.com/prompts/install/diode.txt
+- https://codexpethub.com/pets/saber
+- https://codexpethub.com/prompts/install/saber.txt
+- https://codexpethub.com/pets/kunkundancing
+- https://codexpethub.com/prompts/install/kunkundancing.txt
+- https://codexpethub.com/pets/clorinde
+- https://codexpethub.com/prompts/install/clorinde.txt
+- https://codexpethub.com/pets/zenitsu-agatsuma
+- https://codexpethub.com/prompts/install/zenitsu-agatsuma.txt
+
+## codex-pet.com
+
+- URL: https://codex-pet.com/
+- Page title: codex-pet · animated pets for the Codex CLI
+- Status: source-review
+- Redistribution: unknown
+
+- https://codex-pet.com/assets/pet-card-BcY64RHo.js
+- https://codex-pet.com/pets/abg
+- https://codex-pet.com/pets/academicasi
+- https://codex-pet.com/pets/academicasi-2
+- https://codex-pet.com/pets/acidling
+- https://codex-pet.com/pets/ada-lovelace
+- https://codex-pet.com/pets/agumon
+- https://codex-pet.com/pets/airring
+- https://codex-pet.com/pets/aiso-feather
+- https://codex-pet.com/pets/aka-shiba
+- https://codex-pet.com/pets/akane
+- https://codex-pet.com/pets/aku
+- https://codex-pet.com/pets/alt-sweetheart
+- https://codex-pet.com/pets/anakaay-kegare
+- https://codex-pet.com/pets/anathema
+- https://codex-pet.com/pets/aoxiaotiger
+- https://codex-pet.com/pets/ape-escape
+- https://codex-pet.com/pets/apple-flex
+- https://codex-pet.com/pets/apu-apustaja
+- https://codex-pet.com/pets/apupepe
+- https://codex-pet.com/pets/aqua-wisp
+- https://codex-pet.com/pets/ark01
+- https://codex-pet.com/pets/asterix
+- https://codex-pet.com/pets/awawa-hyrax-2
+- https://codex-pet.com/pets/axel
+- https://codex-pet.com/pets/axobotl
+- https://codex-pet.com/pets/axobotl-2
+- https://codex-pet.com/pets/baby-milo
+- https://codex-pet.com/pets/bananboo
+- https://codex-pet.com/pets/banani
+- https://codex-pet.com/pets/bankr
+- https://codex-pet.com/pets/bao
+- https://codex-pet.com/pets/barry
+- https://codex-pet.com/pets/battle-beast
+- https://codex-pet.com/pets/becky
+- https://codex-pet.com/pets/bella
+- https://codex-pet.com/pets/bernie
+- https://codex-pet.com/pets/bipy
+- https://codex-pet.com/pets/bitboy
+- https://codex-pet.com/pets/black-dragon-pet
+- https://codex-pet.com/pets/blade
+- https://codex-pet.com/pets/blau
+- https://codex-pet.com/pets/bloodseeker
+- https://codex-pet.com/pets/boba
+- https://codex-pet.com/pets/boba-2
+- https://codex-pet.com/pets/bolt
+- https://codex-pet.com/pets/bolt-2
+- https://codex-pet.com/pets/bonzibuddy
+- https://codex-pet.com/pets/boolet
+- https://codex-pet.com/pets/boxcat
+- https://codex-pet.com/pets/bt-buddy
+- https://codex-pet.com/pets/bubu
+- https://codex-pet.com/pets/bubu-2
+- https://codex-pet.com/pets/bubu-3
+- https://codex-pet.com/pets/buddhist
+- https://codex-pet.com/pets/buff-patrick
+- https://codex-pet.com/pets/bulby
+- https://codex-pet.com/pets/bumblebee
+- https://codex-pet.com/pets/byte-bunny
+- https://codex-pet.com/pets/cabin-face
+- https://codex-pet.com/pets/cache-capy
+- https://codex-pet.com/pets/caesar
+- https://codex-pet.com/pets/caesar-2
+- https://codex-pet.com/pets/cajal
+- https://codex-pet.com/pets/calcifer
+- https://codex-pet.com/pets/calico
+- https://codex-pet.com/pets/cannibals
+- https://codex-pet.com/pets/cantor-sprig
+- https://codex-pet.com/pets/capoo
+- https://codex-pet.com/pets/capybaralulu
+- https://codex-pet.com/pets/carro-real
+- https://codex-pet.com/pets/carti
+- https://codex-pet.com/pets/cartman
+- https://codex-pet.com/pets/casey-cassette
+- https://codex-pet.com/pets/cash-cuy
+- https://codex-pet.com/pets/cash-cuy-2
+- https://codex-pet.com/pets/cerbie
+- https://codex-pet.com/pets/charles
+- https://codex-pet.com/pets/chef
+- https://codex-pet.com/pets/chiikawa
+- https://codex-pet.com/pets/chikny
+- https://codex-pet.com/pets/chillhouse
+- https://codex-pet.com/pets/chirayu
+- https://codex-pet.com/pets/chompers
+- https://codex-pet.com/pets/chonk
+- https://codex-pet.com/pets/cicada
+- https://codex-pet.com/pets/cicada-2
+- https://codex-pet.com/pets/cinder
+- https://codex-pet.com/pets/cinnamonroll
+- https://codex-pet.com/pets/clank
+- https://codex-pet.com/pets/claude-crab
+- https://codex-pet.com/pets/claw-crawler
+- https://codex-pet.com/pets/clawd
+- https://codex-pet.com/pets/clawd-2
+- https://codex-pet.com/pets/clawdex
+- https://codex-pet.com/pets/clippy
+- https://codex-pet.com/pets/clippy-3
+- https://codex-pet.com/pets/clippy-4
+- https://codex-pet.com/pets/clippy-5
+- https://codex-pet.com/pets/cloudlet
+- https://codex-pet.com/pets/cloudy
+- https://codex-pet.com/pets/codeberg
+- https://codex-pet.com/pets/codex
+- https://codex-pet.com/pets/codie
+- https://codex-pet.com/pets/cogwick
+- https://codex-pet.com/pets/columbinya-2
+- https://codex-pet.com/pets/commuai
+- https://codex-pet.com/pets/confucius
+- https://codex-pet.com/pets/consento-kun
+- https://codex-pet.com/pets/cool-clippy
+- https://codex-pet.com/pets/cortana
+- https://codex-pet.com/pets/cortana-2
+- https://codex-pet.com/pets/cosmo
+- https://codex-pet.com/pets/cow
+- https://codex-pet.com/pets/crab-buddy
+- https://codex-pet.com/pets/crash-bandicoot
+- https://codex-pet.com/pets/cream-cat
+- https://codex-pet.com/pets/crittersquest
+- https://codex-pet.com/pets/crt-pal
+- https://codex-pet.com/pets/crumbly
+- https://codex-pet.com/pets/crystal-maiden
+- https://codex-pet.com/pets/cuppy
+- https://codex-pet.com/pets/custard
+- https://codex-pet.com/pets/cyberholk
+- https://codex-pet.com/pets/da-zhuang
+- https://codex-pet.com/pets/da-zhuang-2
+- https://codex-pet.com/pets/daisy
+- https://codex-pet.com/pets/daltanyang
+- https://codex-pet.com/pets/daltanyang-charles-duo
+- https://codex-pet.com/pets/danny
+- https://codex-pet.com/pets/daodun
+- https://codex-pet.com/pets/daodun-dog
+- https://codex-pet.com/pets/dave-aitel
+- https://codex-pet.com/pets/daxter
+- https://codex-pet.com/pets/ddo-zvzo-2
+- https://codex-pet.com/pets/decky
+- https://codex-pet.com/pets/denissexy-itier
+- https://codex-pet.com/pets/dewsnail
+- https://codex-pet.com/pets/dex-star
+- https://codex-pet.com/pets/diamondhead
+- https://codex-pet.com/pets/digimon
+- https://codex-pet.com/pets/digimon-2
+- https://codex-pet.com/pets/ding-ding
+- https://codex-pet.com/pets/discopuff
+- https://codex-pet.com/pets/ditta
+- https://codex-pet.com/pets/dobby
+- https://codex-pet.com/pets/dobby-2
+- https://codex-pet.com/pets/dobby-3
+- https://codex-pet.com/pets/doodlebob
+- https://codex-pet.com/pets/doom-as-a-pet
+- https://codex-pet.com/pets/doomblade
+- https://codex-pet.com/pets/dopami
+- https://codex-pet.com/pets/doraemon
+- https://codex-pet.com/pets/douos-douos
+- https://codex-pet.com/pets/drizz
+- https://codex-pet.com/pets/druidika
+- https://codex-pet.com/pets/dude
+- https://codex-pet.com/pets/dumpster-fire
+- https://codex-pet.com/pets/duo
+- https://codex-pet.com/pets/eddy
+- https://codex-pet.com/pets/eddy-2
+- https://codex-pet.com/pets/eddy-3
+- https://codex-pet.com/pets/egon-olsen
+- https://codex-pet.com/pets/eigenblob
+- https://codex-pet.com/pets/einstein
+- https://codex-pet.com/pets/elaina-2
+- https://codex-pet.com/pets/elfie
+- https://codex-pet.com/pets/elon
+- https://codex-pet.com/pets/elyndex
+- https://codex-pet.com/pets/eminem-brisk
+- https://codex-pet.com/pets/emma
+- https://codex-pet.com/pets/eva01
+- https://codex-pet.com/pets/eve
+- https://codex-pet.com/pets/exec
+- https://codex-pet.com/pets/fangbyte
+- https://codex-pet.com/pets/fangjia
+- https://codex-pet.com/pets/faye
+- https://codex-pet.com/pets/february
+- https://codex-pet.com/pets/ferrari812
+- https://codex-pet.com/pets/feynman
+- https://codex-pet.com/pets/figaro-2
+- https://codex-pet.com/pets/finderguy
+- https://codex-pet.com/pets/fine-pup
+- https://codex-pet.com/pets/firebaby
+- https://codex-pet.com/pets/flaskling
+- https://codex-pet.com/pets/fleta
+- https://codex-pet.com/pets/floaty
+- https://codex-pet.com/pets/foxat
+- https://codex-pet.com/pets/foxcloud
+- https://codex-pet.com/pets/freeticket
+- https://codex-pet.com/pets/friday
+- https://codex-pet.com/pets/frieren-3
+- https://codex-pet.com/pets/frieren-4
+- https://codex-pet.com/pets/froge-openai-mascot
+- https://codex-pet.com/pets/froggle
+- https://codex-pet.com/pets/frosty-codex
+- https://codex-pet.com/pets/gabumon
+- https://codex-pet.com/pets/gallantmon
+- https://codex-pet.com/pets/gandalfclassy
+- https://codex-pet.com/pets/ganesh
+- https://codex-pet.com/pets/gat-reaper
+- https://codex-pet.com/pets/geats
+- https://codex-pet.com/pets/ghostface
+- https://codex-pet.com/pets/gilgamesh-v3
+- https://codex-pet.com/pets/github-com-ww930912-tony
+- https://codex-pet.com/pets/goblin
+- https://codex-pet.com/pets/goblin-sama
+- https://codex-pet.com/pets/gojo
+- https://codex-pet.com/pets/goku-blue
+- https://codex-pet.com/pets/golden-retriever
+- https://codex-pet.com/pets/golden-wyrmling
+- https://codex-pet.com/pets/gopher
+- https://codex-pet.com/pets/grace-ashcroft-blue-variant
+- https://codex-pet.com/pets/gradient-gob
+- https://codex-pet.com/pets/graycraft4
+- https://codex-pet.com/pets/graycraft5
+- https://codex-pet.com/pets/graycraft6
+- https://codex-pet.com/pets/graycraft7
+- https://codex-pet.com/pets/green-monster
+- https://codex-pet.com/pets/gt3rs
+- https://codex-pet.com/pets/gudako
+- https://codex-pet.com/pets/gugugaga
+- https://codex-pet.com/pets/gukegare
+- https://codex-pet.com/pets/gutsy
+- https://codex-pet.com/pets/guy
+- https://codex-pet.com/pets/guybrush
+- https://codex-pet.com/pets/gym-ajussi
+- https://codex-pet.com/pets/hachiware
+- https://codex-pet.com/pets/hal
+- https://codex-pet.com/pets/hal-9000
+- https://codex-pet.com/pets/hana
+- https://codex-pet.com/pets/hanami-saki
+- https://codex-pet.com/pets/hannah-montana
+- https://codex-pet.com/pets/happy-brush
+- https://codex-pet.com/pets/happy-brush-2
+- https://codex-pet.com/pets/happy-cat
+- https://codex-pet.com/pets/harry-poptart
+- https://codex-pet.com/pets/harup
+- https://codex-pet.com/pets/hausdorff-crumb
+- https://codex-pet.com/pets/hiro-2
+- https://codex-pet.com/pets/homie
+- https://codex-pet.com/pets/huangdou
+- https://codex-pet.com/pets/humboldt
+- https://codex-pet.com/pets/huskguin
+- https://codex-pet.com/pets/inari
+- https://codex-pet.com/pets/invincible-mark
+- https://codex-pet.com/pets/invincible-mark-2
+- https://codex-pet.com/pets/island-owner
+- https://codex-pet.com/pets/itachi
+- https://codex-pet.com/pets/izanagi
+- https://codex-pet.com/pets/jane
+- https://codex-pet.com/pets/java
+- https://codex-pet.com/pets/jeeves
+- https://codex-pet.com/pets/jesus
+- https://codex-pet.com/pets/jiangjiang
+- https://codex-pet.com/pets/jiaran-2
+- https://codex-pet.com/pets/jiro
+- https://codex-pet.com/pets/jiyi
+- https://codex-pet.com/pets/jollio
+- https://codex-pet.com/pets/juergen-habermas
+- https://codex-pet.com/pets/jumbo
+- https://codex-pet.com/pets/junie
+- https://codex-pet.com/pets/justin-bieber
+- https://codex-pet.com/pets/kagup
+- https://codex-pet.com/pets/kaka
+- https://codex-pet.com/pets/kanaria
+- https://codex-pet.com/pets/kasumi
+- https://codex-pet.com/pets/kebo
+- https://codex-pet.com/pets/keqing
+- https://codex-pet.com/pets/kia-mhalifa
+- https://codex-pet.com/pets/kibshi
+- https://codex-pet.com/pets/kiki
+- https://codex-pet.com/pets/king-charles
+- https://codex-pet.com/pets/king-david
+- https://codex-pet.com/pets/kira
+- https://codex-pet.com/pets/kiradragon
+- https://codex-pet.com/pets/kirby
+- https://codex-pet.com/pets/kitmar
+- https://codex-pet.com/pets/kitsune
+- https://codex-pet.com/pets/klein-sip
+- https://codex-pet.com/pets/knotty
+- https://codex-pet.com/pets/koda
+- https://codex-pet.com/pets/koulen
+- https://codex-pet.com/pets/kratos-greek
+- https://codex-pet.com/pets/kratos-norse
+- https://codex-pet.com/pets/kris-wu
+- https://codex-pet.com/pets/krishna
+- https://codex-pet.com/pets/kumakichi-0
+- https://codex-pet.com/pets/kupobyte
+- https://codex-pet.com/pets/kurisu
+- https://codex-pet.com/pets/kuro
+- https://codex-pet.com/pets/kuro-2
+- https://codex-pet.com/pets/kuro-love
+- https://codex-pet.com/pets/kuromi
+- https://codex-pet.com/pets/kwehlet
+- https://codex-pet.com/pets/kyle-kun
+- https://codex-pet.com/pets/kyojuro-rengoku
+- https://codex-pet.com/pets/lain
+- https://codex-pet.com/pets/lain-2
+- https://codex-pet.com/pets/lampy
+- https://codex-pet.com/pets/lando
+- https://codex-pet.com/pets/lando-2
+- https://codex-pet.com/pets/laozi
+- https://codex-pet.com/pets/leafspark
+- https://codex-pet.com/pets/lewis
+- https://codex-pet.com/pets/lihua-2
+- https://codex-pet.com/pets/lil-finder
+- https://codex-pet.com/pets/limit-lump
+- https://codex-pet.com/pets/lina-belle-2
+- https://codex-pet.com/pets/linnea-2
+- https://codex-pet.com/pets/lint-sprout
+- https://codex-pet.com/pets/liuliu
+- https://codex-pet.com/pets/longma
+- https://codex-pet.com/pets/longpaopao
+- https://codex-pet.com/pets/loop
+- https://codex-pet.com/pets/luffy
+- https://codex-pet.com/pets/luffy-2
+- https://codex-pet.com/pets/lulu
+- https://codex-pet.com/pets/lulu-capybara
+- https://codex-pet.com/pets/macintosh
+- https://codex-pet.com/pets/macragge
+- https://codex-pet.com/pets/maddie
+- https://codex-pet.com/pets/maduro-tech-pet
+- https://codex-pet.com/pets/maja
+- https://codex-pet.com/pets/mambo
+- https://codex-pet.com/pets/maodie
+- https://codex-pet.com/pets/marie
+- https://codex-pet.com/pets/mariglow
+- https://codex-pet.com/pets/marmalade
+- https://codex-pet.com/pets/masked-manager
+- https://codex-pet.com/pets/max
+- https://codex-pet.com/pets/max-2
+- https://codex-pet.com/pets/max-3
+- https://codex-pet.com/pets/max-4
+- https://codex-pet.com/pets/meridian
+- https://codex-pet.com/pets/mettaur
+- https://codex-pet.com/pets/mi-mo
+- https://codex-pet.com/pets/mia
+- https://codex-pet.com/pets/michael-scott
+- https://codex-pet.com/pets/midudev
+- https://codex-pet.com/pets/mika-calico
+- https://codex-pet.com/pets/milo
+- https://codex-pet.com/pets/mimi-2
+- https://codex-pet.com/pets/mimi-love
+- https://codex-pet.com/pets/mini-dark-lord
+- https://codex-pet.com/pets/mini-elon
+- https://codex-pet.com/pets/mini-muse-realistic
+- https://codex-pet.com/pets/mini-sama
+- https://codex-pet.com/pets/miraculix
+- https://codex-pet.com/pets/miss-minute
+- https://codex-pet.com/pets/misty
+- https://codex-pet.com/pets/mochi
+- https://codex-pet.com/pets/mochi-2
+- https://codex-pet.com/pets/mochi-4
+- https://codex-pet.com/pets/mog
+- https://codex-pet.com/pets/mojo-carro
+- https://codex-pet.com/pets/monica
+- https://codex-pet.com/pets/monoblossom-hands
+- https://codex-pet.com/pets/moonlet
+- https://codex-pet.com/pets/morbbit
+- https://codex-pet.com/pets/mordecai
+- https://codex-pet.com/pets/mossy
+- https://codex-pet.com/pets/mr-game-and-watch
+- https://codex-pet.com/pets/mysterious-dancing-man
+- https://codex-pet.com/pets/nailong
+- https://codex-pet.com/pets/nailong-2
+- https://codex-pet.com/pets/naruto
+- https://codex-pet.com/pets/navi
+- https://codex-pet.com/pets/nene
+- https://codex-pet.com/pets/nezuko
+- https://codex-pet.com/pets/nezukocoder
+- https://codex-pet.com/pets/nibble
+- https://codex-pet.com/pets/nibby-2
+- https://codex-pet.com/pets/nightcap
+- https://codex-pet.com/pets/nightly-fox
+- https://codex-pet.com/pets/nikolaich
+- https://codex-pet.com/pets/ninjacat
+- https://codex-pet.com/pets/noctlet
+- https://codex-pet.com/pets/noir-webling
+- https://codex-pet.com/pets/nova
+- https://codex-pet.com/pets/nova-byte
+- https://codex-pet.com/pets/nukey
+- https://codex-pet.com/pets/nukie
+- https://codex-pet.com/pets/nyako-shigure-2
+- https://codex-pet.com/pets/nyami
+- https://codex-pet.com/pets/oo-ee-a-e-a-cat
+- https://codex-pet.com/pets/openvid
+- https://codex-pet.com/pets/ordek
+- https://codex-pet.com/pets/orpheus
+- https://codex-pet.com/pets/orpheus-telos
+- https://codex-pet.com/pets/orzeszek
+- https://codex-pet.com/pets/ostrom
+- https://codex-pet.com/pets/otto
+- https://codex-pet.com/pets/painling-2
+- https://codex-pet.com/pets/pc-guy
+- https://codex-pet.com/pets/pc-guy-2
+- https://codex-pet.com/pets/peanut
+- https://codex-pet.com/pets/pedro-lapiz
+- https://codex-pet.com/pets/pepe
+- https://codex-pet.com/pets/peri-the-owl
+
+## Pets Codex
+
+- URL: https://petscodex.com/
+- Page title: Pets Codex - Codex Desktop Pets Gallery and Installer
+- Status: source-review
+- Redistribution: unknown
+
+- https://petscodex.com/
+- https://petscodex.com/#pets
+- https://petscodex.com/pets/superweird-petr
+- https://petscodex.com/pets/shiny-mega-gengar
+- https://petscodex.com/pets/liebao
+- https://petscodex.com/pets/blingbara
+- https://petscodex.com/pets/ikun
+- https://petscodex.com/pets/doraemon
+- https://petscodex.com/pets/maoqiu
+- https://petscodex.com/pets/cat
+- https://petscodex.com/pets/trump
+- https://petscodex.com/pets/ace
+- https://petscodex.com/pets/pikachu
+- https://petscodex.com/pets/cat-66
+- https://github.com/mn8821236/petscodex
+- https://www.npmjs.com/package/petscodex
+- https://github.com/mn8821236/petscodex/issues
+

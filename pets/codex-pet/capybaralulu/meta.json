@@ -1,0 +1,39 @@
+{
+  "id": "capybaralulu",
+  "name": "Capybaralulu",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/capybaralulu",
+  "description": "",
+  "generatedManifest": {
+    "id": "capybaralulu",
+    "displayName": "Capybaralulu",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/capybaralulu/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/capybaralulu"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "584e7bae9028f2ae69fad0c54fd1d5074973192c6720c632e3b7800799ba84b0"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/capybaralulu/spritesheet.webp",
+      "bytes": 1604714,
+      "sha256": "6c47347520dd26fe4f73d71477aac78aaf71e1f4fa65c2ab9cd7645ef678d32d"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/capybaralulu",
+      "bytes": 1605273,
+      "sha256": "b66a532e49b12949dff0099ad7bab1dabc3d13d8503588d6c1d48f2166f4472c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/capybaralulu/capybaralulu.zip",
+  "petJsonPath": "pets/codex-pet/capybaralulu/pet.json",
+  "spritesheetPath": "pets/codex-pet/capybaralulu/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.189Z"
+}

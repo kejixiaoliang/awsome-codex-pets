@@ -1,0 +1,39 @@
+{
+  "id": "jane",
+  "name": "Jane",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/jane",
+  "description": "",
+  "generatedManifest": {
+    "id": "jane",
+    "displayName": "Jane",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/jane/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/jane"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7529d313f901000c5c3b2d12467d7c07ff307fd226c230aaac6cd5e1a85babee"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/jane/spritesheet.webp",
+      "bytes": 1938034,
+      "sha256": "61b6c26483a4d4e4df7b7b7fd05ba6d94fcf372e529298d590636c095f1a83a1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/jane",
+      "bytes": 1938723,
+      "sha256": "ab38e4dd699c67da840eeec2d7fd11c87c430efc79ec6dcf23c4ae12c8aaa625"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/jane/jane.zip",
+  "petJsonPath": "pets/codex-pet/jane/pet.json",
+  "spritesheetPath": "pets/codex-pet/jane/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.915Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sprite-debugger",
+  "sourceId": "openpets",
+  "sourceUrl": "https://openpets.app/pets/sprite-debugger",
+  "name": "Sprite Debugger",
+  "author": "OpenPets Studio",
+  "license": "CC0 1.0",
+  "packagePath": "pets/openpets/sprite-debugger/sprite-debugger.zip",
+  "petJsonPath": "pets/openpets/sprite-debugger/pet.json",
+  "spritesheetPath": "pets/openpets/sprite-debugger/spritesheet.png",
+  "updatedAt": "2026-05-23T14:12:55.726Z"
+}

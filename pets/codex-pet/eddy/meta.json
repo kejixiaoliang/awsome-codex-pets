@@ -1,0 +1,39 @@
+{
+  "id": "eddy",
+  "name": "Eddy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/eddy",
+  "description": "",
+  "generatedManifest": {
+    "id": "eddy",
+    "displayName": "Eddy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/eddy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/eddy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b637a0ce59a8764da8dd296a5672377f2c17cfb10337229e625bb19c5e575237"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/eddy/spritesheet.webp",
+      "bytes": 1912102,
+      "sha256": "e55015eedd7dfa7a99dcd3b98901b22f5e4ffa0f0f453ed2dbf1a263e96e9864"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/eddy",
+      "bytes": 1912761,
+      "sha256": "a263b60ca7e28df6020dd4e0a9bfe7ba45fd0503600a4ed1fd03aba69a3cc447"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/eddy/eddy.zip",
+  "petJsonPath": "pets/codex-pet/eddy/pet.json",
+  "spritesheetPath": "pets/codex-pet/eddy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.515Z"
+}

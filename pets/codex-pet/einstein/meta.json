@@ -1,0 +1,39 @@
+{
+  "id": "einstein",
+  "name": "Einstein",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/einstein",
+  "description": "",
+  "generatedManifest": {
+    "id": "einstein",
+    "displayName": "Einstein",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/einstein/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/einstein"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "23a7eacb4c917d75f6220fa6990da66043d9504bba467adfd6e42a129509dec5"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/einstein/spritesheet.webp",
+      "bytes": 1997972,
+      "sha256": "14103738df83d831b338e0a35a764aa589238b972f19cab9826ee23fd8ce143a"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/einstein",
+      "bytes": 1998674,
+      "sha256": "9857232a201ecaea7145ad33abc4dbe68e8d64bf071d8d7d94b689d9b9dd4bfc"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/einstein/einstein.zip",
+  "petJsonPath": "pets/codex-pet/einstein/pet.json",
+  "spritesheetPath": "pets/codex-pet/einstein/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.581Z"
+}

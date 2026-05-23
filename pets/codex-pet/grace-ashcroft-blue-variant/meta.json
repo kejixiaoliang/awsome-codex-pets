@@ -1,0 +1,39 @@
+{
+  "id": "grace-ashcroft-blue-variant",
+  "name": "Grace Ashcroft Blue Variant",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/grace-ashcroft-blue-variant",
+  "description": "",
+  "generatedManifest": {
+    "id": "grace-ashcroft-blue-variant",
+    "displayName": "Grace Ashcroft Blue Variant",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/grace-ashcroft-blue-variant/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/grace-ashcroft-blue-variant"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c489d5b547aaed27678a817e5a4aaf2155455491730d99f7d720026b16f32bed"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/grace-ashcroft-blue-variant/spritesheet.webp",
+      "bytes": 1839138,
+      "sha256": "ab2bda16bdedc6c0ac27f928ffdc6738d526394af55a18377bf73816b0d00758"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/grace-ashcroft-blue-variant",
+      "bytes": 1835697,
+      "sha256": "4ac772f1c731f9b6def95b8e0a5edceefc87e0f6a385069769999bb612d7bc74"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/grace-ashcroft-blue-variant/grace-ashcroft-blue-variant.zip",
+  "petJsonPath": "pets/codex-pet/grace-ashcroft-blue-variant/pet.json",
+  "spritesheetPath": "pets/codex-pet/grace-ashcroft-blue-variant/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.202Z"
+}

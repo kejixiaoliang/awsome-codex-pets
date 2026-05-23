@@ -1,0 +1,39 @@
+{
+  "id": "cortana",
+  "name": "Cortana",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cortana",
+  "description": "",
+  "generatedManifest": {
+    "id": "cortana",
+    "displayName": "Cortana",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cortana/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cortana"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7ed7eda11747a450c4377fbeb5e4531df7fe72882065741207784493af14fe95"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cortana/spritesheet.webp",
+      "bytes": 1789312,
+      "sha256": "65c110ef0fb641b2913f34a57b2a935b98f50a65ff0f3f6ee4f5b35efb51f325"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cortana",
+      "bytes": 1789986,
+      "sha256": "50ce2ec9380582a0eeb34a9ee5c35f1c467fee96b6dbf4ca3a831af98079854b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cortana/cortana.zip",
+  "petJsonPath": "pets/codex-pet/cortana/pet.json",
+  "spritesheetPath": "pets/codex-pet/cortana/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.779Z"
+}

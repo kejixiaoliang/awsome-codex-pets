@@ -1,0 +1,39 @@
+{
+  "id": "foxat",
+  "name": "Foxat",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/foxat",
+  "description": "",
+  "generatedManifest": {
+    "id": "foxat",
+    "displayName": "Foxat",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/foxat/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/foxat"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "24a9835fbccad0bae1a89ac1d32c0fcc133168dbc779cc7f8aed3b70196cbc40"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/foxat/spritesheet.webp",
+      "bytes": 846400,
+      "sha256": "f414a314c1eb39ebbf32cc70fb111fd4a9f1cd84efcb1d056edfa320894dfc17"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/foxat",
+      "bytes": 846393,
+      "sha256": "62ef02251d5c0d7fd42f015f853f53ac2bebca67038c7dfe14db9a8d8fb00121"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/foxat/foxat.zip",
+  "petJsonPath": "pets/codex-pet/foxat/pet.json",
+  "spritesheetPath": "pets/codex-pet/foxat/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.866Z"
+}

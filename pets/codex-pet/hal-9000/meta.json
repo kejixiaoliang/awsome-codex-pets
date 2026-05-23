@@ -1,0 +1,39 @@
+{
+  "id": "hal-9000",
+  "name": "Hal 9000",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hal-9000",
+  "description": "",
+  "generatedManifest": {
+    "id": "hal-9000",
+    "displayName": "Hal 9000",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hal-9000/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hal-9000"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a21b6637dc2eb164040fc02a0e70da81e5b1a1333d1e68537561e2eec718e81a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hal-9000/spritesheet.webp",
+      "bytes": 1272932,
+      "sha256": "23f45d36859bb62a18a75653e2974c7c197a5cfabdc2abd9e8ffa0f8e9a8ee88"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hal-9000",
+      "bytes": 1273451,
+      "sha256": "2258d4f9c8bbf32ebef05511238d8133f7f89ba102871608dca40701468a924c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hal-9000/hal-9000.zip",
+  "petJsonPath": "pets/codex-pet/hal-9000/pet.json",
+  "spritesheetPath": "pets/codex-pet/hal-9000/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.511Z"
+}

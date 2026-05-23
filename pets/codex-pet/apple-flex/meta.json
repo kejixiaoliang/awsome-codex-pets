@@ -1,0 +1,39 @@
+{
+  "id": "apple-flex",
+  "name": "Apple Flex",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/apple-flex",
+  "description": "",
+  "generatedManifest": {
+    "id": "apple-flex",
+    "displayName": "Apple Flex",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/apple-flex/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/apple-flex"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "32cd372a1090c800752afbca7fc39ae93b7e35d26fc561fe9f747f5a38e6fce8"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/apple-flex/spritesheet.webp",
+      "bytes": 2127870,
+      "sha256": "901a4ef743296373e79ccf1dfe7d006b35fd86800ba5fc93726c5dc6be937483"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/apple-flex",
+      "bytes": 2128610,
+      "sha256": "8265bdd0b0b9858e4e4559f7f5e32074b2863fb8740986345a2c78ff85b7855b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/apple-flex/apple-flex.zip",
+  "petJsonPath": "pets/codex-pet/apple-flex/pet.json",
+  "spritesheetPath": "pets/codex-pet/apple-flex/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.503Z"
+}

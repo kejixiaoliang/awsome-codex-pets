@@ -1,0 +1,39 @@
+{
+  "id": "clippy-5",
+  "name": "Clippy 5",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/clippy-5",
+  "description": "",
+  "generatedManifest": {
+    "id": "clippy-5",
+    "displayName": "Clippy 5",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/clippy-5/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/clippy-5"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "94f743ce1100bddaa943e9edbb15111a82bd39416c4aba21f96bbba816832842"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/clippy-5/spritesheet.webp",
+      "bytes": 1672178,
+      "sha256": "d387f2ca38f5255704233363ab775a95848edda71095c6452f2dd1479faa6778"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/clippy-5",
+      "bytes": 1668321,
+      "sha256": "f2909da59cbadbab7e7b0778e18427cdf865dd61ee3d9d4ad1daac44930f6866"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/clippy-5/clippy-5.zip",
+  "petJsonPath": "pets/codex-pet/clippy-5/pet.json",
+  "spritesheetPath": "pets/codex-pet/clippy-5/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.532Z"
+}

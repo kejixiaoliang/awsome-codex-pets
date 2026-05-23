@@ -1,0 +1,39 @@
+{
+  "id": "blau",
+  "name": "Blau",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/blau",
+  "description": "",
+  "generatedManifest": {
+    "id": "blau",
+    "displayName": "Blau",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/blau/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/blau"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "90d09e29723ad68b2708a2318e281b026e56d657d8a862985a3b81997ed2309c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/blau/spritesheet.webp",
+      "bytes": 1577092,
+      "sha256": "a5546d4d747f5792e35a06ee8b31edafada64613ebf576330fb55dbfe2e1a4b1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/blau",
+      "bytes": 1577706,
+      "sha256": "7284203ea0211ae61321d0917b5975a2a76508e0ac62ffb49f12fc42a017c5db"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/blau/blau.zip",
+  "petJsonPath": "pets/codex-pet/blau/pet.json",
+  "spritesheetPath": "pets/codex-pet/blau/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.825Z"
+}

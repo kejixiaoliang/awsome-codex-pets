@@ -1,0 +1,39 @@
+{
+  "id": "frosty-codex",
+  "name": "Frosty Codex",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/frosty-codex",
+  "description": "",
+  "generatedManifest": {
+    "id": "frosty-codex",
+    "displayName": "Frosty Codex",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/frosty-codex/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/frosty-codex"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5c1b784ae19823ce9a813bf9b2198d3e3c7ed9c80b5ce5d969d5abc32e20a323"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/frosty-codex/spritesheet.webp",
+      "bytes": 2049514,
+      "sha256": "8339dce5d6807b3df99b4a63def13988fafd6b56f91940d19d3e2be8d17f23bf"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/frosty-codex",
+      "bytes": 2050259,
+      "sha256": "b9730928319d6dfdff56d427e9594d2d278415237ff0e8b0aa444c61993bbef1"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/frosty-codex/frosty-codex.zip",
+  "petJsonPath": "pets/codex-pet/frosty-codex/pet.json",
+  "spritesheetPath": "pets/codex-pet/frosty-codex/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.984Z"
+}

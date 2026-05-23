@@ -1,0 +1,39 @@
+{
+  "id": "bitboy",
+  "name": "Bitboy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bitboy",
+  "description": "",
+  "generatedManifest": {
+    "id": "bitboy",
+    "displayName": "Bitboy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bitboy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bitboy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a928eb09508d4b5cb6e763412fd75c439e819a1bf5ce2f322c7d47e3f9abe646"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bitboy/spritesheet.webp",
+      "bytes": 1684336,
+      "sha256": "201f9b35ed076f2db2cac417dc1b08bda9f11886305d4b70a242441bb1aa2633"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bitboy",
+      "bytes": 1684939,
+      "sha256": "6da3c755049a4a21e99a0239c62456c6b98765b191a9a71026d1ac4e399e81dc"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bitboy/bitboy.zip",
+  "petJsonPath": "pets/codex-pet/bitboy/pet.json",
+  "spritesheetPath": "pets/codex-pet/bitboy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.786Z"
+}

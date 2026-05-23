@@ -1,0 +1,39 @@
+{
+  "id": "eva01",
+  "name": "Eva01",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/eva01",
+  "description": "",
+  "generatedManifest": {
+    "id": "eva01",
+    "displayName": "Eva01",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/eva01/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/eva01"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "3d7f1a097e94eec7b6469d289eccd9230393aaff268c141798b01e5c38b869d5"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/eva01/spritesheet.webp",
+      "bytes": 2072432,
+      "sha256": "353ad65d28f3d703d4263ccfe29aaee680f859f9084b617d09e9525ad5cb4067"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/eva01",
+      "bytes": 2073153,
+      "sha256": "7391b0979814893eae10842e90c88d631cf4dbd6c38e4843c58fad41f80491af"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/eva01/eva01.zip",
+  "petJsonPath": "pets/codex-pet/eva01/pet.json",
+  "spritesheetPath": "pets/codex-pet/eva01/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.677Z"
+}

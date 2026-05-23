@@ -1,0 +1,39 @@
+{
+  "id": "faye",
+  "name": "Faye",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/faye",
+  "description": "",
+  "generatedManifest": {
+    "id": "faye",
+    "displayName": "Faye",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/faye/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/faye"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "8831f17c532c2fc805485fa6ed92929d0392ba748787786ac4f8b2a1eb511496"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/faye/spritesheet.webp",
+      "bytes": 1831074,
+      "sha256": "d3af2087630f44d18b2e34333bb26db6652523150e83cf019a1138b9f36c19b4"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/faye",
+      "bytes": 1831743,
+      "sha256": "45f80098878589b7dcfbe898e749e13c1261f442768a0eacbf98538444137c50"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/faye/faye.zip",
+  "petJsonPath": "pets/codex-pet/faye/pet.json",
+  "spritesheetPath": "pets/codex-pet/faye/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.742Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ada-lovelace",
+  "name": "Ada Lovelace",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ada-lovelace",
+  "description": "",
+  "generatedManifest": {
+    "id": "ada-lovelace",
+    "displayName": "Ada Lovelace",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ada-lovelace/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ada-lovelace"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1d91673fb4b91e78cd54a9b75d60fde745ffd264bc38650871e2a0903928d323"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ada-lovelace/spritesheet.webp",
+      "bytes": 2063478,
+      "sha256": "70cdccce9c656a3ca638e16a0596e3c52eb3255947b61b84ec5bfb0c001acad1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ada-lovelace",
+      "error": "502 Bad Gateway"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ada-lovelace/ada-lovelace.zip",
+  "petJsonPath": "pets/codex-pet/ada-lovelace/pet.json",
+  "spritesheetPath": "pets/codex-pet/ada-lovelace/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.305Z"
+}

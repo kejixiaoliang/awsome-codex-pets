@@ -1,0 +1,39 @@
+{
+  "id": "ape-escape",
+  "name": "Ape Escape",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ape-escape",
+  "description": "",
+  "generatedManifest": {
+    "id": "ape-escape",
+    "displayName": "Ape Escape",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ape-escape/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ape-escape"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "daf58835ea38f84ff14993643ee1aa99fb7dc2f8f4b097f276fee667d2a12f9d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ape-escape/spritesheet.webp",
+      "bytes": 1603612,
+      "sha256": "20964acb9f994ee9da1f9373f846eccee52c383a3627e7056e54f64b980d3ad8"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ape-escape",
+      "bytes": 1604218,
+      "sha256": "7a2c13620ace0eca885505c5b1b9f7772485a71e6849cff1ffee9cbf51c0193b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ape-escape/ape-escape.zip",
+  "petJsonPath": "pets/codex-pet/ape-escape/pet.json",
+  "spritesheetPath": "pets/codex-pet/ape-escape/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.490Z"
+}

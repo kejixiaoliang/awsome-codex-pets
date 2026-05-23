@@ -1,0 +1,39 @@
+{
+  "id": "github-com-ww930912-tony",
+  "name": "Github Com Ww930912 Tony",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/github-com-ww930912-tony",
+  "description": "",
+  "generatedManifest": {
+    "id": "github-com-ww930912-tony",
+    "displayName": "Github Com Ww930912 Tony",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/github-com-ww930912-tony/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/github-com-ww930912-tony"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "e6ddf3070efc77d7a5e6fc93fc89095665510617d69568e3526ebbadf7ae006b"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/github-com-ww930912-tony/spritesheet.webp",
+      "bytes": 1594194,
+      "sha256": "7ad207c122b42453ce5ed91b1e8cbf5a4f522cec1613380a2b5abe19c1b6ff7d"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/github-com-ww930912-tony",
+      "bytes": 1594913,
+      "sha256": "80d2b75af2e8ccc33dc9198d0ad4c36c210ea3260daef21d139d795ccc19428c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/github-com-ww930912-tony/github-com-ww930912-tony.zip",
+  "petJsonPath": "pets/codex-pet/github-com-ww930912-tony/pet.json",
+  "spritesheetPath": "pets/codex-pet/github-com-ww930912-tony/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.103Z"
+}

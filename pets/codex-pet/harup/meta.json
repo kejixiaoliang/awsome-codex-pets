@@ -1,0 +1,39 @@
+{
+  "id": "harup",
+  "name": "Harup",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/harup",
+  "description": "",
+  "generatedManifest": {
+    "id": "harup",
+    "displayName": "Harup",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/harup/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/harup"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a1a090834b00de0633b484b7545a1d7ab51b8741a62739c6467d1664e35f7985"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/harup/spritesheet.webp",
+      "bytes": 915402,
+      "sha256": "eefb3bcb1f00b725c0c1e44e47b9a591773edc0b954c5178f1ba212c28c49c6c"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/harup",
+      "bytes": 909249,
+      "sha256": "47ffcc86ed08f9f5b9220739c01ba9220448535df5e1dff80ede459c2eaa5498"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/harup/harup.zip",
+  "petJsonPath": "pets/codex-pet/harup/pet.json",
+  "spritesheetPath": "pets/codex-pet/harup/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.686Z"
+}

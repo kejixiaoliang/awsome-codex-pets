@@ -1,0 +1,39 @@
+{
+  "id": "bananboo",
+  "name": "Bananboo",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bananboo",
+  "description": "",
+  "generatedManifest": {
+    "id": "bananboo",
+    "displayName": "Bananboo",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bananboo/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bananboo"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5ba2b3329e02a584423ac4a183c514bcc5e9b31781298f366c9f49bf05933004"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bananboo/spritesheet.webp",
+      "bytes": 1479448,
+      "sha256": "1447c1b254ea5e45308d0be10a69b30b6730f50e0605fb934e36ab23e10c87a1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bananboo",
+      "bytes": 1480062,
+      "sha256": "bec24c51de5519a918bf95d4a4669b9b4bba8ff6d734cd020b42e1055a5fb566"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bananboo/bananboo.zip",
+  "petJsonPath": "pets/codex-pet/bananboo/pet.json",
+  "spritesheetPath": "pets/codex-pet/bananboo/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.658Z"
+}

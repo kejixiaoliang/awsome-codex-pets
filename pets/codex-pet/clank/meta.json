@@ -1,0 +1,39 @@
+{
+  "id": "clank",
+  "name": "Clank",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/clank",
+  "description": "",
+  "generatedManifest": {
+    "id": "clank",
+    "displayName": "Clank",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/clank/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/clank"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "37be25a422cf6c0d556e91e42e37f3a0892cb318f21d98710d7c1a44917a7c64"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/clank/spritesheet.webp",
+      "bytes": 1589436,
+      "sha256": "4ce3f4c5811b41910db7ab12a8cebdcf45c82f44023c63415a9118efd90b0ccf"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/clank",
+      "bytes": 1590060,
+      "sha256": "e8f6beec534b5c17d60f3b5db8f13174986834efdb3500f2d822072e0fedc121"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/clank/clank.zip",
+  "petJsonPath": "pets/codex-pet/clank/pet.json",
+  "spritesheetPath": "pets/codex-pet/clank/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.444Z"
+}

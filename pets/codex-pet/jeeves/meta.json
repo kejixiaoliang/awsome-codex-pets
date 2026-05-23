@@ -1,0 +1,39 @@
+{
+  "id": "jeeves",
+  "name": "Jeeves",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/jeeves",
+  "description": "",
+  "generatedManifest": {
+    "id": "jeeves",
+    "displayName": "Jeeves",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/jeeves/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/jeeves"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "35f99b87b611a178c1ee6ee22a49c14cb6b1d4e244bd68c1049e985b85018345"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/jeeves/spritesheet.webp",
+      "bytes": 1587350,
+      "sha256": "2044e78462e95fa907fba0fd7656305941b21c87d866621aeab31bec3dce98ab"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/jeeves",
+      "bytes": 1581917,
+      "sha256": "135ef183f7ee4e33251f139710a620403cefc3beffd7487160e1d9ec909072e4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/jeeves/jeeves.zip",
+  "petJsonPath": "pets/codex-pet/jeeves/pet.json",
+  "spritesheetPath": "pets/codex-pet/jeeves/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.944Z"
+}

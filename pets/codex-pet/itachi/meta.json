@@ -1,0 +1,39 @@
+{
+  "id": "itachi",
+  "name": "Itachi",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/itachi",
+  "description": "",
+  "generatedManifest": {
+    "id": "itachi",
+    "displayName": "Itachi",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/itachi/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/itachi"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "33c51b5465cf26ac14e13b1395540c5e74585871a94a7e98c6eac35fd8739492"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/itachi/spritesheet.webp",
+      "bytes": 1621170,
+      "sha256": "fdede125dc81cd5fe92ac21ccb2a54465584cf2cab92dc82b89e85d271073b59"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/itachi",
+      "bytes": 1621803,
+      "sha256": "c4e66ffae83682c19f99c6030bea9b23e979194cb812345e2b2bbf4964079894"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/itachi/itachi.zip",
+  "petJsonPath": "pets/codex-pet/itachi/pet.json",
+  "spritesheetPath": "pets/codex-pet/itachi/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.886Z"
+}

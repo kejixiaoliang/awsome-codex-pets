@@ -1,0 +1,39 @@
+{
+  "id": "daodun",
+  "name": "Daodun",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/daodun",
+  "description": "",
+  "generatedManifest": {
+    "id": "daodun",
+    "displayName": "Daodun",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/daodun/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/daodun"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5904da1f0e1cb202b06375265115fc33b3b716a32d427612b55ba5176763a287"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/daodun/spritesheet.webp",
+      "bytes": 2319882,
+      "sha256": "abb530c50ae968a6066afddf19f68b381a3b96b05e2e94e18646ae2b1787f168"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/daodun",
+      "bytes": 2320380,
+      "sha256": "35411a11e80f1bbfd11c8f99172c6c85b9a119809c1c11b582a3e6df06aa17cd"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/daodun/daodun.zip",
+  "petJsonPath": "pets/codex-pet/daodun/pet.json",
+  "spritesheetPath": "pets/codex-pet/daodun/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.108Z"
+}

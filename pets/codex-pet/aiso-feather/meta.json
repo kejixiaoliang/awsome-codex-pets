@@ -1,0 +1,39 @@
+{
+  "id": "aiso-feather",
+  "name": "Aiso Feather",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/aiso-feather",
+  "description": "",
+  "generatedManifest": {
+    "id": "aiso-feather",
+    "displayName": "Aiso Feather",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/aiso-feather/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/aiso-feather"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "cee44c0e6b954fb411fc740e1d7c506476119cfdeb8b7b020fb8159c743a1fd1"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/aiso-feather/spritesheet.webp",
+      "bytes": 1601334,
+      "sha256": "f67c1b5f00a4c7dd267a1463103dbe58f4978cd367be499a744eef55ade85c30"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/aiso-feather",
+      "bytes": 1601990,
+      "sha256": "2e7eb937906c1e135f74819aaaf697dade0895c638117ad43f880dd807157c3c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/aiso-feather/aiso-feather.zip",
+  "petJsonPath": "pets/codex-pet/aiso-feather/pet.json",
+  "spritesheetPath": "pets/codex-pet/aiso-feather/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.377Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "elfie",
+  "name": "Elfie",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/elfie",
+  "description": "",
+  "generatedManifest": {
+    "id": "elfie",
+    "displayName": "Elfie",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/elfie/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/elfie"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5f475be3fd601fc26eee8e25510030b2134011060e180fc70c3a6378a7652fba"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/elfie/spritesheet.webp",
+      "bytes": 1976798,
+      "sha256": "57064f4c1f0460fd49a9631b318b2f2292ed5c92f5d582ae90b673d504c9af70"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/elfie",
+      "bytes": 1977497,
+      "sha256": "9ed45a582a58d120b5ba52c9bddccf6d075c02c29d943da97ee244e338d05c93"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/elfie/elfie.zip",
+  "petJsonPath": "pets/codex-pet/elfie/pet.json",
+  "spritesheetPath": "pets/codex-pet/elfie/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.610Z"
+}

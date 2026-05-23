@@ -1,0 +1,41 @@
+{
+  "id": "labubu",
+  "name": "Labubu",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/labubu",
+  "description": "A fuzzy mischievous elf-doll Codex pet with oversized ears, tiny teeth, playful charms, and cozy toy-box energy.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "labubu"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/labubu/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/labubu/spritesheet.webp",
+    "package": "https://petscodex.com/download/labubu.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/labubu/pet.json",
+      "bytes": 222,
+      "sha256": "70e508e3e0a52b9d962ad9fbbacbff3856cae4409aa432a62c600204536e111d"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/labubu/spritesheet.webp",
+      "bytes": 1815134,
+      "sha256": "2d2b148cee7ddb1c3bae1cd72335d0c7edefb60dd46f8d5814802b71673ffd5d"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/labubu.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/labubu/labubu.zip",
+  "petJsonPath": "pets/petscodex/labubu/pet.json",
+  "spritesheetPath": "pets/petscodex/labubu/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.117Z"
+}

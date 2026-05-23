@@ -1,0 +1,41 @@
+{
+  "id": "trump",
+  "name": "Trump",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/trump",
+  "description": "A cute chibi anime Donald Trump-style Codex pet.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "trump"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/trump/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/trump/spritesheet.webp",
+    "package": "https://petscodex.com/download/trump.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/trump/pet.json",
+      "bytes": 156,
+      "sha256": "236c8d4e6861303b73bc23c4cf2e70c190d883c97391777c82f41904d0747f22"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/trump/spritesheet.webp",
+      "bytes": 1703970,
+      "sha256": "15ec7e1f4ee593340eea7d4aeff6726237aebf6518df38511b093801973ae253"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/trump.zip",
+      "bytes": 311883,
+      "sha256": "79105220d69cef729f13795ebc849c60ba8df9859a0702356e409a24d1038be8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/trump/trump.zip",
+  "petJsonPath": "pets/petscodex/trump/pet.json",
+  "spritesheetPath": "pets/petscodex/trump/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.281Z"
+}

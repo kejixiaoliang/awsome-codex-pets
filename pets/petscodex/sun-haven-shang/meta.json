@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-shang",
+  "name": "Shang",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-shang",
+  "description": "An honorable tiger swordsman Sun Haven-style Codex pet with disciplined warrior poses.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-shang"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-shang/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-shang/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-shang.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-shang/pet.json",
+      "bytes": 204,
+      "sha256": "f5cf559d1be51030f3fe93625937e8a31967926673a23a4841d7cd139454c698"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-shang/spritesheet.webp",
+      "bytes": 2247808,
+      "sha256": "6cb23541e5b3edd8e262cfecbf705e76ae847c5db7d3fccf339b0230c728fe7b"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-shang.zip",
+      "bytes": 311883,
+      "sha256": "79105220d69cef729f13795ebc849c60ba8df9859a0702356e409a24d1038be8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-shang/sun-haven-shang.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-shang/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-shang/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.220Z"
+}

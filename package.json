@@ -1,0 +1,25 @@
+{
+  "name": "awesome-codex-pet",
+  "version": "0.1.0",
+  "description": "A curated, license-aware index of community-made Codex pets.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "discover": "node tools/discover.mjs",
+    "discover:write": "node tools/discover.mjs --write",
+    "discover:fetch": "node tools/discover.mjs --fetch --write",
+    "download": "node tools/download.mjs --write --petscodex-index",
+    "promote": "node tools/promote-downloads.mjs --write",
+    "import:candidates": "node tools/import-candidates.mjs --write",
+    "report": "node tools/report.mjs",
+    "validate": "node tools/validate.mjs",
+    "check": "node tools/validate.mjs"
+  },
+  "keywords": [
+    "codex",
+    "codex-pet",
+    "awesome-list",
+    "spritesheet"
+  ],
+  "license": "MIT"
+}

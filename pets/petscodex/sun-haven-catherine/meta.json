@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-catherine",
+  "name": "Catherine",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-catherine",
+  "description": "A chibi Sun Haven-style Codex pet with rabbit witch potion-and-seed magic.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-catherine"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-catherine/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-catherine/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-catherine.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-catherine/pet.json",
+      "bytes": 200,
+      "sha256": "2617351507a8fec6e76f93973938699f6d05112058b7e8a9862a44b8e604fd00"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-catherine/spritesheet.webp",
+      "bytes": 1314096,
+      "sha256": "8d8e4325b89fd6d6197a5a28e65dac93cc47757e5e802b6cce74e2d719eb2a05"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-catherine.zip",
+      "bytes": 311883,
+      "sha256": "39ec797f8b97cc123d688f8135ddc7194b5276df397674b7aebac18f94722019"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-catherine/sun-haven-catherine.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-catherine/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-catherine/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.166Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hausdorff-crumb",
+  "name": "Hausdorff Crumb",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hausdorff-crumb",
+  "description": "",
+  "generatedManifest": {
+    "id": "hausdorff-crumb",
+    "displayName": "Hausdorff Crumb",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hausdorff-crumb/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hausdorff-crumb"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "e810da3edf3a10069f330f27a3bf4124897793dcd2949d2a08b83cdeaba12da2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hausdorff-crumb/spritesheet.webp",
+      "bytes": 1768026,
+      "sha256": "79aad016c47a51711c368846fb4812aa41f1ab97256c4086dd63cf8ca76dde62"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hausdorff-crumb",
+      "bytes": 1768737,
+      "sha256": "f12688276f573d3ccd53486f2cadcf1d35e4a940a8b2d9274562b27ea95e573c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hausdorff-crumb/hausdorff-crumb.zip",
+  "petJsonPath": "pets/codex-pet/hausdorff-crumb/pet.json",
+  "spritesheetPath": "pets/codex-pet/hausdorff-crumb/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.703Z"
+}

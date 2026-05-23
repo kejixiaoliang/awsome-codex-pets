@@ -1,0 +1,39 @@
+{
+  "id": "commuai",
+  "name": "Commuai",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/commuai",
+  "description": "",
+  "generatedManifest": {
+    "id": "commuai",
+    "displayName": "Commuai",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/commuai/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/commuai"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1f82a94c9d004c9739b3f1f4953e9e9e3001e90ff0d57b2bfe25030917de6666"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/commuai/spritesheet.webp",
+      "bytes": 1813552,
+      "sha256": "7d07e27dc2e20c1491781e4342e3b4f3fb69071f3e0a1dd58693f97e9e0f83a1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/commuai",
+      "bytes": 1814209,
+      "sha256": "080a66a48ec808451df365fa7af969bfbf1350e3dc24cf5d62c5f10ae16eabf5"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/commuai/commuai.zip",
+  "petJsonPath": "pets/codex-pet/commuai/pet.json",
+  "spritesheetPath": "pets/codex-pet/commuai/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.701Z"
+}

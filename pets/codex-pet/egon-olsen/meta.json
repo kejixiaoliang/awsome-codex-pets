@@ -1,0 +1,39 @@
+{
+  "id": "egon-olsen",
+  "name": "Egon Olsen",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/egon-olsen",
+  "description": "",
+  "generatedManifest": {
+    "id": "egon-olsen",
+    "displayName": "Egon Olsen",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/egon-olsen/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/egon-olsen"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "bb9defa1bb65a80962f6ee82ffe51f6928b96dcadedd6fdde2b76e91446f3fda"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/egon-olsen/spritesheet.webp",
+      "bytes": 1771760,
+      "sha256": "d3ea6f1249db25f4264aa9d2e42b31ccdbe99ebe06533c88ca42be338e7a1ef0"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/egon-olsen",
+      "bytes": 1772448,
+      "sha256": "bfa80d8e9cece6b389b43db93e5c9de67a9a2769a29778a71d404cc42922894d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/egon-olsen/egon-olsen.zip",
+  "petJsonPath": "pets/codex-pet/egon-olsen/pet.json",
+  "spritesheetPath": "pets/codex-pet/egon-olsen/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.556Z"
+}

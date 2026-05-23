@@ -1,0 +1,39 @@
+{
+  "id": "cloudlet",
+  "name": "Cloudlet",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cloudlet",
+  "description": "",
+  "generatedManifest": {
+    "id": "cloudlet",
+    "displayName": "Cloudlet",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cloudlet/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cloudlet"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "4465d42c9d40c67f35ad6afeac644ef4b5b803d6281766bafc85450c16fd3397"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cloudlet/spritesheet.webp",
+      "bytes": 1744250,
+      "sha256": "bebc957f72e46d737b84bb39f2db61ac2757fd6aec22e753f1a9c97d9e720105"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cloudlet",
+      "bytes": 1744822,
+      "sha256": "fb59e30b27aaa24d11f09859798c304af7af3859550bf120ef92455b6b3d58e6"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cloudlet/cloudlet.zip",
+  "petJsonPath": "pets/codex-pet/cloudlet/pet.json",
+  "spritesheetPath": "pets/codex-pet/cloudlet/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.547Z"
+}

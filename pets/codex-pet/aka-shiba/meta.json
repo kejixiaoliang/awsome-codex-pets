@@ -1,0 +1,39 @@
+{
+  "id": "aka-shiba",
+  "name": "Aka Shiba",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/aka-shiba",
+  "description": "",
+  "generatedManifest": {
+    "id": "aka-shiba",
+    "displayName": "Aka Shiba",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/aka-shiba/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/aka-shiba"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "04d62026ba3d60c04bafde9f9b74dde55f36321a75cdc38adf49525a37f6aa3e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/aka-shiba/spritesheet.webp",
+      "bytes": 2102754,
+      "sha256": "747c5f0b9346eef68aad26ec20c989d32bb1ce3dd307de2e4012987433ff3e24"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/aka-shiba",
+      "bytes": 2103435,
+      "sha256": "42ea1d5b5c13586f34b864e1bd1a136c654777ef1496b305c16dd9cf0e2c4a33"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/aka-shiba/aka-shiba.zip",
+  "petJsonPath": "pets/codex-pet/aka-shiba/pet.json",
+  "spritesheetPath": "pets/codex-pet/aka-shiba/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.392Z"
+}

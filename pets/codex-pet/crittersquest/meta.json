@@ -1,0 +1,39 @@
+{
+  "id": "crittersquest",
+  "name": "Crittersquest",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/crittersquest",
+  "description": "",
+  "generatedManifest": {
+    "id": "crittersquest",
+    "displayName": "Crittersquest",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/crittersquest/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/crittersquest"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "aa011427b3c21b47ad583dfacdf454ecbc057760e0c511e173318fb3b7c0310f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/crittersquest/spritesheet.webp",
+      "bytes": 2820978,
+      "sha256": "f0a83d7c1176a283b1bb82a57b34573efd786d4f090573b233445c2c0ccd4446"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/crittersquest",
+      "bytes": 2821882,
+      "sha256": "f1ae8ca96b95dd2c3f7cf7cae258462faa7c2710e4a2f63766d72e19a2465d12"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/crittersquest/crittersquest.zip",
+  "petJsonPath": "pets/codex-pet/crittersquest/pet.json",
+  "spritesheetPath": "pets/codex-pet/crittersquest/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.885Z"
+}

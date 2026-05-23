@@ -1,0 +1,39 @@
+{
+  "id": "charles",
+  "name": "Charles",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/charles",
+  "description": "",
+  "generatedManifest": {
+    "id": "charles",
+    "displayName": "Charles",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/charles/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/charles"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "3a1db2708f4162ea2a9e91da95f8753495f727e8866f7f05d74346b9891c860a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/charles/spritesheet.webp",
+      "bytes": 2435026,
+      "sha256": "4588f03d8e8d32a8550f97e037a728c3373fcfcefd19f64e2ee5162771590884"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/charles",
+      "bytes": 2435771,
+      "sha256": "dd0c726a3ee294c428469df48ff2d5be4949e5b5e5e320415f86cd598582578f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/charles/charles.zip",
+  "petJsonPath": "pets/codex-pet/charles/pet.json",
+  "spritesheetPath": "pets/codex-pet/charles/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.281Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "freeticket",
+  "name": "Freeticket",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/freeticket",
+  "description": "",
+  "generatedManifest": {
+    "id": "freeticket",
+    "displayName": "Freeticket",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/freeticket/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/freeticket"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7a820b34df791fbe03c9587793a365c075a9429d5c0a9eba1cfbf378ceb931e2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/freeticket/spritesheet.webp",
+      "bytes": 2292906,
+      "sha256": "714b7011966a6ce7592f9d85c7c85b923e5d01055fd15d9964384cda7191ac75"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/freeticket",
+      "bytes": 2293670,
+      "sha256": "042072a9039c218b18922833c777a59f49927d5b17479fdf19827b2143d2bff7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/freeticket/freeticket.zip",
+  "petJsonPath": "pets/codex-pet/freeticket/pet.json",
+  "spritesheetPath": "pets/codex-pet/freeticket/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.892Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clawd-2",
+  "name": "Clawd 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/clawd-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "clawd-2",
+    "displayName": "Clawd 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/clawd-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/clawd-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "719c3427bb16396129e070eccd1df828c3458855eb621837c43e36c1cbef2c36"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/clawd-2/spritesheet.webp",
+      "bytes": 1050580,
+      "sha256": "97a3816dcaea1698aad7329d8ce15dfd48ca76285dd7a1298d4b5b7fb7ed4bca"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/clawd-2",
+      "bytes": 1051100,
+      "sha256": "543fe778ea35d571b4806c81f2838d1fafaeba7931c89d24797edf6ebca00a56"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/clawd-2/clawd-2.zip",
+  "petJsonPath": "pets/codex-pet/clawd-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/clawd-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.483Z"
+}

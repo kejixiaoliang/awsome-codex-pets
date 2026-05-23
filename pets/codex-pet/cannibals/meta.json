@@ -1,0 +1,39 @@
+{
+  "id": "cannibals",
+  "name": "Cannibals",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cannibals",
+  "description": "",
+  "generatedManifest": {
+    "id": "cannibals",
+    "displayName": "Cannibals",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cannibals/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cannibals"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "f28ca8cd30eb0c9a30a39710e3fdf4fa001737c58eabca346c7bc1ac5da14f17"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cannibals/spritesheet.webp",
+      "bytes": 3369402,
+      "sha256": "702b10953e4ba3d109af22fb37d69734452c7e632360aae1ff1c634bb676311e"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cannibals",
+      "bytes": 3370406,
+      "sha256": "88112a2640c38d2ea8aa216a419f2d40ec96c49cda1e7ffd104ada22b4f224a5"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cannibals/cannibals.zip",
+  "petJsonPath": "pets/codex-pet/cannibals/pet.json",
+  "spritesheetPath": "pets/codex-pet/cannibals/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.156Z"
+}

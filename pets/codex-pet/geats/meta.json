@@ -1,0 +1,39 @@
+{
+  "id": "geats",
+  "name": "Geats",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/geats",
+  "description": "",
+  "generatedManifest": {
+    "id": "geats",
+    "displayName": "Geats",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/geats/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/geats"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "94db7af08f236fabd3c9e57703d97008465b4f7f76e76e1ec8b75b396e4d864d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/geats/spritesheet.webp",
+      "bytes": 2293188,
+      "sha256": "ffe7bc63c0dd816610494e58da364c7eba5920bbe4aa757e8100ee44c36d1825"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/geats",
+      "bytes": 2293943,
+      "sha256": "7f3d07f3a940df757738a563a0870e0f4db24d17d9b3053b7310587aa39ae5a2"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/geats/geats.zip",
+  "petJsonPath": "pets/codex-pet/geats/pet.json",
+  "spritesheetPath": "pets/codex-pet/geats/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.067Z"
+}

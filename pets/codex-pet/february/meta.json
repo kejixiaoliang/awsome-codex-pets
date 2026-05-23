@@ -1,0 +1,39 @@
+{
+  "id": "february",
+  "name": "February",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/february",
+  "description": "",
+  "generatedManifest": {
+    "id": "february",
+    "displayName": "February",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/february/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/february"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1f14e80302e6462997fbe1500ac9d19ff50677be258661ab623d9055376ab274"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/february/spritesheet.webp",
+      "bytes": 2125172,
+      "sha256": "df14c1d9e97f1b8ce6fe434f468c1c0f7fedcd3c02760c0b184c0477eebc1887"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/february",
+      "bytes": 2125921,
+      "sha256": "9b71f0218662f0ce36e5d6d62b27a58f76cb58dc4b6ba25d4eb2310241b23873"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/february/february.zip",
+  "petJsonPath": "pets/codex-pet/february/pet.json",
+  "spritesheetPath": "pets/codex-pet/february/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.755Z"
+}

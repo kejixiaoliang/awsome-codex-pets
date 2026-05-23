@@ -1,0 +1,39 @@
+{
+  "id": "gilgamesh-v3",
+  "name": "Gilgamesh V3",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gilgamesh-v3",
+  "description": "",
+  "generatedManifest": {
+    "id": "gilgamesh-v3",
+    "displayName": "Gilgamesh V3",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gilgamesh-v3/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gilgamesh-v3"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d07fb4fb2fcfce30ad6e704de8ba72674e915d490d48e378620a2dc3d9980270"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gilgamesh-v3/spritesheet.webp",
+      "bytes": 266942,
+      "sha256": "c41233b60ae4c1dd23e3a5dc69a61a5b863cb9a9d17b8cb9ed76d9b4fb1b2263"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gilgamesh-v3",
+      "bytes": 257930,
+      "sha256": "a1a6af2a9915b50d8139a34a044037f5980093efcd8a0989ac8679183d7a95db"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gilgamesh-v3/gilgamesh-v3.zip",
+  "petJsonPath": "pets/codex-pet/gilgamesh-v3/pet.json",
+  "spritesheetPath": "pets/codex-pet/gilgamesh-v3/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.094Z"
+}

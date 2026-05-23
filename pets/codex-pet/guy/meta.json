@@ -1,0 +1,39 @@
+{
+  "id": "guy",
+  "name": "Guy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/guy",
+  "description": "",
+  "generatedManifest": {
+    "id": "guy",
+    "displayName": "Guy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/guy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/guy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "bb3e53066b29e4b9f0cb2f3d55b55a36cdb2b18059656b3536558f2be0c204b3"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/guy/spritesheet.webp",
+      "bytes": 2040396,
+      "sha256": "96daae7d0de5d2c00a4497116a6e59bd3ba29ea8ec43268f410110bdfabccca0"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/guy",
+      "bytes": 2041091,
+      "sha256": "a71f066d0ed74edf178a10583a99234a9ecad7f5750a525efd6ffacbd4d6d099"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/guy/guy.zip",
+  "petJsonPath": "pets/codex-pet/guy/pet.json",
+  "spritesheetPath": "pets/codex-pet/guy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.402Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "doom-as-a-pet",
+  "name": "Doom As A Pet",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/doom-as-a-pet",
+  "description": "",
+  "generatedManifest": {
+    "id": "doom-as-a-pet",
+    "displayName": "Doom As A Pet",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/doom-as-a-pet/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/doom-as-a-pet"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1f1a87f72b0746747a364985e7ba18b20ed792152e3b89f2b2a9cc0d629a8327"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/doom-as-a-pet/spritesheet.webp",
+      "bytes": 199348,
+      "sha256": "c09b61bf56fca2540991d585e6bd543672fe219ed8940f1fd8701555662606ea"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/doom-as-a-pet",
+      "bytes": 196516,
+      "sha256": "5cf468bb7dee7d794ad43ebd4ac659933f64c2af1d08a2b5fb43004cde1058a0"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/doom-as-a-pet/doom-as-a-pet.zip",
+  "petJsonPath": "pets/codex-pet/doom-as-a-pet/pet.json",
+  "spritesheetPath": "pets/codex-pet/doom-as-a-pet/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.387Z"
+}

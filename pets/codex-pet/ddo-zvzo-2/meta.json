@@ -1,0 +1,39 @@
+{
+  "id": "ddo-zvzo-2",
+  "name": "Ddo Zvzo 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ddo-zvzo-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "ddo-zvzo-2",
+    "displayName": "Ddo Zvzo 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ddo-zvzo-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ddo-zvzo-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ed9f817f1959a908aa18fe1a3b7bb2860dcdcf9434e0b96f613d18cf7eab719e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ddo-zvzo-2/spritesheet.webp",
+      "bytes": 200874,
+      "sha256": "efbef96ac199cd095c5a90a20e6deb59947d860ac9642abfc6636307f18a8e64"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ddo-zvzo-2",
+      "bytes": 198401,
+      "sha256": "100d1ed3184cc9c0552952473454ea8477b29ff72fe0cbb2715dcc8f688fc9bd"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ddo-zvzo-2/ddo-zvzo-2.zip",
+  "petJsonPath": "pets/codex-pet/ddo-zvzo-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/ddo-zvzo-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.169Z"
+}

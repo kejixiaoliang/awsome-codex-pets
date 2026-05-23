@@ -1,0 +1,39 @@
+{
+  "id": "eve",
+  "name": "Eve",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/eve",
+  "description": "",
+  "generatedManifest": {
+    "id": "eve",
+    "displayName": "Eve",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/eve/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/eve"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "3936981a5b95cb252d86d4ac80b83f6c7761dff6f5665fefb03ff211a1d5343c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/eve/spritesheet.webp",
+      "bytes": 1437454,
+      "sha256": "e445b22656450e8d118892ab647fa8edbc6890727620f3aae5c7368860574ba7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/eve",
+      "bytes": 1438024,
+      "sha256": "351fd6577967644e7723010aa3b0c7c1ce8b80fe46925c1233288bd2fb80fdab"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/eve/eve.zip",
+  "petJsonPath": "pets/codex-pet/eve/pet.json",
+  "spritesheetPath": "pets/codex-pet/eve/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.691Z"
+}

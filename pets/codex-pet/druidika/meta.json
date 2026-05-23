@@ -1,0 +1,39 @@
+{
+  "id": "druidika",
+  "name": "Druidika",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/druidika",
+  "description": "",
+  "generatedManifest": {
+    "id": "druidika",
+    "displayName": "Druidika",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/druidika/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/druidika"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "742d0e696b4ad7c656160922e5f98ebdaa55c6ec64b1ec96d71ac3cfa32128df"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/druidika/spritesheet.webp",
+      "bytes": 2584706,
+      "sha256": "5d353ea1d2665e5ffe93e456cf8200376a20fa413fa9fe5d2d97f00b514fac28"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/druidika",
+      "bytes": 2583151,
+      "sha256": "fff163c76c6d785060282750bffdd1ba96a7da271b8739ee33dae3be9d2d118c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/druidika/druidika.zip",
+  "petJsonPath": "pets/codex-pet/druidika/pet.json",
+  "spritesheetPath": "pets/codex-pet/druidika/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.456Z"
+}

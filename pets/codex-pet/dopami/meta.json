@@ -1,0 +1,39 @@
+{
+  "id": "dopami",
+  "name": "Dopami",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dopami",
+  "description": "",
+  "generatedManifest": {
+    "id": "dopami",
+    "displayName": "Dopami",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dopami/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dopami"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "36143a86945bfe336ff94475a2ae1971c109abe32415bd8ec41200edc512c7b9"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dopami/spritesheet.webp",
+      "bytes": 2268028,
+      "sha256": "cd6ed424f801cb5a018ae6589c75011305d464824a16e46c3a0e1bc9e32511b6"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dopami",
+      "bytes": 2268773,
+      "sha256": "95b0c9a6a9a64ef06c0b5df8fc8df2a59297f26faa33bcd943fda676850fb666"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dopami/dopami.zip",
+  "petJsonPath": "pets/codex-pet/dopami/pet.json",
+  "spritesheetPath": "pets/codex-pet/dopami/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.414Z"
+}

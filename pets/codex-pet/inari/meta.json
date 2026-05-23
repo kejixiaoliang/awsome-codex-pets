@@ -1,0 +1,39 @@
+{
+  "id": "inari",
+  "name": "Inari",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/inari",
+  "description": "",
+  "generatedManifest": {
+    "id": "inari",
+    "displayName": "Inari",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/inari/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/inari"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5e8f4ce5affb6ae7a3a8793730495f34b455a6b832f00cb9175f64cab27ceb4d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/inari/spritesheet.webp",
+      "bytes": 1739720,
+      "sha256": "9a19d2eafb87fb26ba238acdac251adbe9933e316543b9177aa28386ddd37d50"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/inari",
+      "bytes": 1740373,
+      "sha256": "f3f3c7d1e8d33de60001b7234c3af80f544044ce581fd81acc90c1cfe10c17eb"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/inari/inari.zip",
+  "petJsonPath": "pets/codex-pet/inari/pet.json",
+  "spritesheetPath": "pets/codex-pet/inari/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.813Z"
+}

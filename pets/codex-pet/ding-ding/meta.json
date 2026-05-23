@@ -1,0 +1,39 @@
+{
+  "id": "ding-ding",
+  "name": "Ding Ding",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ding-ding",
+  "description": "",
+  "generatedManifest": {
+    "id": "ding-ding",
+    "displayName": "Ding Ding",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ding-ding/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ding-ding"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b5e7901537ca4ac43d3d06ac6d76455c305664913724dedb5e618020c895ea53"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ding-ding/spritesheet.webp",
+      "bytes": 1636166,
+      "sha256": "8743de70a0495574ce31986cef1b62e355bbdb3bd7480eb85eec7ad5b6394096"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ding-ding",
+      "bytes": 1636751,
+      "sha256": "7228d24332a5837cb2f97a6a52e7a5957086a0c205a22b26cd1f77410b715649"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ding-ding/ding-ding.zip",
+  "petJsonPath": "pets/codex-pet/ding-ding/pet.json",
+  "spritesheetPath": "pets/codex-pet/ding-ding/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.285Z"
+}

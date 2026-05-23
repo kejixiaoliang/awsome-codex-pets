@@ -1,0 +1,39 @@
+{
+  "id": "danny",
+  "name": "Danny",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/danny",
+  "description": "",
+  "generatedManifest": {
+    "id": "danny",
+    "displayName": "Danny",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/danny/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/danny"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "480feb86700be389b5d765cc02338f781ba458a0a8cb3c97ad0bbb5827e81958"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/danny/spritesheet.webp",
+      "bytes": 2357472,
+      "sha256": "b23a76aa5d049d045ed40c332051a23329bb21f9f5afb58df41ecf4a7b764c46"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/danny",
+      "bytes": 2358237,
+      "sha256": "1c9ad78fafe7838d1711dcd31879dd0602dabe3a65582504a3806b8a9eb7b5d1"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/danny/danny.zip",
+  "petJsonPath": "pets/codex-pet/danny/pet.json",
+  "spritesheetPath": "pets/codex-pet/danny/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.092Z"
+}

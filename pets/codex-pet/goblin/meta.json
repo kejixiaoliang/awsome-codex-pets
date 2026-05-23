@@ -1,0 +1,39 @@
+{
+  "id": "goblin",
+  "name": "Goblin",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/goblin",
+  "description": "",
+  "generatedManifest": {
+    "id": "goblin",
+    "displayName": "Goblin",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/goblin/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/goblin"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "df725b85bb0fc18870693ac9c06c5b89d4827eabe00de88e1db413ad6f824902"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/goblin/spritesheet.webp",
+      "bytes": 1858662,
+      "sha256": "405f0da9b68ec25990a18701cc685e0ba8042da13e67fed540f7be19eec196b9"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/goblin",
+      "bytes": 1859346,
+      "sha256": "50b36cf1d4810c7da5e3a1168b1852a6611da6eb201d5522d8a17604ed684fc7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/goblin/goblin.zip",
+  "petJsonPath": "pets/codex-pet/goblin/pet.json",
+  "spritesheetPath": "pets/codex-pet/goblin/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.116Z"
+}

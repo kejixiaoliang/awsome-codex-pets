@@ -1,0 +1,41 @@
+{
+  "id": "chiikawa",
+  "name": "Chiikawa",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/chiikawa",
+  "description": "A tiny round white comfort-mascot Codex pet with shy smiles, sleepy poses, and cheerful sticker-sprite energy.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "chiikawa"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/chiikawa/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/chiikawa/spritesheet.webp",
+    "package": "https://petscodex.com/download/chiikawa.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/chiikawa/pet.json",
+      "bytes": 224,
+      "sha256": "44621ee734fbb24442849f27474bc20d79e64624ace0631513592216a69bc81d"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/chiikawa/spritesheet.webp",
+      "bytes": 1242598,
+      "sha256": "6ce4088c5347c476322e2e77e2a4730018c48f01c541f35a6ae91c4675e4ac74"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/chiikawa.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/chiikawa/chiikawa.zip",
+  "petJsonPath": "pets/petscodex/chiikawa/pet.json",
+  "spritesheetPath": "pets/petscodex/chiikawa/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.083Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "gukegare",
+  "name": "Gukegare",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gukegare",
+  "description": "",
+  "generatedManifest": {
+    "id": "gukegare",
+    "displayName": "Gukegare",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gukegare/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gukegare"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "cb1982931918f3071e2472e54fae68fb33d4718717dbd3c759e0e00dd20310d1"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gukegare/spritesheet.webp",
+      "bytes": 2575120,
+      "sha256": "0d88f9d8a640619a1f53ca86a53a44f6ad2842a7c1ae6079d675e6713556aabe"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gukegare",
+      "bytes": 2575460,
+      "sha256": "e8a118652de6a3842706033a08cfd9fc46ce4a1fe63b9c03bd30e5f880a122d5"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gukegare/gukegare.zip",
+  "petJsonPath": "pets/codex-pet/gukegare/pet.json",
+  "spritesheetPath": "pets/codex-pet/gukegare/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.350Z"
+}

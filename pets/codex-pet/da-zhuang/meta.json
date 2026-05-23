@@ -1,0 +1,39 @@
+{
+  "id": "da-zhuang",
+  "name": "Da Zhuang",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/da-zhuang",
+  "description": "",
+  "generatedManifest": {
+    "id": "da-zhuang",
+    "displayName": "Da Zhuang",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/da-zhuang/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/da-zhuang"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b6c4a898720d5b118e0e93c7b7620e19ef5c9c24bed2ac3708d2b82c93679fb5"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/da-zhuang/spritesheet.webp",
+      "bytes": 1989638,
+      "sha256": "9f7d4b3e8dfbb9622ee1f86a6783225f52a796101137780a4a765ca14fd806c1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/da-zhuang",
+      "bytes": 1990318,
+      "sha256": "92e3042289d1c274b34145844fe9b12d4ebb44fec89146b317e024a3404ee5f2"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/da-zhuang/da-zhuang.zip",
+  "petJsonPath": "pets/codex-pet/da-zhuang/pet.json",
+  "spritesheetPath": "pets/codex-pet/da-zhuang/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.010Z"
+}

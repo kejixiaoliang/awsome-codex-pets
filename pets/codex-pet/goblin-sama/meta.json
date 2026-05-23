@@ -1,0 +1,39 @@
+{
+  "id": "goblin-sama",
+  "name": "Goblin Sama",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/goblin-sama",
+  "description": "",
+  "generatedManifest": {
+    "id": "goblin-sama",
+    "displayName": "Goblin Sama",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/goblin-sama/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/goblin-sama"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "38bdcd88d365d0bed5d1897530b6e628d1c155a915e52162869b470e560e4873"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/goblin-sama/spritesheet.webp",
+      "bytes": 2217418,
+      "sha256": "3ad839a0a3952ab053732e98aee8735127b705059cbd286ac509a0789752a0f1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/goblin-sama",
+      "bytes": 2215663,
+      "sha256": "a69c40eb48a7f891785e347f1b10b61876c6dc2fb5bb628b2a14a7cbe5823875"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/goblin-sama/goblin-sama.zip",
+  "petJsonPath": "pets/codex-pet/goblin-sama/pet.json",
+  "spritesheetPath": "pets/codex-pet/goblin-sama/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.129Z"
+}

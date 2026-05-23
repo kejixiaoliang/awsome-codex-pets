@@ -1,0 +1,39 @@
+{
+  "id": "dex-star",
+  "name": "Dex Star",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dex-star",
+  "description": "",
+  "generatedManifest": {
+    "id": "dex-star",
+    "displayName": "Dex Star",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dex-star/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dex-star"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b839e2d851658fce9df6d89284cec3a92ae678542c8f3cc28a71c78c1731b995"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dex-star/spritesheet.webp",
+      "bytes": 1862792,
+      "sha256": "5f28473aea09961b257c38b0e8a41378b40067a9368c024c2e0341f107b6fe19"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dex-star",
+      "bytes": 1863437,
+      "sha256": "df887d409e0117edc0ede9ad02e1d438d341cca3d7c3b8b1f03cc5c039fd4a65"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dex-star/dex-star.zip",
+  "petJsonPath": "pets/codex-pet/dex-star/pet.json",
+  "spritesheetPath": "pets/codex-pet/dex-star/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.222Z"
+}

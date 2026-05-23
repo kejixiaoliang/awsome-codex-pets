@@ -1,0 +1,39 @@
+{
+  "id": "dumpster-fire",
+  "name": "Dumpster Fire",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dumpster-fire",
+  "description": "",
+  "generatedManifest": {
+    "id": "dumpster-fire",
+    "displayName": "Dumpster Fire",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dumpster-fire/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dumpster-fire"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5eb47dba40e8618f5d05814fc3fbce0f4259a2522cd951757f62417f57fe9e84"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dumpster-fire/spritesheet.webp",
+      "bytes": 1972872,
+      "sha256": "b01792079d5f8e8f7e36bfa93809c0d9c71bdb74b2ac60165bea80c06985757b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dumpster-fire",
+      "bytes": 1973555,
+      "sha256": "b6bb564627cd72ef1183883b1647ac8aba6639ad5b4e7654de17c3dccd48eeed"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dumpster-fire/dumpster-fire.zip",
+  "petJsonPath": "pets/codex-pet/dumpster-fire/pet.json",
+  "spritesheetPath": "pets/codex-pet/dumpster-fire/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.487Z"
+}

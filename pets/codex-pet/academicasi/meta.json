@@ -1,0 +1,39 @@
+{
+  "id": "academicasi",
+  "name": "Academicasi",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/academicasi",
+  "description": "",
+  "generatedManifest": {
+    "id": "academicasi",
+    "displayName": "Academicasi",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/academicasi/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/academicasi"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "40f70409f43613c6736988dab08556b8ae185e6123ab09b177396930d0e327ea"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/academicasi/spritesheet.webp",
+      "bytes": 2201714,
+      "sha256": "3b5755e97beae458fe47af13162c1851f3e911e88062a689e7e422a311639d0d"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/academicasi",
+      "bytes": 2202498,
+      "sha256": "08a5ce32b84ad3bf9e295e5bc278751b2c6ca6d9e629f598d9922312f05bc753"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/academicasi/academicasi.zip",
+  "petJsonPath": "pets/codex-pet/academicasi/pet.json",
+  "spritesheetPath": "pets/codex-pet/academicasi/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.256Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bipy",
+  "name": "Bipy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bipy",
+  "description": "",
+  "generatedManifest": {
+    "id": "bipy",
+    "displayName": "Bipy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bipy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bipy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "2982639a9afc886621d9e3c4eb31cb732b83b03c19ea98c6d6e28ee74d23515f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bipy/spritesheet.webp",
+      "bytes": 2706576,
+      "sha256": "9f4f2ecf18b59aec4565aeee9d35e5468f50e0e8437a7d464b8793b394644fa2"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bipy",
+      "bytes": 2707416,
+      "sha256": "c3ca4a73822aba6f0bd668fe38b52e6a1ac30a19d3785cb453f736b3d9262f34"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bipy/bipy.zip",
+  "petJsonPath": "pets/codex-pet/bipy/pet.json",
+  "spritesheetPath": "pets/codex-pet/bipy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.771Z"
+}

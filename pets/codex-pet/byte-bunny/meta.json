@@ -1,0 +1,39 @@
+{
+  "id": "byte-bunny",
+  "name": "Byte Bunny",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/byte-bunny",
+  "description": "",
+  "generatedManifest": {
+    "id": "byte-bunny",
+    "displayName": "Byte Bunny",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/byte-bunny/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/byte-bunny"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5354685d960543fb6968404db4fbe0e28726799bf2f2388ca21c1f261992b464"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/byte-bunny/spritesheet.webp",
+      "bytes": 1572650,
+      "sha256": "75da0d1a94f2933de217702a385d72acb8501aec24eacceddd44bed212a30e34"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/byte-bunny",
+      "bytes": 1573298,
+      "sha256": "bc3cf48fc0cced5609d043390e264963aae2b5de4b1f1f91f386e3cc7db7fde7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/byte-bunny/byte-bunny.zip",
+  "petJsonPath": "pets/codex-pet/byte-bunny/pet.json",
+  "spritesheetPath": "pets/codex-pet/byte-bunny/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.042Z"
+}

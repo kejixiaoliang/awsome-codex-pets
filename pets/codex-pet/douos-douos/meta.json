@@ -1,0 +1,39 @@
+{
+  "id": "douos-douos",
+  "name": "Douos Douos",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/douos-douos",
+  "description": "",
+  "generatedManifest": {
+    "id": "douos-douos",
+    "displayName": "Douos Douos",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/douos-douos/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/douos-douos"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "f698d588761c2d613e4dc3714dcf2b1289be12c2d559640b39a3e0a841213a5c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/douos-douos/spritesheet.webp",
+      "bytes": 2378034,
+      "sha256": "7ae8e5a3f2194d7fc50d86ee63a8a83f6ecc2c3e5d62b4e3f55c8fbd7a85dd5c"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/douos-douos",
+      "bytes": 2378831,
+      "sha256": "d4f44f9386db3d754a416805f3cd645ffeda1dc1814d3d2eb11dce01dd406380"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/douos-douos/douos-douos.zip",
+  "petJsonPath": "pets/codex-pet/douos-douos/pet.json",
+  "spritesheetPath": "pets/codex-pet/douos-douos/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.429Z"
+}

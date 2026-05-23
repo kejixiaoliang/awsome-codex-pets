@@ -1,0 +1,39 @@
+{
+  "id": "cosmo",
+  "name": "Cosmo",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cosmo",
+  "description": "",
+  "generatedManifest": {
+    "id": "cosmo",
+    "displayName": "Cosmo",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cosmo/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cosmo"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "61918a72c3d49ffd13362dd1109713f9dd5bfc677e9b52a63136408c50018ecf"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cosmo/spritesheet.webp",
+      "bytes": 2512092,
+      "sha256": "a24be75d4a3862a8858e57b874ce107d2600b285c2a28e686210bcd5bcec93c1"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cosmo",
+      "bytes": 2512901,
+      "sha256": "39b38ea090b333b9101a2d8aa9778cd0a9890590994ea41ca893a194011dc835"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cosmo/cosmo.zip",
+  "petJsonPath": "pets/codex-pet/cosmo/pet.json",
+  "spritesheetPath": "pets/codex-pet/cosmo/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.800Z"
+}

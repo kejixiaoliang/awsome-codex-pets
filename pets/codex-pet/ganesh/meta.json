@@ -1,0 +1,39 @@
+{
+  "id": "ganesh",
+  "name": "Ganesh",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ganesh",
+  "description": "",
+  "generatedManifest": {
+    "id": "ganesh",
+    "displayName": "Ganesh",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ganesh/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ganesh"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c18e643ef063b6c28d0026d48929e94f9473e5fa0a11b4dd7ff818bdc33707bd"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ganesh/spritesheet.webp",
+      "bytes": 2565650,
+      "sha256": "281b14c0e65bb87b3255ecfc1e249fd777434ea2cbef5094de01e1f55f34fe66"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ganesh",
+      "bytes": 2566358,
+      "sha256": "3cbab108b0966b6c7c5b881a18dcab73a28afecd77a965582518ff383941b00b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ganesh/ganesh.zip",
+  "petJsonPath": "pets/codex-pet/ganesh/pet.json",
+  "spritesheetPath": "pets/codex-pet/ganesh/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.037Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "humboldt",
+  "name": "Humboldt",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/humboldt",
+  "description": "",
+  "generatedManifest": {
+    "id": "humboldt",
+    "displayName": "Humboldt",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/humboldt/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/humboldt"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "be4479f21a2eaea4fb19fa112081bddf5fb8efeff1eae65778672ff94cc0f12f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/humboldt/spritesheet.webp",
+      "bytes": 2052704,
+      "sha256": "71ad882853713b544bdd10887e815a93bbd93840355699863b8cf71994f56cfc"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/humboldt",
+      "bytes": 2052054,
+      "sha256": "1de7062cb59e5dc1561022afa2daf8d432205436d3ea88d291dac97581483946"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/humboldt/humboldt.zip",
+  "petJsonPath": "pets/codex-pet/humboldt/pet.json",
+  "spritesheetPath": "pets/codex-pet/humboldt/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.772Z"
+}

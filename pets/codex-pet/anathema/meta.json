@@ -1,0 +1,39 @@
+{
+  "id": "anathema",
+  "name": "Anathema",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/anathema",
+  "description": "",
+  "generatedManifest": {
+    "id": "anathema",
+    "displayName": "Anathema",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/anathema/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/anathema"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "947116d571eec6c964112ab43591130a7ea1298d6580e4d0ff66e4efdc77b186"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/anathema/spritesheet.webp",
+      "bytes": 2044652,
+      "sha256": "45bea3a73a61a5cf4b47b7e736de5873a4b13240a275a61088c8283ad238bc83"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/anathema",
+      "bytes": 2043986,
+      "sha256": "3276ddd0943de6c8d691a9147294bcc44f16d2781c5b36499585ebb62ecdb7fc"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/anathema/anathema.zip",
+  "petJsonPath": "pets/codex-pet/anathema/pet.json",
+  "spritesheetPath": "pets/codex-pet/anathema/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.463Z"
+}

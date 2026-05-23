@@ -1,0 +1,39 @@
+{
+  "id": "guybrush",
+  "name": "Guybrush",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/guybrush",
+  "description": "",
+  "generatedManifest": {
+    "id": "guybrush",
+    "displayName": "Guybrush",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/guybrush/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/guybrush"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "77cb16b50ad189adfd49f75593b1825b1622752603f4d9fe9bfa88291bdc745c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/guybrush/spritesheet.webp",
+      "bytes": 1444554,
+      "sha256": "1aa3f90f7584cf7fdf9237ab5e82e0030192c68b7dcc860c01c06f9f90ac60b0"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/guybrush",
+      "bytes": 1445163,
+      "sha256": "29c543ba6af31c015bb68b34299328e65a0693f9c572c1414f0449b2d432bf44"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/guybrush/guybrush.zip",
+  "petJsonPath": "pets/codex-pet/guybrush/pet.json",
+  "spritesheetPath": "pets/codex-pet/guybrush/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.424Z"
+}

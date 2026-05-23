@@ -1,0 +1,39 @@
+{
+  "id": "fine-pup",
+  "name": "Fine Pup",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/fine-pup",
+  "description": "",
+  "generatedManifest": {
+    "id": "fine-pup",
+    "displayName": "Fine Pup",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/fine-pup/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/fine-pup"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "0b0ccd0063823f4a9abad7dbfebd2710fd7b6d6593dbce5bfe91d40f34666284"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/fine-pup/spritesheet.webp",
+      "bytes": 1707760,
+      "sha256": "6e9b087e2ff79b602ac6c96973474654d7cab41b8e71e294c5f2ed6d463604f3"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/fine-pup",
+      "bytes": 1708412,
+      "sha256": "dad10f2e052231fb21b4dcbb5c2bbabf406d5b38fc45cd344199aad3be969879"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/fine-pup/fine-pup.zip",
+  "petJsonPath": "pets/codex-pet/fine-pup/pet.json",
+  "spritesheetPath": "pets/codex-pet/fine-pup/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.822Z"
+}

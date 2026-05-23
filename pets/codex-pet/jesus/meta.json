@@ -1,0 +1,39 @@
+{
+  "id": "jesus",
+  "name": "Jesus",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/jesus",
+  "description": "",
+  "generatedManifest": {
+    "id": "jesus",
+    "displayName": "Jesus",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/jesus/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/jesus"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c5f10916d6661c391b415248a271b1c760c60c8520cdf60fde8b9fa778c4097e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/jesus/spritesheet.webp",
+      "bytes": 2006718,
+      "sha256": "612ea2b68623587d8e62e3d152f93f3f32949f81d5c1e2f1eb844c21c4407c72"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/jesus",
+      "bytes": 2007407,
+      "sha256": "f0c430c89e0caedaf4f598382698a50d91028eeaa62d18e3e9ede40ef6d972b1"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/jesus/jesus.zip",
+  "petJsonPath": "pets/codex-pet/jesus/pet.json",
+  "spritesheetPath": "pets/codex-pet/jesus/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.958Z"
+}

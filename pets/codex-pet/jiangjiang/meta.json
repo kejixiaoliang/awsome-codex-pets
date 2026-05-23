@@ -1,0 +1,39 @@
+{
+  "id": "jiangjiang",
+  "name": "Jiangjiang",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/jiangjiang",
+  "description": "",
+  "generatedManifest": {
+    "id": "jiangjiang",
+    "displayName": "Jiangjiang",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/jiangjiang/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/jiangjiang"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "86850d56fcca1d7d7b63eecf6d1ec3acf61695285d5588a2a7937baabcd0ca6b"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/jiangjiang/spritesheet.webp",
+      "bytes": 944476,
+      "sha256": "77b255347a666694f6ed03c37aa1c9c9dae368a037ce5e33d5ae71dd365c3de5"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/jiangjiang",
+      "bytes": 944919,
+      "sha256": "93ab840e3cc152701a2b151aad5a9a14a04098f76c5cdabb2402fbb048df2a00"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/jiangjiang/jiangjiang.zip",
+  "petJsonPath": "pets/codex-pet/jiangjiang/pet.json",
+  "spritesheetPath": "pets/codex-pet/jiangjiang/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.974Z"
+}

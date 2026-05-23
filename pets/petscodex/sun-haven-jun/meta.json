@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-jun",
+  "name": "Jun",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-jun",
+  "description": "A warm teacher and counselor Sun Haven-style Codex pet with gentle creative energy.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-jun"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-jun/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-jun/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-jun.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-jun/pet.json",
+      "bytes": 197,
+      "sha256": "4c34b385965f0fca966aad0d84270d67dcd42532d57e7a946106908c1f663691"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-jun/spritesheet.webp",
+      "bytes": 2701422,
+      "sha256": "c0ebfa50bd9eb174f95c6d717c753be0be97c5255b892b7fe15e080b986bb18b"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-jun.zip",
+      "bytes": 311883,
+      "sha256": "13f38273619cb6e4bd9fa498575b8a2b838dface1f402ab62eff724ac036950a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-jun/sun-haven-jun.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-jun/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-jun/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.192Z"
+}

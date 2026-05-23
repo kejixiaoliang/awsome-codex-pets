@@ -1,0 +1,39 @@
+{
+  "id": "cream-cat",
+  "name": "Cream Cat",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cream-cat",
+  "description": "",
+  "generatedManifest": {
+    "id": "cream-cat",
+    "displayName": "Cream Cat",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cream-cat/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cream-cat"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7886497111263a06fd558f7faa03f20f0f14ccf006dda9b56222b9204481e6a8"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cream-cat/spritesheet.webp",
+      "bytes": 1357900,
+      "sha256": "b71f470974d6540537bffb996ca20e42dbb676db2154202ef5d79d0bcdb562bb"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cream-cat",
+      "bytes": 1358498,
+      "sha256": "d96a8eb398579d30f03c3fd472f86b01fcbb1c8666fd6bf425aa25a1b2e40f2e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cream-cat/cream-cat.zip",
+  "petJsonPath": "pets/codex-pet/cream-cat/pet.json",
+  "spritesheetPath": "pets/codex-pet/cream-cat/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.865Z"
+}

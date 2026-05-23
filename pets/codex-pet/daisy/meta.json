@@ -1,0 +1,39 @@
+{
+  "id": "daisy",
+  "name": "Daisy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/daisy",
+  "description": "",
+  "generatedManifest": {
+    "id": "daisy",
+    "displayName": "Daisy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/daisy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/daisy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "46cc4c9b9e954bf060794a575f62accbae8419504e9a9a941e93029a134e1c66"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/daisy/spritesheet.webp",
+      "bytes": 1861182,
+      "sha256": "4a67c264bdf937fb083c568acbba800400c97449118d74d108867747fc1ee1b5"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/daisy",
+      "bytes": 1861861,
+      "sha256": "8907248784e22f2ad676eb6209afd2ca88e940bad87a9632db6ee0b47a83aff7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/daisy/daisy.zip",
+  "petJsonPath": "pets/codex-pet/daisy/pet.json",
+  "spritesheetPath": "pets/codex-pet/daisy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.043Z"
+}

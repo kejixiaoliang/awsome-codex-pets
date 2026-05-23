@@ -1,0 +1,39 @@
+{
+  "id": "columbinya-2",
+  "name": "Columbinya 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/columbinya-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "columbinya-2",
+    "displayName": "Columbinya 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/columbinya-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/columbinya-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "9f69000512b4b065a9742fa90a86897f460b4185f27ae5f10e2d5cbde4fea7bb"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/columbinya-2/spritesheet.webp",
+      "bytes": 2368802,
+      "sha256": "e2084a769c31c248b13b16bdfa2b4e599996a2da1965f6c0c805598d71c36e69"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/columbinya-2",
+      "bytes": 2369614,
+      "sha256": "11851b16c1e9ee41d7a848c202364389327925330a0a0cd8a5bf178ec2982701"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/columbinya-2/columbinya-2.zip",
+  "petJsonPath": "pets/codex-pet/columbinya-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/columbinya-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.678Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "carti",
+  "name": "Carti",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/carti",
+  "description": "",
+  "generatedManifest": {
+    "id": "carti",
+    "displayName": "Carti",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/carti/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/carti"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "e086a1489a635bf6b415711434bfcbab326edbfbad54e2d1a81da560f2038fc6"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/carti/spritesheet.webp",
+      "bytes": 664250,
+      "sha256": "99e5a198336df7c4590101ea2eda6cac4297cfb7105d121c9f062b0090a0b723"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/carti",
+      "bytes": 663947,
+      "sha256": "3ecf24627da1519a075cfdd57227ee7ab9e54a2157ca934443932b6ab30e394b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/carti/carti.zip",
+  "petJsonPath": "pets/codex-pet/carti/pet.json",
+  "spritesheetPath": "pets/codex-pet/carti/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.202Z"
+}

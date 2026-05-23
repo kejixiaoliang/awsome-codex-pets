@@ -1,0 +1,39 @@
+{
+  "id": "harry-poptart",
+  "name": "Harry Poptart",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/harry-poptart",
+  "description": "",
+  "generatedManifest": {
+    "id": "harry-poptart",
+    "displayName": "Harry Poptart",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/harry-poptart/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/harry-poptart"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "09376c156e89238a4acc3472cfa5a8a65fd41c9b02b54f384d311d7732334ccf"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/harry-poptart/spritesheet.webp",
+      "bytes": 1973236,
+      "sha256": "c04af7ff9fc4ba23cf3e954c144fe17d15f95d1efdb9b48f72729fe3f2b4a349"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/harry-poptart",
+      "bytes": 1966785,
+      "sha256": "5a2c6c815664deb6ed25939bbbc5d46dc1093c1cb63ca646c3db8b984ff62925"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/harry-poptart/harry-poptart.zip",
+  "petJsonPath": "pets/codex-pet/harry-poptart/pet.json",
+  "spritesheetPath": "pets/codex-pet/harry-poptart/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.664Z"
+}

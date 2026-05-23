@@ -1,0 +1,39 @@
+{
+  "id": "izanagi",
+  "name": "Izanagi",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/izanagi",
+  "description": "",
+  "generatedManifest": {
+    "id": "izanagi",
+    "displayName": "Izanagi",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/izanagi/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/izanagi"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "fc1b594420a1fe9e9f331434a4207ea5ed6c750feadfce95f5eff39f091c822c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/izanagi/spritesheet.webp",
+      "bytes": 1846322,
+      "sha256": "64c42115bacd0e118f9d5f45cc398c8e0e98e344f017cb2ad2a2dcd2ca20fa23"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/izanagi",
+      "bytes": 1847005,
+      "sha256": "06a00a0076fbdd052ec7ca5f484ab94d55ef2968d1acbacbe63904330c323ec3"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/izanagi/izanagi.zip",
+  "petJsonPath": "pets/codex-pet/izanagi/pet.json",
+  "spritesheetPath": "pets/codex-pet/izanagi/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.900Z"
+}

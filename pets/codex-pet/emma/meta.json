@@ -1,0 +1,39 @@
+{
+  "id": "emma",
+  "name": "Emma",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/emma",
+  "description": "",
+  "generatedManifest": {
+    "id": "emma",
+    "displayName": "Emma",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/emma/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/emma"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "37d1f24bfbd746af17695e80e0d36ee2bf365726886173a70377c049b29fca39"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/emma/spritesheet.webp",
+      "bytes": 1858748,
+      "sha256": "6192b30320a06b4172b0080b2449bc783d1983022bca5ee021b0993528dc08d6"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/emma",
+      "bytes": 1859418,
+      "sha256": "5c73e9e2e225fce17afe7b5d351ebeb2f2ee5f128bdc29d9238722994850f0df"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/emma/emma.zip",
+  "petJsonPath": "pets/codex-pet/emma/pet.json",
+  "spritesheetPath": "pets/codex-pet/emma/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.664Z"
+}

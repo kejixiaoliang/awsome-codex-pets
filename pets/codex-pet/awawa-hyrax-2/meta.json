@@ -1,0 +1,39 @@
+{
+  "id": "awawa-hyrax-2",
+  "name": "Awawa Hyrax 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/awawa-hyrax-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "awawa-hyrax-2",
+    "displayName": "Awawa Hyrax 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/awawa-hyrax-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/awawa-hyrax-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "0e47e2b99b6dd50c8d810d5afb0699964bccfbbee5cafa18862956fc2cc73bcc"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/awawa-hyrax-2/spritesheet.webp",
+      "bytes": 2141860,
+      "sha256": "160bd936758b3d6d4548b51fc539fb91645cb9b4caca2a9254db7a7646845486"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/awawa-hyrax-2",
+      "bytes": 2140061,
+      "sha256": "1ef9c60f3c5057f1c622944327a08c3f8bf4ceaf9e62a2eca523330be039b12c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/awawa-hyrax-2/awawa-hyrax-2.zip",
+  "petJsonPath": "pets/codex-pet/awawa-hyrax-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/awawa-hyrax-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.586Z"
+}

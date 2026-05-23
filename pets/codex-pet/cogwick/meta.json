@@ -1,0 +1,39 @@
+{
+  "id": "cogwick",
+  "name": "Cogwick",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cogwick",
+  "description": "",
+  "generatedManifest": {
+    "id": "cogwick",
+    "displayName": "Cogwick",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cogwick/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cogwick"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ae9d62a9805a5d4b4922f3f7351752bd38c28f2654dd1799e0a559d2c81d8d74"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cogwick/spritesheet.webp",
+      "bytes": 2872108,
+      "sha256": "0c22237c5f0f6a44b8c8b618e5daced14341a7f60dd283592ee91a6fa0c58058"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cogwick",
+      "bytes": 2872895,
+      "sha256": "111f9b3ab151f6d38db1f464777f6089a6f6ad4e6b20c84be1a5a7dbf5954fbf"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cogwick/cogwick.zip",
+  "petJsonPath": "pets/codex-pet/cogwick/pet.json",
+  "spritesheetPath": "pets/codex-pet/cogwick/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.653Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "airring",
+  "name": "Airring",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/airring",
+  "description": "",
+  "generatedManifest": {
+    "id": "airring",
+    "displayName": "Airring",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/airring/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/airring"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "25cb11496303c0348898f4372a2202b91035f23454f48ddab8105e239ffc616b"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/airring/spritesheet.webp",
+      "bytes": 1801372,
+      "sha256": "c30a15a2dbdf5f9a05a7050181c3b71617e16f2fd4f8b44017c75be94280d8d7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/airring",
+      "bytes": 1801991,
+      "sha256": "3225b6b166bb8aeb514cdcca3dbb7938a40d3264fac9f01b5ca6538428d114e9"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/airring/airring.zip",
+  "petJsonPath": "pets/codex-pet/airring/pet.json",
+  "spritesheetPath": "pets/codex-pet/airring/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.363Z"
+}

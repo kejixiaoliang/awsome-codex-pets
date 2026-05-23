@@ -1,0 +1,39 @@
+{
+  "id": "chikny",
+  "name": "Chikny",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/chikny",
+  "description": "",
+  "generatedManifest": {
+    "id": "chikny",
+    "displayName": "Chikny",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/chikny/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/chikny"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "faa544587f686520e91eabcf066b32329c18a18f3abfd3bd1214ab1eab885016"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/chikny/spritesheet.webp",
+      "bytes": 1758704,
+      "sha256": "7c48a5c807b9197cc57384b6eeb7648d5b1feb9d88c9971507436649c141bf8c"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/chikny",
+      "bytes": 1759346,
+      "sha256": "9eac95b78d8f344a102fe8834aea79bbcdfbdc491d3b4ee5861777e3fddc1d9d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/chikny/chikny.zip",
+  "petJsonPath": "pets/codex-pet/chikny/pet.json",
+  "spritesheetPath": "pets/codex-pet/chikny/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.316Z"
+}

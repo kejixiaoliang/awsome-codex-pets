@@ -1,0 +1,39 @@
+{
+  "id": "firebaby",
+  "name": "Firebaby",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/firebaby",
+  "description": "",
+  "generatedManifest": {
+    "id": "firebaby",
+    "displayName": "Firebaby",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/firebaby/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/firebaby"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c50419d22a41457472c8fb33d9351c380c19139722609ab4dc7edede39183968"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/firebaby/spritesheet.webp",
+      "bytes": 2277650,
+      "sha256": "90cba2a61baaf5ca413c35509bcd005e6c45fbc2d888e0f54aeef2249829c269"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/firebaby",
+      "bytes": 2278429,
+      "sha256": "264342232086016b1b140ed16ee8a63ef94ec8e550d6e7750802cb1bd3b1af1b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/firebaby/firebaby.zip",
+  "petJsonPath": "pets/codex-pet/firebaby/pet.json",
+  "spritesheetPath": "pets/codex-pet/firebaby/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.836Z"
+}

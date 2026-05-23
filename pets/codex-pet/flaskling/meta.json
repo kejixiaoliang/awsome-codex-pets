@@ -1,0 +1,39 @@
+{
+  "id": "flaskling",
+  "name": "Flaskling",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/flaskling",
+  "description": "",
+  "generatedManifest": {
+    "id": "flaskling",
+    "displayName": "Flaskling",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/flaskling/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/flaskling"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "9edfb7073f0ab2df55890c03d1d0486c68e3315349e0976b6b5e6cb1c7e8c8f6"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/flaskling/spritesheet.webp",
+      "bytes": 1806432,
+      "sha256": "3d7888604e2b60c194589e4f74b2e581325e197b11abd59fd1fd3e529462ea29"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/flaskling",
+      "bytes": 1807121,
+      "sha256": "34749ce2e10f7d2db7b1ef3ddb742c3ae5920c4135c6c85c05692186848b25b7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/flaskling/flaskling.zip",
+  "petJsonPath": "pets/codex-pet/flaskling/pet.json",
+  "spritesheetPath": "pets/codex-pet/flaskling/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.851Z"
+}

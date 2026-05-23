@@ -1,0 +1,39 @@
+{
+  "id": "gallantmon",
+  "name": "Gallantmon",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gallantmon",
+  "description": "",
+  "generatedManifest": {
+    "id": "gallantmon",
+    "displayName": "Gallantmon",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gallantmon/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gallantmon"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "632445c3578650a2a9dfcf505861e6bcfeefb029e06edaed19384584c73e8749"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gallantmon/spritesheet.webp",
+      "bytes": 2850634,
+      "sha256": "99e905ba71e0720f469745a5f81def1f8f842bb5f075c9517c6f61cd3141f0b9"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gallantmon",
+      "bytes": 2851538,
+      "sha256": "207c07553b504aca02d533b92137aabd60156186f222c509e1e298d12fb8d2ea"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gallantmon/gallantmon.zip",
+  "petJsonPath": "pets/codex-pet/gallantmon/pet.json",
+  "spritesheetPath": "pets/codex-pet/gallantmon/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.014Z"
+}

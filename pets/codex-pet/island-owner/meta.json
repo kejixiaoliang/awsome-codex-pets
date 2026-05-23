@@ -1,0 +1,39 @@
+{
+  "id": "island-owner",
+  "name": "Island Owner",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/island-owner",
+  "description": "",
+  "generatedManifest": {
+    "id": "island-owner",
+    "displayName": "Island Owner",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/island-owner/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/island-owner"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "fca08b24f50012cc83927590946e3cad70318cd92e9495d97c30aa268dd017a8"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/island-owner/spritesheet.webp",
+      "bytes": 2476364,
+      "sha256": "8d2a1598a4040427ab3f4946433d892838f602336407c6dd5bd76a9bb6100d82"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/island-owner",
+      "bytes": 2472737,
+      "sha256": "5feb50a1a8a27727b0d8122520f6da18f5709bc5ca0db9f53344a8801ec8732d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/island-owner/island-owner.zip",
+  "petJsonPath": "pets/codex-pet/island-owner/pet.json",
+  "spritesheetPath": "pets/codex-pet/island-owner/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.869Z"
+}

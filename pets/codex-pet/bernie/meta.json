@@ -1,0 +1,39 @@
+{
+  "id": "bernie",
+  "name": "Bernie",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bernie",
+  "description": "",
+  "generatedManifest": {
+    "id": "bernie",
+    "displayName": "Bernie",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bernie/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bernie"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "df19c7a17c087edf59f6a0d464ebdcce733e6b7113b05da12fc4ee1b01e69b98"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bernie/spritesheet.webp",
+      "bytes": 1812730,
+      "sha256": "e49ed60b2b637f76bd91ea4c174ba05a88f2bb151b98ddf2558fc9721834eb27"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bernie",
+      "bytes": 1808087,
+      "sha256": "2cec49fe8779cc66a9fb62341e8926c6d9e005995b92fcdbf5d5490c23c60b1b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bernie/bernie.zip",
+  "petJsonPath": "pets/codex-pet/bernie/pet.json",
+  "spritesheetPath": "pets/codex-pet/bernie/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.757Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "calico",
+  "name": "Calico",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/calico",
+  "description": "",
+  "generatedManifest": {
+    "id": "calico",
+    "displayName": "Calico",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/calico/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/calico"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c68d90fb81516e59faaa033ac743255bdac13a1b79429a6d6dafc34b7cc83cce"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/calico/spritesheet.webp",
+      "bytes": 1820308,
+      "sha256": "083874273fd44e3073d101f2302849cf89bea0afc7eef4fa502172de994eb3bd"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/calico",
+      "bytes": 1820982,
+      "sha256": "6b87e562673135593da98444a9e97d82b0b89e43b4a18f7ace96ca66f9c711f4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/calico/calico.zip",
+  "petJsonPath": "pets/codex-pet/calico/pet.json",
+  "spritesheetPath": "pets/codex-pet/calico/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.142Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "friday",
+  "name": "Friday",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/friday",
+  "description": "",
+  "generatedManifest": {
+    "id": "friday",
+    "displayName": "Friday",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/friday/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/friday"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "7cedef90045b170bd2c2257416a88ce93c0e04f401c0624421c35319b8eaa4a7"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/friday/spritesheet.webp",
+      "bytes": 1885724,
+      "sha256": "70d94547f57b3c9767d0be37c5711a7b6dd1c2a4b0365c736449945bcd1a1319"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/friday",
+      "bytes": 1884913,
+      "sha256": "9dd747ff3aeeb54a2a6eea9da428221723f16210dcff54c687cb35cf47e966cf"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/friday/friday.zip",
+  "petJsonPath": "pets/codex-pet/friday/pet.json",
+  "spritesheetPath": "pets/codex-pet/friday/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.906Z"
+}

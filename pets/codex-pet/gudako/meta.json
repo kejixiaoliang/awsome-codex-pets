@@ -1,0 +1,39 @@
+{
+  "id": "gudako",
+  "name": "Gudako",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gudako",
+  "description": "",
+  "generatedManifest": {
+    "id": "gudako",
+    "displayName": "Gudako",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gudako/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gudako"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "962718d559cf536b0e2631a9cc22b803a8415bcc2f012b35ad12c5988da2d0f4"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gudako/spritesheet.webp",
+      "bytes": 278076,
+      "sha256": "103d4b14c5eb8c4af20beb6a740e10927bff5ba5c8111307c3370b2a7fb8d5b5"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gudako",
+      "bytes": 261480,
+      "sha256": "807fb487bac8996e2045a5b197e4017aa137cf024295c7c3229d15b02ce3c367"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gudako/gudako.zip",
+  "petJsonPath": "pets/codex-pet/gudako/pet.json",
+  "spritesheetPath": "pets/codex-pet/gudako/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.326Z"
+}

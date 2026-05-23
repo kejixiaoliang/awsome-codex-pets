@@ -1,0 +1,39 @@
+{
+  "id": "boxcat",
+  "name": "Boxcat",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/boxcat",
+  "description": "",
+  "generatedManifest": {
+    "id": "boxcat",
+    "displayName": "Boxcat",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/boxcat/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/boxcat"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "862f30831ce96d39e989abff8d5798773151117ca9b17a97fd30867be386d613"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/boxcat/spritesheet.webp",
+      "bytes": 1743076,
+      "sha256": "e42958ecb67ac590f74bebcf895fb13b924120f73e9ec4f57573329c7cf471e6"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/boxcat",
+      "bytes": 1743534,
+      "sha256": "11915a2995fdac0605dce742d407253f8515b8557aa8e4dbaa4e10a1c2826664"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/boxcat/boxcat.zip",
+  "petJsonPath": "pets/codex-pet/boxcat/pet.json",
+  "spritesheetPath": "pets/codex-pet/boxcat/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.941Z"
+}

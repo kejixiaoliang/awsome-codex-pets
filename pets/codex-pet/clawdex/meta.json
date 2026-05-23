@@ -1,0 +1,39 @@
+{
+  "id": "clawdex",
+  "name": "Clawdex",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/clawdex",
+  "description": "",
+  "generatedManifest": {
+    "id": "clawdex",
+    "displayName": "Clawdex",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/clawdex/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/clawdex"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1757b222d9a7c7448c534d9fe243ca3e1bebb828a3a2147c08fffeff60517c9d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/clawdex/spritesheet.webp",
+      "bytes": 2389222,
+      "sha256": "a9f04e910ded563848642756685a457ef113b24fb1fea2a86adabc021ff2e38c"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/clawdex",
+      "bytes": 2388221,
+      "sha256": "aaa3bfc0c4e3f33eeb3110a6b1f160f188ba72fd8c177d34fa49444cfc72a4c7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/clawdex/clawdex.zip",
+  "petJsonPath": "pets/codex-pet/clawdex/pet.json",
+  "spritesheetPath": "pets/codex-pet/clawdex/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.495Z"
+}

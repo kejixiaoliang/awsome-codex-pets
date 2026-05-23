@@ -1,0 +1,39 @@
+{
+  "id": "alt-sweetheart",
+  "name": "Alt Sweetheart",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/alt-sweetheart",
+  "description": "",
+  "generatedManifest": {
+    "id": "alt-sweetheart",
+    "displayName": "Alt Sweetheart",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/alt-sweetheart/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/alt-sweetheart"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "bd99c980670055f33d3fe18edff9cfd837a13a7357bec84f978cb257a6e5bad2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/alt-sweetheart/spritesheet.webp",
+      "bytes": 1836292,
+      "sha256": "8d78dc8bd015328f2eb4511c03415bf7028a9f887ec321d647e9274871882536"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/alt-sweetheart",
+      "bytes": 1836999,
+      "sha256": "6d3cae5af99117e99ddc0b8b0c1c8f96f5f6b07f9d7eb4101253b7ba909482e6"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/alt-sweetheart/alt-sweetheart.zip",
+  "petJsonPath": "pets/codex-pet/alt-sweetheart/pet.json",
+  "spritesheetPath": "pets/codex-pet/alt-sweetheart/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.439Z"
+}

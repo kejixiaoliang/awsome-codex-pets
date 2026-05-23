@@ -1,0 +1,39 @@
+{
+  "id": "cerbie",
+  "name": "Cerbie",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cerbie",
+  "description": "",
+  "generatedManifest": {
+    "id": "cerbie",
+    "displayName": "Cerbie",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cerbie/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cerbie"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "f3c5889779ebaa237524b46e495b0781211243d6eedbe4921c38791cf2ea045c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cerbie/spritesheet.webp",
+      "bytes": 2218504,
+      "sha256": "808d97ba121e945c4bde977dbd1e377bc4a20b0ce68ffc03962b8c8f746185f3"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cerbie",
+      "bytes": 2219258,
+      "sha256": "23ef14463a2c5bc39c552aee3d14d0dccd64c97c762fc3e5b11c4faf677dd889"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cerbie/cerbie.zip",
+  "petJsonPath": "pets/codex-pet/cerbie/pet.json",
+  "spritesheetPath": "pets/codex-pet/cerbie/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.264Z"
+}

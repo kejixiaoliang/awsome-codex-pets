@@ -1,0 +1,39 @@
+{
+  "id": "bonzibuddy",
+  "name": "Bonzibuddy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bonzibuddy",
+  "description": "",
+  "generatedManifest": {
+    "id": "bonzibuddy",
+    "displayName": "Bonzibuddy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bonzibuddy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bonzibuddy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "781161873552e047b54041926133536b44891e6507cf44b7054e52bbd544209a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bonzibuddy/spritesheet.webp",
+      "bytes": 1800310,
+      "sha256": "22b126befa61bb048b834209c95646d39628ef24394d927e7f8d24170d31f434"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bonzibuddy",
+      "bytes": 1801002,
+      "sha256": "4b8f90c09757726376f98c9ccf6e67a0a1c2f5d69213cbeea5a48a72b6a4040b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bonzibuddy/bonzibuddy.zip",
+  "petJsonPath": "pets/codex-pet/bonzibuddy/pet.json",
+  "spritesheetPath": "pets/codex-pet/bonzibuddy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.912Z"
+}

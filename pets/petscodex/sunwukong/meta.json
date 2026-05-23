@@ -1,0 +1,41 @@
+{
+  "id": "sunwukong",
+  "name": "Sun Wukong",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sunwukong",
+  "description": "A cute chibi anime Sun Wukong Codex pet wearing a golden headband and wielding a tiny golden staff.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sunwukong"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sunwukong/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sunwukong/spritesheet.webp",
+    "package": "https://petscodex.com/download/sunwukong.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sunwukong/pet.json",
+      "bytes": 216,
+      "sha256": "000022ac23432790675a2ac2e0ace563025153f4acde07c3e14d74ae0d15226f"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sunwukong/spritesheet.webp",
+      "bytes": 1552058,
+      "sha256": "14722dc1592e2628e6e56a272a35a5bc068bb7b7bcc7c26a75360de3d3ceddc4"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sunwukong.zip",
+      "bytes": 311883,
+      "sha256": "79105220d69cef729f13795ebc849c60ba8df9859a0702356e409a24d1038be8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sunwukong/sunwukong.zip",
+  "petJsonPath": "pets/petscodex/sunwukong/pet.json",
+  "spritesheetPath": "pets/petscodex/sunwukong/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.257Z"
+}

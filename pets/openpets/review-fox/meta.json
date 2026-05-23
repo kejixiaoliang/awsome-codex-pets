@@ -1,0 +1,12 @@
+{
+  "id": "review-fox",
+  "sourceId": "openpets",
+  "sourceUrl": "https://openpets.app/pets/review-fox",
+  "name": "Review Fox",
+  "author": "OpenPets Studio",
+  "license": "MIT",
+  "packagePath": "pets/openpets/review-fox/review-fox.zip",
+  "petJsonPath": "pets/openpets/review-fox/pet.json",
+  "spritesheetPath": "pets/openpets/review-fox/spritesheet.png",
+  "updatedAt": "2026-05-23T14:12:55.718Z"
+}

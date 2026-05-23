@@ -1,0 +1,39 @@
+{
+  "id": "aqua-wisp",
+  "name": "Aqua Wisp",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/aqua-wisp",
+  "description": "",
+  "generatedManifest": {
+    "id": "aqua-wisp",
+    "displayName": "Aqua Wisp",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/aqua-wisp/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/aqua-wisp"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "aca498006c65c3856e96621701d3b4de7b4f3fd8e87f5d514ba7bc5d786591d0"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/aqua-wisp/spritesheet.webp",
+      "bytes": 2084166,
+      "sha256": "e0095143f76abcfec38425b3f833a09ef72398ce27938156409f297de001fa27"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/aqua-wisp",
+      "bytes": 2084906,
+      "sha256": "fe68a89efe6138066e50f7024c2fd7fa71e6fe75363fdb9a9e240caa6f8f94ec"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/aqua-wisp/aqua-wisp.zip",
+  "petJsonPath": "pets/codex-pet/aqua-wisp/pet.json",
+  "spritesheetPath": "pets/codex-pet/aqua-wisp/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.544Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "battle-beast",
+  "name": "Battle Beast",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/battle-beast",
+  "description": "",
+  "generatedManifest": {
+    "id": "battle-beast",
+    "displayName": "Battle Beast",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/battle-beast/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/battle-beast"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "507e988189da58b280cb1ae0ab5d7110a925e85ecac826b211bc4150cb7e87b7"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/battle-beast/spritesheet.webp",
+      "bytes": 3107384,
+      "sha256": "25fb08895807c744d743d567ebcd19c370cbbba3d4f86913ec13f783d4d9bd82"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/battle-beast",
+      "bytes": 3107791,
+      "sha256": "852392a9e0db6be0542a1ea994c16939d1a53aad052ddb80210c974e26892a27"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/battle-beast/battle-beast.zip",
+  "petJsonPath": "pets/codex-pet/battle-beast/pet.json",
+  "spritesheetPath": "pets/codex-pet/battle-beast/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.727Z"
+}

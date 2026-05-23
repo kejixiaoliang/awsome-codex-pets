@@ -1,0 +1,41 @@
+{
+  "id": "tiga",
+  "name": "Tiga",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/tiga",
+  "description": "A chibi Ultraman Tiga-style Codex pet with a tiny color timer.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "tiga"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/tiga/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/tiga/spritesheet.webp",
+    "package": "https://petscodex.com/download/tiga.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/tiga/pet.json",
+      "bytes": 168,
+      "sha256": "0a5a99c5b9e9fe4c1b0bef77b4ce620b1965cd27c88fe2de8b50ff71543adb13"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/tiga/spritesheet.webp",
+      "bytes": 1483670,
+      "sha256": "5c372b5c48dd1e04195c5d973e7879cfa77e38d9e73bbfae842ce955c4ec3531"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/tiga.zip",
+      "bytes": 311883,
+      "sha256": "f5b1cb72f5468a6e8455cdeb47d27bb4cbf32aeb28611656d21bf5304f100e07"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/tiga/tiga.zip",
+  "petJsonPath": "pets/petscodex/tiga/pet.json",
+  "spritesheetPath": "pets/petscodex/tiga/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.269Z"
+}

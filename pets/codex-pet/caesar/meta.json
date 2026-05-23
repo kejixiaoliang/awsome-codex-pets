@@ -1,0 +1,39 @@
+{
+  "id": "caesar",
+  "name": "Caesar",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/caesar",
+  "description": "",
+  "generatedManifest": {
+    "id": "caesar",
+    "displayName": "Caesar",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/caesar/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/caesar"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "6faa2defd26189b7b025ec204a92994a388faf85d9c7ff89d0044ef85edfd0f7"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/caesar/spritesheet.webp",
+      "bytes": 2095362,
+      "sha256": "c4f5fafafef30ccd30593bf79edd0d7c5e9840ca22f817246bd3c8deda028be7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/caesar",
+      "bytes": 2093015,
+      "sha256": "4a44f8d305cb553db5c77b9ce2f6b0ef31a181539b699e5417170f6df0d18ef7"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/caesar/caesar.zip",
+  "petJsonPath": "pets/codex-pet/caesar/pet.json",
+  "spritesheetPath": "pets/codex-pet/caesar/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.081Z"
+}

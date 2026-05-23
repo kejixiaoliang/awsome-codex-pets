@@ -1,0 +1,39 @@
+{
+  "id": "dude",
+  "name": "Dude",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dude",
+  "description": "",
+  "generatedManifest": {
+    "id": "dude",
+    "displayName": "Dude",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dude/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dude"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d41a36473629440bb4d0fd98289ec68ee6e37070c112483bde7c1773abd6b30c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dude/spritesheet.webp",
+      "bytes": 2253660,
+      "sha256": "464b6424567be53d45215615709bd33e2754a3ddc3814c2ba4ba0f81c64f3b6f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dude",
+      "bytes": 2254414,
+      "sha256": "08777033c94068a70732729c84b09b05cf8efadff2176be0f00e6fa1473d9508"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dude/dude.zip",
+  "petJsonPath": "pets/codex-pet/dude/pet.json",
+  "spritesheetPath": "pets/codex-pet/dude/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.472Z"
+}

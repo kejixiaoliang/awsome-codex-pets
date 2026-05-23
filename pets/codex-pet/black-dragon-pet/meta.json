@@ -1,0 +1,39 @@
+{
+  "id": "black-dragon-pet",
+  "name": "Black Dragon Pet",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/black-dragon-pet",
+  "description": "",
+  "generatedManifest": {
+    "id": "black-dragon-pet",
+    "displayName": "Black Dragon Pet",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/black-dragon-pet/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/black-dragon-pet"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1f4992d26ac197cb1ffdc35c0684281feffed66339d1ae087b07fbc28cfd408b"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/black-dragon-pet/spritesheet.webp",
+      "bytes": 737834,
+      "sha256": "07620934628d981b94798f7d0009c3c8ceefe0159b62aef911fa689291a8eca9"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/black-dragon-pet",
+      "bytes": 738344,
+      "sha256": "b17832af1ed0baae9b39688becc594d177b3fffdd4c4d5ddf1e6c0da8d22ec8c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/black-dragon-pet/black-dragon-pet.zip",
+  "petJsonPath": "pets/codex-pet/black-dragon-pet/pet.json",
+  "spritesheetPath": "pets/codex-pet/black-dragon-pet/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.799Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bt-buddy",
+  "name": "Bt Buddy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bt-buddy",
+  "description": "",
+  "generatedManifest": {
+    "id": "bt-buddy",
+    "displayName": "Bt Buddy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bt-buddy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bt-buddy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c1b007c17dd55ea2b62463e14e7f8ef29d2e5bf398798dc6da1eee557f7a6d55"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bt-buddy/spritesheet.webp",
+      "bytes": 2071092,
+      "sha256": "2b0a1e3f562de29b890d0ac13d8fc843660ecefb71454755aace8f4b209b6bec"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bt-buddy",
+      "bytes": 2071815,
+      "sha256": "95d90e5a8ed49529c6fe36ecaf008f22260196dd306732e6d130936540df6f95"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bt-buddy/bt-buddy.zip",
+  "petJsonPath": "pets/codex-pet/bt-buddy/pet.json",
+  "spritesheetPath": "pets/codex-pet/bt-buddy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.955Z"
+}

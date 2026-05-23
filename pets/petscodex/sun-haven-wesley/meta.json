@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-wesley",
+  "name": "Wesley",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-wesley",
+  "description": "A serious elven historian Sun Haven-style Codex pet with scrolls and forest tradition charm.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-wesley"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-wesley/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-wesley/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-wesley.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-wesley/pet.json",
+      "bytes": 194,
+      "sha256": "2b854f4dd7cbe15d292f3125427ee1ddd6488efd75428c555661b6b9bc811c77"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-wesley/spritesheet.webp",
+      "bytes": 1743218,
+      "sha256": "a965e1d3cb5948c556890ada28b5c4a7a8d78adffd7aa742886e722fb28052ef"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-wesley.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-wesley/sun-haven-wesley.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-wesley/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-wesley/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.245Z"
+}

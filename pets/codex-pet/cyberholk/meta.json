@@ -1,0 +1,39 @@
+{
+  "id": "cyberholk",
+  "name": "Cyberholk",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cyberholk",
+  "description": "",
+  "generatedManifest": {
+    "id": "cyberholk",
+    "displayName": "Cyberholk",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cyberholk/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cyberholk"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "41679bdfe2b13d4e309a0079959fd2a2d6f4a0efbcf450fd71d12f5fa3d6ce0a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cyberholk/spritesheet.webp",
+      "bytes": 2411052,
+      "sha256": "66c22892cf1f2455f6e176957124b804f6608ed9f8f7fa45aa91af31cd29faf8"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cyberholk",
+      "bytes": 2411249,
+      "sha256": "c074b6ce9bc45c909e6cd5d341de987e1b191619675315adc92aa3097d475be0"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cyberholk/cyberholk.zip",
+  "petJsonPath": "pets/codex-pet/cyberholk/pet.json",
+  "spritesheetPath": "pets/codex-pet/cyberholk/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.987Z"
+}

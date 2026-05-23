@@ -1,0 +1,39 @@
+{
+  "id": "agumon",
+  "name": "Agumon",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/agumon",
+  "description": "",
+  "generatedManifest": {
+    "id": "agumon",
+    "displayName": "Agumon",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/agumon/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/agumon"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ca91d77ffeb9f0e43f88ab14ae43405058af73b401773b34103cf3eb570e37ec"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/agumon/spritesheet.webp",
+      "bytes": 2011078,
+      "sha256": "0ff19c7fcf25d59dc491549550b4b9e7ae5fc5d8491ec74faa32f40e83352c59"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/agumon",
+      "bytes": 2011745,
+      "sha256": "988170f1f34236846056068411b7ed3bf50b320f1e61c5f89237b96aada80669"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/agumon/agumon.zip",
+  "petJsonPath": "pets/codex-pet/agumon/pet.json",
+  "spritesheetPath": "pets/codex-pet/agumon/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.348Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "boolet",
+  "name": "Boolet",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/boolet",
+  "description": "",
+  "generatedManifest": {
+    "id": "boolet",
+    "displayName": "Boolet",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/boolet/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/boolet"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "9ff2364cc598cc5bab1a857406d5c44ffb9f3ea29dfc00c009d571ceb70a7580"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/boolet/spritesheet.webp",
+      "bytes": 2021124,
+      "sha256": "7b4ee17d276f1e075190ff2338f6654ca259d41182214e995299e1d37bdeaab7"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/boolet",
+      "bytes": 2021603,
+      "sha256": "f56754fc881d47cf2f93eddc429e7b3a4ee822aa1770d586f2158488b5b1e9be"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/boolet/boolet.zip",
+  "petJsonPath": "pets/codex-pet/boolet/pet.json",
+  "spritesheetPath": "pets/codex-pet/boolet/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.926Z"
+}

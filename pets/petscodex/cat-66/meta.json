@@ -1,0 +1,41 @@
+{
+  "id": "cat-66",
+  "name": "cat 66",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/cat-66",
+  "description": "A compact gray-and-white chibi cat with a round face, golden eyes, pink nose, white chest and paws, and gray tabby cap markings.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "cat-66"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/cat-66/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/cat-66/spritesheet.webp",
+    "package": "https://petscodex.com/download/cat-66.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/cat-66/pet.json",
+      "bytes": 238,
+      "sha256": "c02a0ec1cae47bcfacf6432ec5618ca87b9c427053e759a5cf12640ba76b95ae"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/cat-66/spritesheet.webp",
+      "bytes": 1964906,
+      "sha256": "6e76ae2b189a00d93d3d0ff761f1f477f08b77e230a5a0e8e2830497c430a00c"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/cat-66.zip",
+      "bytes": 311883,
+      "sha256": "6b26cabee790c889fa3665872297617af9405f60456eaf9f1e623009cc1cfa5f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/cat-66/cat-66.zip",
+  "petJsonPath": "pets/petscodex/cat-66/pet.json",
+  "spritesheetPath": "pets/petscodex/cat-66/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.060Z"
+}

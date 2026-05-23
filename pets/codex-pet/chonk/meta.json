@@ -1,0 +1,39 @@
+{
+  "id": "chonk",
+  "name": "Chonk",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/chonk",
+  "description": "",
+  "generatedManifest": {
+    "id": "chonk",
+    "displayName": "Chonk",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/chonk/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/chonk"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "e0dea0b8e0aeb3a52bc8187e14d33116432b1892fa69f3108121e10157c02fd8"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/chonk/spritesheet.webp",
+      "bytes": 775038,
+      "sha256": "68724add4513229170f20a276502bc823b820d732777ee701c81c2cde99d44cb"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/chonk",
+      "bytes": 771309,
+      "sha256": "311f06ae03e2b345db5cda21d6fd35057773a326b6d583a5f493aa391d763bb6"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/chonk/chonk.zip",
+  "petJsonPath": "pets/codex-pet/chonk/pet.json",
+  "spritesheetPath": "pets/codex-pet/chonk/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.374Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cabin-face",
+  "name": "Cabin Face",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cabin-face",
+  "description": "",
+  "generatedManifest": {
+    "id": "cabin-face",
+    "displayName": "Cabin Face",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cabin-face/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cabin-face"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a64567fd546ea0eb57a385f453977e01bf687b2057e4c62838b7808b1ddafb27"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cabin-face/spritesheet.webp",
+      "bytes": 1273508,
+      "sha256": "a046b1cf86f690ab81aa057efa703af517b75347dda3482d0a5060c1d374cc14"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cabin-face",
+      "bytes": 1273930,
+      "sha256": "9471afaf748783e75d14b8596b4d6c42559e6e57fc25aa4c79b356cbd5cb556d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cabin-face/cabin-face.zip",
+  "petJsonPath": "pets/codex-pet/cabin-face/pet.json",
+  "spritesheetPath": "pets/codex-pet/cabin-face/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.054Z"
+}

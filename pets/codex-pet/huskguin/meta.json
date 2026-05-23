@@ -1,0 +1,39 @@
+{
+  "id": "huskguin",
+  "name": "Huskguin",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/huskguin",
+  "description": "",
+  "generatedManifest": {
+    "id": "huskguin",
+    "displayName": "Huskguin",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/huskguin/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/huskguin"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1164455f9fc948d2c195c444ac93882f7453ae9432fa207b219def3c58d33da6"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/huskguin/spritesheet.webp",
+      "bytes": 1757576,
+      "sha256": "688b6ad17553468e30fe222f79b130fbf9831e5ff1ef304b3b782d08a7eaba22"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/huskguin",
+      "bytes": 1758250,
+      "sha256": "2775ef2a18f6c3a74305c357273c63b318a44a882c2cce3a9b687079b2215e64"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/huskguin/huskguin.zip",
+  "petJsonPath": "pets/codex-pet/huskguin/pet.json",
+  "spritesheetPath": "pets/codex-pet/huskguin/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.793Z"
+}

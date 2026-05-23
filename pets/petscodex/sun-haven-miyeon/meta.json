@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-miyeon",
+  "name": "Miyeon",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-miyeon",
+  "description": "A shy angelic Sun Haven-style Codex pet with soft wings and gentle charm.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-miyeon"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-miyeon/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-miyeon/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-miyeon.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-miyeon/pet.json",
+      "bytes": 193,
+      "sha256": "8d307ebd341390b00da26c6c1fb059460be1b6f0d3261d2eef55ca6ca54953c9"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-miyeon/spritesheet.webp",
+      "bytes": 2856684,
+      "sha256": "2473e8b5c3d447ed887a00aff9579fa7c2fb7b8823ee78db385ebd8c6a785a29"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-miyeon.zip",
+      "bytes": 311883,
+      "sha256": "79105220d69cef729f13795ebc849c60ba8df9859a0702356e409a24d1038be8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-miyeon/sun-haven-miyeon.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-miyeon/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-miyeon/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.206Z"
+}

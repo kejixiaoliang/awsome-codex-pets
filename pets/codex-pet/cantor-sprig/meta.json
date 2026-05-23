@@ -1,0 +1,39 @@
+{
+  "id": "cantor-sprig",
+  "name": "Cantor Sprig",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cantor-sprig",
+  "description": "",
+  "generatedManifest": {
+    "id": "cantor-sprig",
+    "displayName": "Cantor Sprig",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cantor-sprig/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cantor-sprig"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "88256e003039ebc7c29c848f4b339f1d8d4a123c3c0b767f05700d6db72b6991"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cantor-sprig/spritesheet.webp",
+      "bytes": 1879980,
+      "sha256": "235e2c8db7123d7940af699e14ed20b80dec05e493ee97f0e638a179d86d745b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cantor-sprig",
+      "bytes": 1880699,
+      "sha256": "d303cb3e79bd31b615d684421ebf3d8501207aead4383050f8380cfeb310873a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cantor-sprig/cantor-sprig.zip",
+  "petJsonPath": "pets/codex-pet/cantor-sprig/pet.json",
+  "spritesheetPath": "pets/codex-pet/cantor-sprig/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.174Z"
+}

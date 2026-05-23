@@ -1,0 +1,39 @@
+{
+  "id": "happy-brush-2",
+  "name": "Happy Brush 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/happy-brush-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "happy-brush-2",
+    "displayName": "Happy Brush 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/happy-brush-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/happy-brush-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b833c8db742d835038351452b84a9cb5141ae4ae9c01045cbb86be4966bb64d7"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/happy-brush-2/spritesheet.webp",
+      "bytes": 2163676,
+      "sha256": "c7ff747315f5e2689b78093c140248bc6c478bc32d4cdc205baf1f9f0a2390c2"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/happy-brush-2",
+      "bytes": 2164461,
+      "sha256": "7563a15ba8f8424ab22babb4a6141c424add0393c5a9b692f5b1419af01a3d2d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/happy-brush-2/happy-brush-2.zip",
+  "petJsonPath": "pets/codex-pet/happy-brush-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/happy-brush-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.624Z"
+}

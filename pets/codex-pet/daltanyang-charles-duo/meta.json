@@ -1,0 +1,39 @@
+{
+  "id": "daltanyang-charles-duo",
+  "name": "Daltanyang Charles Duo",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/daltanyang-charles-duo",
+  "description": "",
+  "generatedManifest": {
+    "id": "daltanyang-charles-duo",
+    "displayName": "Daltanyang Charles Duo",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/daltanyang-charles-duo/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/daltanyang-charles-duo"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ce0400c2059555a40033457d3b5f12a9c14c72e2a5b7dae213a53a02196a08d6"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/daltanyang-charles-duo/spritesheet.webp",
+      "bytes": 2583400,
+      "sha256": "168881c0a6db41dbc8ae21623638afeebbb0e8327c495c56ee2cea71c0df5b5b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/daltanyang-charles-duo",
+      "bytes": 2581818,
+      "sha256": "e344f5dc77eb0e1be18b15b3fc667f35167180baf56b89a09c7be53122378fb4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/daltanyang-charles-duo/daltanyang-charles-duo.zip",
+  "petJsonPath": "pets/codex-pet/daltanyang-charles-duo/pet.json",
+  "spritesheetPath": "pets/codex-pet/daltanyang-charles-duo/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.076Z"
+}

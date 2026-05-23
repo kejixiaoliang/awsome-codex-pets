@@ -1,0 +1,39 @@
+{
+  "id": "elaina-2",
+  "name": "Elaina 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/elaina-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "elaina-2",
+    "displayName": "Elaina 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/elaina-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/elaina-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "03f69a5883e6187958d27fe7a26e6e0381e43c5fc413bd5b42fb602d5f33d1ba"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/elaina-2/spritesheet.webp",
+      "bytes": 2368004,
+      "sha256": "eba7420b2c15bdb899eccab2ae2624a1607e01c8326e37e46a80e3e4d0663eec"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/elaina-2",
+      "bytes": 2368800,
+      "sha256": "c94b8d1fa61e02d3877a6d3c4844232e984b49a77511e507fcab0c42b8d4fd2e"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/elaina-2/elaina-2.zip",
+  "petJsonPath": "pets/codex-pet/elaina-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/elaina-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.595Z"
+}

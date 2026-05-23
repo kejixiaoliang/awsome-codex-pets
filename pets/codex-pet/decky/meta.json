@@ -1,0 +1,39 @@
+{
+  "id": "decky",
+  "name": "Decky",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/decky",
+  "description": "",
+  "generatedManifest": {
+    "id": "decky",
+    "displayName": "Decky",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/decky/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/decky"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1f7998b0e380a8839ebab4df288449936f19d258fedca06d62c0831a339ac20a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/decky/spritesheet.webp",
+      "bytes": 1638726,
+      "sha256": "45a35b2604113e718ae3896d4ff01149b3f6f2f966d5b2ed24695e9251c3131f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/decky",
+      "bytes": 1639360,
+      "sha256": "c17a7782d9e8fb5e50abfbd998345c90f87d3e386119a372aed4db25e4e79b0d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/decky/decky.zip",
+  "petJsonPath": "pets/codex-pet/decky/pet.json",
+  "spritesheetPath": "pets/codex-pet/decky/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.179Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "froggle",
+  "name": "Froggle",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/froggle",
+  "description": "",
+  "generatedManifest": {
+    "id": "froggle",
+    "displayName": "Froggle",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/froggle/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/froggle"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1434ce3a7f6fd53fa48dad920e351f4abf6bb3ac3cf9332961c61fd2cd7dd59c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/froggle/spritesheet.webp",
+      "bytes": 2316892,
+      "sha256": "4d587b5f6239c709e1c0f0d856ad9c5086cc2a0ce851c766b5ccb50b42f99c59"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/froggle",
+      "bytes": 2317650,
+      "sha256": "e832539347944c542bdede506bebf96de0551c00da31b63e21f6ba7d98a1a804"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/froggle/froggle.zip",
+  "petJsonPath": "pets/codex-pet/froggle/pet.json",
+  "spritesheetPath": "pets/codex-pet/froggle/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.968Z"
+}

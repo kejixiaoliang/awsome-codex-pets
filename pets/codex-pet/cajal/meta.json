@@ -1,0 +1,39 @@
+{
+  "id": "cajal",
+  "name": "Cajal",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cajal",
+  "description": "",
+  "generatedManifest": {
+    "id": "cajal",
+    "displayName": "Cajal",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cajal/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cajal"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "5c86cf32afcafad50365829b57d10ed427ee102a63fb37fa5dd099af29cb797a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cajal/spritesheet.webp",
+      "bytes": 1676070,
+      "sha256": "f6018593b89744da954b9eb092e6a2e50eb1027d7c4a5ed1a13c50973d0d56cd"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cajal",
+      "bytes": 1676611,
+      "sha256": "81ef2593732c3135367f862be8c334109a6fb6d4aebb369bf0d32090ef6e5a9c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cajal/cajal.zip",
+  "petJsonPath": "pets/codex-pet/cajal/pet.json",
+  "spritesheetPath": "pets/codex-pet/cajal/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.111Z"
+}

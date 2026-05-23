@@ -1,0 +1,39 @@
+{
+  "id": "cinder",
+  "name": "Cinder",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/cinder",
+  "description": "",
+  "generatedManifest": {
+    "id": "cinder",
+    "displayName": "Cinder",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/cinder/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/cinder"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "10edf6c859e6b3c1872f7be384c00f8b5090a90ea804572fd3fb34f5f609401a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/cinder/spritesheet.webp",
+      "bytes": 1698346,
+      "sha256": "c924128d1e3064af416851df639a176df6d40fdeb3106fd3989b5ce8f997f879"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/cinder",
+      "bytes": 1698995,
+      "sha256": "c033ff0ad987212b4698abdb95f0169480a3ada7d0bdc8d3b4d17863e2b4e78f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/cinder/cinder.zip",
+  "petJsonPath": "pets/codex-pet/cinder/pet.json",
+  "spritesheetPath": "pets/codex-pet/cinder/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.423Z"
+}

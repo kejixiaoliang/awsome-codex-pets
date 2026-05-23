@@ -1,0 +1,39 @@
+{
+  "id": "digimon-2",
+  "name": "Digimon 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/digimon-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "digimon-2",
+    "displayName": "Digimon 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/digimon-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/digimon-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a827b8fea753246f2b14ec74c2185b8bd535cd99e208e7280e8039c75d4f6200"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/digimon-2/spritesheet.webp",
+      "bytes": 1987728,
+      "sha256": "a5868cba09cbb6d83a2743ae6086eec715962f7ad52121fef14cc177ad7c5611"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/digimon-2",
+      "bytes": 1988457,
+      "sha256": "f2c36b7100ef72613b1ca25fb601bf2cf6f30cd810a119d8dbd3b6a9f6941084"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/digimon-2/digimon-2.zip",
+  "petJsonPath": "pets/codex-pet/digimon-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/digimon-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.269Z"
+}

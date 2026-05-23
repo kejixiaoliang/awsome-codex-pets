@@ -1,0 +1,39 @@
+{
+  "id": "feynman",
+  "name": "Feynman",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/feynman",
+  "description": "",
+  "generatedManifest": {
+    "id": "feynman",
+    "displayName": "Feynman",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/feynman/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/feynman"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d33577985d180deff2d7f681486dce65facad19384e3ece956a6d2a238ec4793"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/feynman/spritesheet.webp",
+      "bytes": 2016054,
+      "sha256": "bb9c043096e49b33e0af631e16452f6b0fc92891a594bb614ccfa86775969a4e"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/feynman",
+      "bytes": 2011871,
+      "sha256": "7567e8525d7895b0cfdc13ac7df7703a19f4550966d1da0342743e5692cf7d48"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/feynman/feynman.zip",
+  "petJsonPath": "pets/codex-pet/feynman/pet.json",
+  "spritesheetPath": "pets/codex-pet/feynman/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.781Z"
+}

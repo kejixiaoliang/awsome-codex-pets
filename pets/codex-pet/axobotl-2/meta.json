@@ -1,0 +1,39 @@
+{
+  "id": "axobotl-2",
+  "name": "Axobotl 2",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/axobotl-2",
+  "description": "",
+  "generatedManifest": {
+    "id": "axobotl-2",
+    "displayName": "Axobotl 2",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/axobotl-2/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/axobotl-2"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c8a3e137f3fe948664893d1ea32099187ad57d7cc4a8faf0515264d224460d0e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/axobotl-2/spritesheet.webp",
+      "bytes": 2419926,
+      "sha256": "029c339fe440f57a0679549a37322e01d1d5ab3abd409c7c767e1abbb96684a0"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/axobotl-2",
+      "bytes": 2420737,
+      "sha256": "a3374f878254d1ecb3630a2b0933c6450659933b977d9d627ddbc35f1755713f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/axobotl-2/axobotl-2.zip",
+  "petJsonPath": "pets/codex-pet/axobotl-2/pet.json",
+  "spritesheetPath": "pets/codex-pet/axobotl-2/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.630Z"
+}

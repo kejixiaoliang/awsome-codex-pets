@@ -1,0 +1,39 @@
+{
+  "id": "hachiware",
+  "name": "Hachiware",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hachiware",
+  "description": "",
+  "generatedManifest": {
+    "id": "hachiware",
+    "displayName": "Hachiware",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hachiware/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hachiware"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d76b0c9c6523d8c55f749863f91b3bc214c785a57e116063a668ca3bbedb8738"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hachiware/spritesheet.webp",
+      "bytes": 1585846,
+      "sha256": "f9c81752c0c2b5322e20043cfaa2c2a803a3d8de6f98d9e7c1d65be7a30fd884"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hachiware",
+      "bytes": 1586417,
+      "sha256": "9843b43ff2de3c34d76e080732a8090edb9bff26763c787043c614f37bdeabc3"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hachiware/hachiware.zip",
+  "petJsonPath": "pets/codex-pet/hachiware/pet.json",
+  "spritesheetPath": "pets/codex-pet/hachiware/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.469Z"
+}

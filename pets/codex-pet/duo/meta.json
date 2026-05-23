@@ -1,0 +1,39 @@
+{
+  "id": "duo",
+  "name": "Duo",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/duo",
+  "description": "",
+  "generatedManifest": {
+    "id": "duo",
+    "displayName": "Duo",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/duo/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/duo"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "18fd4d9d9f4d096c28f6673fa77a41bfa758d0e4cc297cbf101d967b6383d406"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/duo/spritesheet.webp",
+      "bytes": 2223264,
+      "sha256": "f25dc616edf2a0d2dd4bacc4a50d3097d85b1aefa6695fca5f3436cd773fdfeb"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/duo",
+      "bytes": 2223978,
+      "sha256": "5d87aef7db13f05b1486e3aec2e41a00fb2e25144f61dbb8fe47c1cddd96448a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/duo/duo.zip",
+  "petJsonPath": "pets/codex-pet/duo/pet.json",
+  "spritesheetPath": "pets/codex-pet/duo/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.501Z"
+}

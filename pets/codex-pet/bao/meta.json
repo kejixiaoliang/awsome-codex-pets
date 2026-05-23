@@ -1,0 +1,39 @@
+{
+  "id": "bao",
+  "name": "Bao",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bao",
+  "description": "",
+  "generatedManifest": {
+    "id": "bao",
+    "displayName": "Bao",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bao/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bao"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "05cba09bac2eff29e53de3a608379e9bc208c6369c5781543d665578d2911a0c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bao/spritesheet.webp",
+      "bytes": 3073400,
+      "sha256": "b2215b06d14801e0956e5e859d7903969dca1c20abc9182b21db2724a5fdc6d5"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bao",
+      "bytes": 3074100,
+      "sha256": "4254f90c7f3a72ef9c737d24af8d474413f5d574a133e1fd7b4ace9419c4fede"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bao/bao.zip",
+  "petJsonPath": "pets/codex-pet/bao/pet.json",
+  "spritesheetPath": "pets/codex-pet/bao/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.697Z"
+}

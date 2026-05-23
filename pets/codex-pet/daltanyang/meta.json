@@ -1,0 +1,39 @@
+{
+  "id": "daltanyang",
+  "name": "Daltanyang",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/daltanyang",
+  "description": "",
+  "generatedManifest": {
+    "id": "daltanyang",
+    "displayName": "Daltanyang",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/daltanyang/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/daltanyang"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "4a288566fe9f60ccf419800da59428315a2da985e64ce113a5ad9cfac3e224d2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/daltanyang/spritesheet.webp",
+      "bytes": 1829674,
+      "sha256": "1dae756bbe30a35c7a7b3e20e09815bd15a822660445ffc40872a33266745b45"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/daltanyang",
+      "bytes": 1830382,
+      "sha256": "1fcfaca215ef433d6ac75ad6d328924f504217f5756c2584b0f15a05ba59cd6b"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/daltanyang/daltanyang.zip",
+  "petJsonPath": "pets/codex-pet/daltanyang/pet.json",
+  "spritesheetPath": "pets/codex-pet/daltanyang/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.060Z"
+}

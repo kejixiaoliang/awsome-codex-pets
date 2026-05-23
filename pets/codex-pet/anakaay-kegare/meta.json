@@ -1,0 +1,39 @@
+{
+  "id": "anakaay-kegare",
+  "name": "Anakaay Kegare",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/anakaay-kegare",
+  "description": "",
+  "generatedManifest": {
+    "id": "anakaay-kegare",
+    "displayName": "Anakaay Kegare",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/anakaay-kegare/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/anakaay-kegare"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "17763cd68b3a3f9fa2fd6bc6985fadf816424345ce84b7508a7ea927a67542b2"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/anakaay-kegare/spritesheet.webp",
+      "bytes": 833908,
+      "sha256": "86204dda6e297f765b486839783ba88189080be551eac3c10c980050fa984a8c"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/anakaay-kegare",
+      "bytes": 833696,
+      "sha256": "5d1b7f9ec416608e85d738fc450736a19ec5768e9c36c3dc44e4609c6bc91380"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/anakaay-kegare/anakaay-kegare.zip",
+  "petJsonPath": "pets/codex-pet/anakaay-kegare/pet.json",
+  "spritesheetPath": "pets/codex-pet/anakaay-kegare/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.452Z"
+}

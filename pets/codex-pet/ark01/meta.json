@@ -1,0 +1,39 @@
+{
+  "id": "ark01",
+  "name": "Ark01",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ark01",
+  "description": "",
+  "generatedManifest": {
+    "id": "ark01",
+    "displayName": "Ark01",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ark01/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ark01"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "15eee8207fc5073981a9a616fb74fe549dfa6480176d9bdf57500c6d1ff9dc2c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ark01/spritesheet.webp",
+      "bytes": 1609822,
+      "sha256": "34afa904b1a842f567aca3f3eafa9f0f3bb04bdfb109f48c43c19a41fa4986ea"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ark01",
+      "bytes": 1606349,
+      "sha256": "bf0e0659e335a32d696c67b9ad38e2944def8c2f87b96fe12507af6216bd3c74"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ark01/ark01.zip",
+  "petJsonPath": "pets/codex-pet/ark01/pet.json",
+  "spritesheetPath": "pets/codex-pet/ark01/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.559Z"
+}

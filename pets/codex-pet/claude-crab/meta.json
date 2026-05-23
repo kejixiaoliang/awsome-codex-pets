@@ -1,0 +1,39 @@
+{
+  "id": "claude-crab",
+  "name": "Claude Crab",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/claude-crab",
+  "description": "",
+  "generatedManifest": {
+    "id": "claude-crab",
+    "displayName": "Claude Crab",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/claude-crab/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/claude-crab"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "2bc10dfefb522d2d572056773a1096f766627efc61730817978637077bff68a4"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/claude-crab/spritesheet.webp",
+      "bytes": 1019978,
+      "sha256": "7811aca19464b8af97321ee022bc8eedf5477b2a5ae644b22c861eeba887248f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/claude-crab",
+      "bytes": 1020465,
+      "sha256": "b60cf88da636e7fe6b70c9cd42063be38715791432148803fef4ad105a637d27"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/claude-crab/claude-crab.zip",
+  "petJsonPath": "pets/codex-pet/claude-crab/pet.json",
+  "spritesheetPath": "pets/codex-pet/claude-crab/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.458Z"
+}

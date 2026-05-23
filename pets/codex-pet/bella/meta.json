@@ -1,0 +1,39 @@
+{
+  "id": "bella",
+  "name": "Bella",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bella",
+  "description": "",
+  "generatedManifest": {
+    "id": "bella",
+    "displayName": "Bella",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bella/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bella"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "55132eb7bcd1ba85b9718e4346a4bade4ed519fd8ece5f096ebd6b00abeef15d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bella/spritesheet.webp",
+      "bytes": 1649436,
+      "sha256": "d61a273b305bb32dcef14db656901becde5017e855de3f7e3f79c6d856662eac"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bella",
+      "bytes": 1650066,
+      "sha256": "42917d2508a424e22574bc29fd69dbc5802687924c80f1bd755d2f9cb6aa03d8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bella/bella.zip",
+  "petJsonPath": "pets/codex-pet/bella/pet.json",
+  "spritesheetPath": "pets/codex-pet/bella/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.744Z"
+}

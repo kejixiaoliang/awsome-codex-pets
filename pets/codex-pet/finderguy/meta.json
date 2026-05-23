@@ -1,0 +1,39 @@
+{
+  "id": "finderguy",
+  "name": "Finderguy",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/finderguy",
+  "description": "",
+  "generatedManifest": {
+    "id": "finderguy",
+    "displayName": "Finderguy",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/finderguy/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/finderguy"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b515197d7a23298f018cb3d61c41e2d054bc2f51c2e3e81c1c6f2b680c4fdb1d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/finderguy/spritesheet.webp",
+      "bytes": 1661456,
+      "sha256": "c981ea725825748e62c8c5920995a8aabb9ff9ff39198c7eb7bffc9c6b66b095"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/finderguy",
+      "bytes": 1662102,
+      "sha256": "8eec926e9d56cabdd5be6b8aadc97de3d00c85983bfac1f2dfb352f49aec80c3"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/finderguy/finderguy.zip",
+  "petJsonPath": "pets/codex-pet/finderguy/pet.json",
+  "spritesheetPath": "pets/codex-pet/finderguy/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.808Z"
+}

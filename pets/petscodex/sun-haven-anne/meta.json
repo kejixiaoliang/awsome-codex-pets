@@ -1,0 +1,41 @@
+{
+  "id": "sun-haven-anne",
+  "name": "Anne",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/sun-haven-anne",
+  "description": "A confident merchant queen Sun Haven-style Codex pet with bright traveling-shop charm.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "sun-haven-anne"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-anne/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-anne/spritesheet.webp",
+    "package": "https://petscodex.com/download/sun-haven-anne.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-anne/pet.json",
+      "bytes": 202,
+      "sha256": "558c443888a420da1d11985bbe9e223e2b42f85f5554913dc43e302bad4f0508"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/sun-haven-anne/spritesheet.webp",
+      "bytes": 2452172,
+      "sha256": "87924d7e728564e2d8d6a0a82d8078a84ca4730160bc4fcb818e339f8c279e4a"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/sun-haven-anne.zip",
+      "bytes": 311883,
+      "sha256": "b4f581696795bd417d1e962d685db6446a9e48d0d4b943a1705538affa8408dc"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/sun-haven-anne/sun-haven-anne.zip",
+  "petJsonPath": "pets/petscodex/sun-haven-anne/pet.json",
+  "spritesheetPath": "pets/petscodex/sun-haven-anne/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.140Z"
+}

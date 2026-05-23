@@ -1,0 +1,39 @@
+{
+  "id": "codeberg",
+  "name": "Codeberg",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/codeberg",
+  "description": "",
+  "generatedManifest": {
+    "id": "codeberg",
+    "displayName": "Codeberg",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/codeberg/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/codeberg"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "1c53fc2d46afc0d76116a7b20a70e245039e64487dc1dd30172e48123c098246"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/codeberg/spritesheet.webp",
+      "bytes": 1937374,
+      "sha256": "1adc38ab481807991c30f55611f13f81d5997a97af8a08132fcc18edf61d6e8f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/codeberg",
+      "bytes": 1938083,
+      "sha256": "0f843f0d19ea6f54e553d967796f47f849578015e5f9ff249d28dd2ea4a9345a"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/codeberg/codeberg.zip",
+  "petJsonPath": "pets/codex-pet/codeberg/pet.json",
+  "spritesheetPath": "pets/codex-pet/codeberg/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.583Z"
+}

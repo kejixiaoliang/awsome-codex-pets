@@ -1,0 +1,39 @@
+{
+  "id": "ghostface",
+  "name": "Ghostface",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ghostface",
+  "description": "",
+  "generatedManifest": {
+    "id": "ghostface",
+    "displayName": "Ghostface",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ghostface/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ghostface"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d7ef718e7aa02af81b054d5b5e5f180a9cd1662a4a8d1194fb8601b7e616164e"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ghostface/spritesheet.webp",
+      "bytes": 1716942,
+      "sha256": "a1b91dc35842f5fa95cc02172dbda06e4264dd57121d7bdd2072862b9a8c323f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ghostface",
+      "bytes": 1717581,
+      "sha256": "2949f3468413a7661abaee81cce6cf364ff91733d47a90dc8bdd6e2dd1bef57d"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ghostface/ghostface.zip",
+  "petJsonPath": "pets/codex-pet/ghostface/pet.json",
+  "spritesheetPath": "pets/codex-pet/ghostface/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.082Z"
+}

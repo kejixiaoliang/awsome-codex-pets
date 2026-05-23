@@ -1,0 +1,39 @@
+{
+  "id": "doomblade",
+  "name": "Doomblade",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/doomblade",
+  "description": "",
+  "generatedManifest": {
+    "id": "doomblade",
+    "displayName": "Doomblade",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/doomblade/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/doomblade"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "3efcf7119ae1f8f8f34a823c88bbfb01e0f389c07d9da9f63c03701ee27a5a6b"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/doomblade/spritesheet.webp",
+      "bytes": 2538748,
+      "sha256": "241fb22d18b9e046843814453b96f9d0c2107a93421fa3a7677fd90d34539f8f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/doomblade",
+      "bytes": 2539582,
+      "sha256": "df004b3ec3c04a9e040105c844878491bb8674fffd82cff0fc2bc1c091d03d50"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/doomblade/doomblade.zip",
+  "petJsonPath": "pets/codex-pet/doomblade/pet.json",
+  "spritesheetPath": "pets/codex-pet/doomblade/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.398Z"
+}

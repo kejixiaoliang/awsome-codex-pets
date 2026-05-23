@@ -1,0 +1,41 @@
+{
+  "id": "villain-coder",
+  "name": "Villain Coder",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/villain-coder",
+  "description": "A smug chibi villain-executive programmer Codex pet with cape, headset, and dramatic bug-report energy.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "villain-coder"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/villain-coder/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/villain-coder/spritesheet.webp",
+    "package": "https://petscodex.com/download/villain-coder.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/villain-coder/pet.json",
+      "bytes": 227,
+      "sha256": "725d83630ad36769fd1984da79a29e0f2bbae9b16f165ae9ce6d1e50de5e08fd"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/villain-coder/spritesheet.webp",
+      "bytes": 1463368,
+      "sha256": "e763d4816bf7d92f56461838ea9ff908cbeb5da25419ae21a6d40aad6c6ec07c"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/villain-coder.zip",
+      "bytes": 311883,
+      "sha256": "bf37c1da20e10f7e9eb014b622d4000e044fd701e141ff9694619f23125f6be4"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/villain-coder/villain-coder.zip",
+  "petJsonPath": "pets/petscodex/villain-coder/pet.json",
+  "spritesheetPath": "pets/petscodex/villain-coder/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.303Z"
+}

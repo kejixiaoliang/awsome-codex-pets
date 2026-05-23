@@ -1,0 +1,5001 @@
+{
+  "generatedAt": "2026-05-23T13:49:29.062Z",
+  "mirror": [
+    {
+      "id": "terminal-pup",
+      "kind": "mirror",
+      "bytes": 51713
+    },
+    {
+      "id": "review-fox",
+      "kind": "mirror",
+      "bytes": 51708
+    },
+    {
+      "id": "sprite-debugger",
+      "kind": "mirror",
+      "bytes": 51713
+    }
+  ],
+  "review": [
+    {
+      "id": "abg",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7bd5d337636ab425ddc00bbcb89357bdc4d1667c0ac97ba14679c044363a55ca"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/abg/spritesheet.webp",
+          "bytes": 1671466,
+          "sha256": "aaf8a1320f4930d327578d20de29c8486ebaca05f4f9cdfdab94a647d6f1da97"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/abg",
+          "bytes": 1671712,
+          "sha256": "fb3c092f6edb67472a6691312484e0ed6e252d98604bc209a7de1bf9523e1e46"
+        }
+      }
+    },
+    {
+      "id": "academicasi",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "40f70409f43613c6736988dab08556b8ae185e6123ab09b177396930d0e327ea"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/academicasi/spritesheet.webp",
+          "bytes": 2201714,
+          "sha256": "3b5755e97beae458fe47af13162c1851f3e911e88062a689e7e422a311639d0d"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/academicasi",
+          "bytes": 2202498,
+          "sha256": "08a5ce32b84ad3bf9e295e5bc278751b2c6ca6d9e629f598d9922312f05bc753"
+        }
+      }
+    },
+    {
+      "id": "academicasi-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "29abc76b6b1ed586395b9b32fdf84e9985440c0fa88a4789b179d72012bc7aef"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/academicasi-2/spritesheet.webp",
+          "bytes": 2201714,
+          "sha256": "3b5755e97beae458fe47af13162c1851f3e911e88062a689e7e422a311639d0d"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/academicasi-2",
+          "bytes": 2202613,
+          "sha256": "6f392d982185fc2870fc588e34b0be21fc4b7042d2a1102046ca767be89cc6f0"
+        }
+      }
+    },
+    {
+      "id": "acidling",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b84d4a9f0c80b62d18ce39cdef52a356e2b344de3e42854bfc9020de3f94dc3a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/acidling/spritesheet.webp",
+          "bytes": 2093536,
+          "sha256": "9b1650a3af0ed8b77219d4a0797a29035288f640809ce4d001b3f85dfda40571"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/acidling",
+          "bytes": 2090045,
+          "sha256": "e11ece6f7c06d6d07fa0d11ca9bb38a44021cf8178fc1bb96105718aee6f9cc2"
+        }
+      }
+    },
+    {
+      "id": "ada-lovelace",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1d91673fb4b91e78cd54a9b75d60fde745ffd264bc38650871e2a0903928d323"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ada-lovelace/spritesheet.webp",
+          "bytes": 2063478,
+          "sha256": "70cdccce9c656a3ca638e16a0596e3c52eb3255947b61b84ec5bfb0c001acad1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ada-lovelace",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "agumon",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ca91d77ffeb9f0e43f88ab14ae43405058af73b401773b34103cf3eb570e37ec"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/agumon/spritesheet.webp",
+          "bytes": 2011078,
+          "sha256": "0ff19c7fcf25d59dc491549550b4b9e7ae5fc5d8491ec74faa32f40e83352c59"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/agumon",
+          "bytes": 2011745,
+          "sha256": "988170f1f34236846056068411b7ed3bf50b320f1e61c5f89237b96aada80669"
+        }
+      }
+    },
+    {
+      "id": "airring",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "25cb11496303c0348898f4372a2202b91035f23454f48ddab8105e239ffc616b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/airring/spritesheet.webp",
+          "bytes": 1801372,
+          "sha256": "c30a15a2dbdf5f9a05a7050181c3b71617e16f2fd4f8b44017c75be94280d8d7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/airring",
+          "bytes": 1801991,
+          "sha256": "3225b6b166bb8aeb514cdcca3dbb7938a40d3264fac9f01b5ca6538428d114e9"
+        }
+      }
+    },
+    {
+      "id": "aiso-feather",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "cee44c0e6b954fb411fc740e1d7c506476119cfdeb8b7b020fb8159c743a1fd1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/aiso-feather/spritesheet.webp",
+          "bytes": 1601334,
+          "sha256": "f67c1b5f00a4c7dd267a1463103dbe58f4978cd367be499a744eef55ade85c30"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/aiso-feather",
+          "bytes": 1601990,
+          "sha256": "2e7eb937906c1e135f74819aaaf697dade0895c638117ad43f880dd807157c3c"
+        }
+      }
+    },
+    {
+      "id": "aka-shiba",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "04d62026ba3d60c04bafde9f9b74dde55f36321a75cdc38adf49525a37f6aa3e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/aka-shiba/spritesheet.webp",
+          "bytes": 2102754,
+          "sha256": "747c5f0b9346eef68aad26ec20c989d32bb1ce3dd307de2e4012987433ff3e24"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/aka-shiba",
+          "bytes": 2103435,
+          "sha256": "42ea1d5b5c13586f34b864e1bd1a136c654777ef1496b305c16dd9cf0e2c4a33"
+        }
+      }
+    },
+    {
+      "id": "akane",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "eaffe0ed65e2e61b8bdb413d58e0e10c6923f261894d3a2c3187ee2650045ea8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/akane/spritesheet.webp",
+          "bytes": 2263284,
+          "sha256": "5bb5cbcc6343bd0bfd6333ad059c53e6fd26d5c1bfc1fb69b24596bc21c410dd"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/akane",
+          "bytes": 2259671,
+          "sha256": "1d0e0d5a404a3f2c237782faca65faba1059962e2a86ffc1c3ecb41d06ebe2f3"
+        }
+      }
+    },
+    {
+      "id": "aku",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "99d20350091f36030e5475f3e4b49ee03df9ae7f6046d28cb17d9d5fd0bc7b33"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/aku/spritesheet.webp",
+          "bytes": 1942950,
+          "sha256": "f3cdde29ef010861ac61343a86efb03019d9f04ac9c42a3a8f1d5e8523650c2b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/aku",
+          "bytes": 1941416,
+          "sha256": "69289dddcae912d5fbbbc07433781b1fa2173a4b56d1bf44b36632d737c865df"
+        }
+      }
+    },
+    {
+      "id": "alt-sweetheart",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "bd99c980670055f33d3fe18edff9cfd837a13a7357bec84f978cb257a6e5bad2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/alt-sweetheart/spritesheet.webp",
+          "bytes": 1836292,
+          "sha256": "8d78dc8bd015328f2eb4511c03415bf7028a9f887ec321d647e9274871882536"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/alt-sweetheart",
+          "bytes": 1836999,
+          "sha256": "6d3cae5af99117e99ddc0b8b0c1c8f96f5f6b07f9d7eb4101253b7ba909482e6"
+        }
+      }
+    },
+    {
+      "id": "anakaay-kegare",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "17763cd68b3a3f9fa2fd6bc6985fadf816424345ce84b7508a7ea927a67542b2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/anakaay-kegare/spritesheet.webp",
+          "bytes": 833908,
+          "sha256": "86204dda6e297f765b486839783ba88189080be551eac3c10c980050fa984a8c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/anakaay-kegare",
+          "bytes": 833696,
+          "sha256": "5d1b7f9ec416608e85d738fc450736a19ec5768e9c36c3dc44e4609c6bc91380"
+        }
+      }
+    },
+    {
+      "id": "anathema",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "947116d571eec6c964112ab43591130a7ea1298d6580e4d0ff66e4efdc77b186"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/anathema/spritesheet.webp",
+          "bytes": 2044652,
+          "sha256": "45bea3a73a61a5cf4b47b7e736de5873a4b13240a275a61088c8283ad238bc83"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/anathema",
+          "bytes": 2043986,
+          "sha256": "3276ddd0943de6c8d691a9147294bcc44f16d2781c5b36499585ebb62ecdb7fc"
+        }
+      }
+    },
+    {
+      "id": "aoxiaotiger",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c4ed27ace06aa959828d73c7b3e0f694c9bef95504c67c2c16175a648547177f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/aoxiaotiger/spritesheet.webp",
+          "bytes": 1631690,
+          "sha256": "2b0db8e0a92025543239ffdafa4889f07215bc157dcfc3f5a3ada0f6b0994cea"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/aoxiaotiger",
+          "bytes": 1632216,
+          "sha256": "4a77deb7b07e1cb4dc4fa1bbdab8a966af022ca69f421c55189c93bacfcd397c"
+        }
+      }
+    },
+    {
+      "id": "ape-escape",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "daf58835ea38f84ff14993643ee1aa99fb7dc2f8f4b097f276fee667d2a12f9d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ape-escape/spritesheet.webp",
+          "bytes": 1603612,
+          "sha256": "20964acb9f994ee9da1f9373f846eccee52c383a3627e7056e54f64b980d3ad8"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ape-escape",
+          "bytes": 1604218,
+          "sha256": "7a2c13620ace0eca885505c5b1b9f7772485a71e6849cff1ffee9cbf51c0193b"
+        }
+      }
+    },
+    {
+      "id": "apple-flex",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "32cd372a1090c800752afbca7fc39ae93b7e35d26fc561fe9f747f5a38e6fce8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/apple-flex/spritesheet.webp",
+          "bytes": 2127870,
+          "sha256": "901a4ef743296373e79ccf1dfe7d006b35fd86800ba5fc93726c5dc6be937483"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/apple-flex",
+          "bytes": 2128610,
+          "sha256": "8265bdd0b0b9858e4e4559f7f5e32074b2863fb8740986345a2c78ff85b7855b"
+        }
+      }
+    },
+    {
+      "id": "apu-apustaja",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "f3d37dc55cf2906f2f2a0b6c529cf4776f3e6a69ee250ab701eb742a7cbed3c6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/apu-apustaja/spritesheet.webp",
+          "bytes": 1859348,
+          "sha256": "600621b756d2366b69a77a80c04853b463d64aa30c1283142fc84e0ac96b92a4"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/apu-apustaja",
+          "bytes": 1860048,
+          "sha256": "a6011aa12c1ce0d5dabd093a4a2103615110583883866ac44b84dfa8e82023b4"
+        }
+      }
+    },
+    {
+      "id": "apupepe",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "043274739bdf5fca29eec836fc0c955ab3e900787fdefe963053e6fe94bb3956"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/apupepe/spritesheet.webp",
+          "bytes": 2088484,
+          "sha256": "5a610a22657ed0aa2bdca54f9e1022e7dfaed5b83f08795c63f30187552f82e0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/apupepe",
+          "bytes": 2089164,
+          "sha256": "0fd3b6d2189e2223f1b88b793f76913a68aca90ee247d98894b86433153c9b3e"
+        }
+      }
+    },
+    {
+      "id": "aqua-wisp",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "aca498006c65c3856e96621701d3b4de7b4f3fd8e87f5d514ba7bc5d786591d0"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/aqua-wisp/spritesheet.webp",
+          "bytes": 2084166,
+          "sha256": "e0095143f76abcfec38425b3f833a09ef72398ce27938156409f297de001fa27"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/aqua-wisp",
+          "bytes": 2084906,
+          "sha256": "fe68a89efe6138066e50f7024c2fd7fa71e6fe75363fdb9a9e240caa6f8f94ec"
+        }
+      }
+    },
+    {
+      "id": "ark01",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "15eee8207fc5073981a9a616fb74fe549dfa6480176d9bdf57500c6d1ff9dc2c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ark01/spritesheet.webp",
+          "bytes": 1609822,
+          "sha256": "34afa904b1a842f567aca3f3eafa9f0f3bb04bdfb109f48c43c19a41fa4986ea"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ark01",
+          "bytes": 1606349,
+          "sha256": "bf0e0659e335a32d696c67b9ad38e2944def8c2f87b96fe12507af6216bd3c74"
+        }
+      }
+    },
+    {
+      "id": "asterix",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5298449f008c7a4b009c3bc381484830592e1cb0f80c24b89a5867f4e29a979e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/asterix/spritesheet.webp",
+          "bytes": 1972048,
+          "sha256": "1fe29abaecd56380d886c511d8e10e60077f7388987523c9900381cf5dfc4394"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/asterix",
+          "bytes": 1972757,
+          "sha256": "9a96843d44ca9fbcdcb2dd735475785608d8bd02aeea045f0761366bccfa9c80"
+        }
+      }
+    },
+    {
+      "id": "awawa-hyrax-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "0e47e2b99b6dd50c8d810d5afb0699964bccfbbee5cafa18862956fc2cc73bcc"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/awawa-hyrax-2/spritesheet.webp",
+          "bytes": 2141860,
+          "sha256": "160bd936758b3d6d4548b51fc539fb91645cb9b4caca2a9254db7a7646845486"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/awawa-hyrax-2",
+          "bytes": 2140061,
+          "sha256": "1ef9c60f3c5057f1c622944327a08c3f8bf4ceaf9e62a2eca523330be039b12c"
+        }
+      }
+    },
+    {
+      "id": "axel",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "35b7823cec74a05630266d19f0fc3148283619d8e1945c38e1d0c43215ea1004"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/axel/spritesheet.webp",
+          "bytes": 1585178,
+          "sha256": "ab76a8d557e98b92dd82d50c6da132fefbfb471cf5d0f129b30bcfa0c22af702"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/axel",
+          "bytes": 1583631,
+          "sha256": "d5ec7bbf1f6d55d4084302dccf8a07bac8782b1ff935f8942fad86a839948880"
+        }
+      }
+    },
+    {
+      "id": "axobotl",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "881b8116a7467a76d47307dbb436a57ed370ddd4a63e1eef682c251c4aa9e4c7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/axobotl/spritesheet.webp",
+          "bytes": 2453900,
+          "sha256": "96b90bf47e0d1b2f4a5540bc96b06965d00e2078dfc2ac08b58e297083e2c34e"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/axobotl",
+          "bytes": 2454709,
+          "sha256": "cee1a36219e5ac46b9e860c18082af3c2d7ca8dae313d230dbc0f87bc5ec7f33"
+        }
+      }
+    },
+    {
+      "id": "axobotl-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c8a3e137f3fe948664893d1ea32099187ad57d7cc4a8faf0515264d224460d0e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/axobotl-2/spritesheet.webp",
+          "bytes": 2419926,
+          "sha256": "029c339fe440f57a0679549a37322e01d1d5ab3abd409c7c767e1abbb96684a0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/axobotl-2",
+          "bytes": 2420737,
+          "sha256": "a3374f878254d1ecb3630a2b0933c6450659933b977d9d627ddbc35f1755713f"
+        }
+      }
+    },
+    {
+      "id": "baby-milo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1746c06f29d93b3e747c3a105bb8fa4e75ac228aa95c12bfc91a9df97400b6fc"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/baby-milo/spritesheet.webp",
+          "bytes": 1789950,
+          "sha256": "9a87166690af4296f35368e67fe78d5d8a44c829bef92491cf9ae348f754afba"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/baby-milo",
+          "bytes": 1790588,
+          "sha256": "9d7e623ae1e5015ab46c5357074d4e615b9c3290dcfcc4b9ea402101f5be22a4"
+        }
+      }
+    },
+    {
+      "id": "bananboo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5ba2b3329e02a584423ac4a183c514bcc5e9b31781298f366c9f49bf05933004"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bananboo/spritesheet.webp",
+          "bytes": 1479448,
+          "sha256": "1447c1b254ea5e45308d0be10a69b30b6730f50e0605fb934e36ab23e10c87a1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bananboo",
+          "bytes": 1480062,
+          "sha256": "bec24c51de5519a918bf95d4a4669b9b4bba8ff6d734cd020b42e1055a5fb566"
+        }
+      }
+    },
+    {
+      "id": "banani",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a903f8313fc215f52b049e24ef98edcf6976d9142657bd49efc7c57a728b28ad"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/banani/spritesheet.webp",
+          "bytes": 1719256,
+          "sha256": "0827233be5014240997ec497fe6f1c598b77e40a361858b676e22a1b4238915f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/banani",
+          "bytes": 1719882,
+          "sha256": "37f5f9d1abf68fac075a52b2594e5df693fdd3bd11700d78b826e3894fcda3d8"
+        }
+      }
+    },
+    {
+      "id": "bankr",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d7e4873f459c9eec66dab03dfc0f7eb4482341b86f697ecb7309ea512ef8ccc9"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bankr/spritesheet.webp",
+          "bytes": 1819034,
+          "sha256": "e835cce43f36183d7cd8a374ce1808583e2efdb4f2f662c6d81faf077bf87585"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bankr",
+          "bytes": 1819564,
+          "sha256": "5916d4a439c390362991a9ef5f946f42240fe962cccd5c8ada8b438d17c8e3e3"
+        }
+      }
+    },
+    {
+      "id": "bao",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "05cba09bac2eff29e53de3a608379e9bc208c6369c5781543d665578d2911a0c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bao/spritesheet.webp",
+          "bytes": 3073400,
+          "sha256": "b2215b06d14801e0956e5e859d7903969dca1c20abc9182b21db2724a5fdc6d5"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bao",
+          "bytes": 3074100,
+          "sha256": "4254f90c7f3a72ef9c737d24af8d474413f5d574a133e1fd7b4ace9419c4fede"
+        }
+      }
+    },
+    {
+      "id": "barry",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "80c9460ea3f0424bc5b51a79061c3f00f45b58cd56312d439bdbb6eaedf305ab"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/barry/spritesheet.webp",
+          "bytes": 1615880,
+          "sha256": "674d6835c58f6d6154aa2ff3232a8efcc715ae656033f06dbdb362493b670fa1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/barry",
+          "bytes": 1616475,
+          "sha256": "133719e1a9f10d8f9889ba9c4857c30e56a20168005925a9ce5cd6a6ea964869"
+        }
+      }
+    },
+    {
+      "id": "battle-beast",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "507e988189da58b280cb1ae0ab5d7110a925e85ecac826b211bc4150cb7e87b7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/battle-beast/spritesheet.webp",
+          "bytes": 3107384,
+          "sha256": "25fb08895807c744d743d567ebcd19c370cbbba3d4f86913ec13f783d4d9bd82"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/battle-beast",
+          "bytes": 3107791,
+          "sha256": "852392a9e0db6be0542a1ea994c16939d1a53aad052ddb80210c974e26892a27"
+        }
+      }
+    },
+    {
+      "id": "becky",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7f323165f9995851273b08517a3babf11e627351e58eb44a64a44ac8dd1fb920"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/becky/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/becky",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "bella",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "55132eb7bcd1ba85b9718e4346a4bade4ed519fd8ece5f096ebd6b00abeef15d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bella/spritesheet.webp",
+          "bytes": 1649436,
+          "sha256": "d61a273b305bb32dcef14db656901becde5017e855de3f7e3f79c6d856662eac"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bella",
+          "bytes": 1650066,
+          "sha256": "42917d2508a424e22574bc29fd69dbc5802687924c80f1bd755d2f9cb6aa03d8"
+        }
+      }
+    },
+    {
+      "id": "bernie",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "df19c7a17c087edf59f6a0d464ebdcce733e6b7113b05da12fc4ee1b01e69b98"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bernie/spritesheet.webp",
+          "bytes": 1812730,
+          "sha256": "e49ed60b2b637f76bd91ea4c174ba05a88f2bb151b98ddf2558fc9721834eb27"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bernie",
+          "bytes": 1808087,
+          "sha256": "2cec49fe8779cc66a9fb62341e8926c6d9e005995b92fcdbf5d5490c23c60b1b"
+        }
+      }
+    },
+    {
+      "id": "bipy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "2982639a9afc886621d9e3c4eb31cb732b83b03c19ea98c6d6e28ee74d23515f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bipy/spritesheet.webp",
+          "bytes": 2706576,
+          "sha256": "9f4f2ecf18b59aec4565aeee9d35e5468f50e0e8437a7d464b8793b394644fa2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bipy",
+          "bytes": 2707416,
+          "sha256": "c3ca4a73822aba6f0bd668fe38b52e6a1ac30a19d3785cb453f736b3d9262f34"
+        }
+      }
+    },
+    {
+      "id": "bitboy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a928eb09508d4b5cb6e763412fd75c439e819a1bf5ce2f322c7d47e3f9abe646"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bitboy/spritesheet.webp",
+          "bytes": 1684336,
+          "sha256": "201f9b35ed076f2db2cac417dc1b08bda9f11886305d4b70a242441bb1aa2633"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bitboy",
+          "bytes": 1684939,
+          "sha256": "6da3c755049a4a21e99a0239c62456c6b98765b191a9a71026d1ac4e399e81dc"
+        }
+      }
+    },
+    {
+      "id": "black-dragon-pet",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1f4992d26ac197cb1ffdc35c0684281feffed66339d1ae087b07fbc28cfd408b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/black-dragon-pet/spritesheet.webp",
+          "bytes": 737834,
+          "sha256": "07620934628d981b94798f7d0009c3c8ceefe0159b62aef911fa689291a8eca9"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/black-dragon-pet",
+          "bytes": 738344,
+          "sha256": "b17832af1ed0baae9b39688becc594d177b3fffdd4c4d5ddf1e6c0da8d22ec8c"
+        }
+      }
+    },
+    {
+      "id": "blade",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "270f3e60199ad8139a8f7c1fee4c7f073dd4713ed896adc1853c5a3c766667d7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/blade/spritesheet.webp",
+          "bytes": 2496526,
+          "sha256": "c736c9f0d5eace3d39948832c3854b02da4152dc1c8a14dd833a76e757263ff7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/blade",
+          "bytes": 2497335,
+          "sha256": "f07d22f57782df56f1359b9eb9b3ed2235cd183fdebf68ca505ce2ede87a7ecb"
+        }
+      }
+    },
+    {
+      "id": "blau",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "90d09e29723ad68b2708a2318e281b026e56d657d8a862985a3b81997ed2309c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/blau/spritesheet.webp",
+          "bytes": 1577092,
+          "sha256": "a5546d4d747f5792e35a06ee8b31edafada64613ebf576330fb55dbfe2e1a4b1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/blau",
+          "bytes": 1577706,
+          "sha256": "7284203ea0211ae61321d0917b5975a2a76508e0ac62ffb49f12fc42a017c5db"
+        }
+      }
+    },
+    {
+      "id": "bloodseeker",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1810d7c58b9a292f23a433c0386ff76780646879fd09759f9bc693e9172d8b61"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bloodseeker/spritesheet.webp",
+          "bytes": 2758592,
+          "sha256": "9d4e1ccd175a2ecf40a8eadb76ccef5ece3e45a372c1d0970ed05e44a61ae0f3"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bloodseeker",
+          "bytes": 2758031,
+          "sha256": "096f05f719e295ad23f84648b9348269b6108ccd27525ecad5039cca94bc571c"
+        }
+      }
+    },
+    {
+      "id": "boba",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "53a2adc10cab8a341d97afd6d55ecd5f2f9b1521507544f3c945ccae8727f6c0"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/boba/spritesheet.webp",
+          "bytes": 1931458,
+          "sha256": "58ff4b28d1c91028234f22d7b09402b0fbb05c8636765be762ee980ad5d4c1f4"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/boba",
+          "bytes": 1932147,
+          "sha256": "96220ba8f3cf9e1bab1d67ee3043ca9691fb11038dc50824e22a2b34cda6c0ca"
+        }
+      }
+    },
+    {
+      "id": "boba-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "fc2e026d806c160d6f53ab549457b73958cfbaf73606d2ef2285e9c1056a0eb8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/boba-2/spritesheet.webp",
+          "bytes": 1652490,
+          "sha256": "aa1a306f6ad265107e1032dd456db07282293735f0a1bb6be46c1381da45e3a7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/boba-2",
+          "bytes": 1653062,
+          "sha256": "90f2abac5f5ca9762561b177f2d23d6f0e2c30c7d6facedc2a9af588078beda9"
+        }
+      }
+    },
+    {
+      "id": "bolt",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "fb09904667f7ba2ea5d28ebd57deb0e4d209665829d23985938e5472a055193d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bolt/spritesheet.webp",
+          "bytes": 1656492,
+          "sha256": "2606a77903cd2f37e0c1e693a510c220cba3b60e6d9b73b8398b3e9a29bad2b5"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bolt",
+          "bytes": 1657126,
+          "sha256": "dcc5c920e67a4ed21be24911f2a9279c075bf6bd7601bb3ee6c8d433d2afb72f"
+        }
+      }
+    },
+    {
+      "id": "bolt-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "baf763ca0b6da8eea39f276dd23f20476d7c8fba6ae38b9bd3b3ecad24924c4d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bolt-2/spritesheet.webp",
+          "bytes": 2134318,
+          "sha256": "9f5ce4b0076efca09f1e755cfccffc2ca5f4af6d8448ff8586b650988b7362dd"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bolt-2",
+          "bytes": 2130274,
+          "sha256": "200edf82bc67d912253deebfdebac49a1fe741e0f6102cf3b495d4bc4634e824"
+        }
+      }
+    },
+    {
+      "id": "bonzibuddy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "781161873552e047b54041926133536b44891e6507cf44b7054e52bbd544209a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bonzibuddy/spritesheet.webp",
+          "bytes": 1800310,
+          "sha256": "22b126befa61bb048b834209c95646d39628ef24394d927e7f8d24170d31f434"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bonzibuddy",
+          "bytes": 1801002,
+          "sha256": "4b8f90c09757726376f98c9ccf6e67a0a1c2f5d69213cbeea5a48a72b6a4040b"
+        }
+      }
+    },
+    {
+      "id": "boolet",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "9ff2364cc598cc5bab1a857406d5c44ffb9f3ea29dfc00c009d571ceb70a7580"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/boolet/spritesheet.webp",
+          "bytes": 2021124,
+          "sha256": "7b4ee17d276f1e075190ff2338f6654ca259d41182214e995299e1d37bdeaab7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/boolet",
+          "bytes": 2021603,
+          "sha256": "f56754fc881d47cf2f93eddc429e7b3a4ee822aa1770d586f2158488b5b1e9be"
+        }
+      }
+    },
+    {
+      "id": "boxcat",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "862f30831ce96d39e989abff8d5798773151117ca9b17a97fd30867be386d613"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/boxcat/spritesheet.webp",
+          "bytes": 1743076,
+          "sha256": "e42958ecb67ac590f74bebcf895fb13b924120f73e9ec4f57573329c7cf471e6"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/boxcat",
+          "bytes": 1743534,
+          "sha256": "11915a2995fdac0605dce742d407253f8515b8557aa8e4dbaa4e10a1c2826664"
+        }
+      }
+    },
+    {
+      "id": "bt-buddy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c1b007c17dd55ea2b62463e14e7f8ef29d2e5bf398798dc6da1eee557f7a6d55"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bt-buddy/spritesheet.webp",
+          "bytes": 2071092,
+          "sha256": "2b0a1e3f562de29b890d0ac13d8fc843660ecefb71454755aace8f4b209b6bec"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bt-buddy",
+          "bytes": 2071815,
+          "sha256": "95d90e5a8ed49529c6fe36ecaf008f22260196dd306732e6d130936540df6f95"
+        }
+      }
+    },
+    {
+      "id": "bubu",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5fdf1d9955e5f2b11bea88f8c1ac734e6e0009e55c5d806e8a23e1e8b448bde2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bubu/spritesheet.webp",
+          "bytes": 1875482,
+          "sha256": "9af13c0b42d8f75d242fd334967a4ee70af71b29e69ff07e74cc1bf11c6dbf51"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bubu",
+          "bytes": 1876138,
+          "sha256": "50153aab66d9428b341dad1cb142aa158b69762e003a3322f30604c59845d71a"
+        }
+      }
+    },
+    {
+      "id": "bubu-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "f388c6e45bca4d6fe87575f515904cdc4ccacb1a7c0d6c5d4e2e1e4aba4b03af"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bubu-2/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bubu-2",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "bubu-3",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "36cb5b2df3fa9f1656ab8d8d8e535098e2d738ff2f9f2f23a2d90af92d7ed847"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bubu-3/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bubu-3",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "buddhist",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "4751e9f9cb455668224fd95962881f64a868e76ef5b1468fc277ae13d3f861db"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/buddhist/spritesheet.webp",
+          "bytes": 1811720,
+          "sha256": "841008738bf3270a88143c4654c334b45ed295bce77efc2491d71f9af8f81c84"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/buddhist",
+          "bytes": 1812351,
+          "sha256": "4690aed266b353b697287e9fda6dc256ac60516b4f9a7cedecaa495c39c863ed"
+        }
+      }
+    },
+    {
+      "id": "buff-patrick",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "653593df57d989bec523add4b9462228ba99ff98afa61b36d86b0c03cdcb32f5"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/buff-patrick/spritesheet.webp",
+          "bytes": 1691022,
+          "sha256": "1ffaa77f405d33086ffb46db91414e3d72c40082aca1d594bf8df8c2dab8c17c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/buff-patrick",
+          "bytes": 1691706,
+          "sha256": "5a3ed3ad3530c1738d98d58405f5f5b0281c81a73dc7362f3263ee61f5aa1061"
+        }
+      }
+    },
+    {
+      "id": "bulby",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7d7f489ca6dff96a7076d32b72274cc719c446d29424ef582f122dc2f4ff4d33"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bulby/spritesheet.webp",
+          "bytes": 1614892,
+          "sha256": "c3bbce5d2696ffe9ecbde7e1ce3172adea42889d573cb5d03f7128fd5c9e723a"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bulby",
+          "bytes": 1611440,
+          "sha256": "70b2d7a454f99df0131c1bad2f9af3c7261a1b16a6f4824aeaf370cbe9df6d57"
+        }
+      }
+    },
+    {
+      "id": "bumblebee",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "411e653f3eb413a39386bbb33a3ea6cd505ed4d3e95e50c9139bc34f0d183a9d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/bumblebee/spritesheet.webp",
+          "bytes": 2549418,
+          "sha256": "d05e4b8faa1f83bff97eb4d8def61fcd0ca37bad8962f4f9788ef5227ad3e230"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/bumblebee",
+          "bytes": 2547415,
+          "sha256": "cd3929aef31ea0d6f6c1927d901ac4ecdb15f4734b3d4c40ede3ec721e60289c"
+        }
+      }
+    },
+    {
+      "id": "byte-bunny",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5354685d960543fb6968404db4fbe0e28726799bf2f2388ca21c1f261992b464"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/byte-bunny/spritesheet.webp",
+          "bytes": 1572650,
+          "sha256": "75da0d1a94f2933de217702a385d72acb8501aec24eacceddd44bed212a30e34"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/byte-bunny",
+          "bytes": 1573298,
+          "sha256": "bc3cf48fc0cced5609d043390e264963aae2b5de4b1f1f91f386e3cc7db7fde7"
+        }
+      }
+    },
+    {
+      "id": "cabin-face",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a64567fd546ea0eb57a385f453977e01bf687b2057e4c62838b7808b1ddafb27"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cabin-face/spritesheet.webp",
+          "bytes": 1273508,
+          "sha256": "a046b1cf86f690ab81aa057efa703af517b75347dda3482d0a5060c1d374cc14"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cabin-face",
+          "bytes": 1273930,
+          "sha256": "9471afaf748783e75d14b8596b4d6c42559e6e57fc25aa4c79b356cbd5cb556d"
+        }
+      }
+    },
+    {
+      "id": "cache-capy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ac51e5f75df72b48761b18887c218530ee499ddf91437442e3c1b592172f4bac"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cache-capy/spritesheet.webp",
+          "bytes": 1823070,
+          "sha256": "2447997a9341402c8a62af2bf778ed237661d180bbc9bbe019e7f2f5879ae4e7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cache-capy",
+          "bytes": 1823653,
+          "sha256": "ea006a4cb5b37e236ac9f654a378d147b9a35a5c3776c6e6b9ef20381bc0218f"
+        }
+      }
+    },
+    {
+      "id": "caesar",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "6faa2defd26189b7b025ec204a92994a388faf85d9c7ff89d0044ef85edfd0f7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/caesar/spritesheet.webp",
+          "bytes": 2095362,
+          "sha256": "c4f5fafafef30ccd30593bf79edd0d7c5e9840ca22f817246bd3c8deda028be7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/caesar",
+          "bytes": 2093015,
+          "sha256": "4a44f8d305cb553db5c77b9ce2f6b0ef31a181539b699e5417170f6df0d18ef7"
+        }
+      }
+    },
+    {
+      "id": "caesar-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "59d38c3e4da4c03c3f47d77820a46ee3c677177198f0c044dd5894dcd6de28d7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/caesar-2/spritesheet.webp",
+          "bytes": 2076610,
+          "sha256": "ec3b39bf030c7febc22a8b5800141ffb0e0ef71710c71d449e5924c24ad68deb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/caesar-2",
+          "bytes": 2077351,
+          "sha256": "4f774bfc7b65bf6acdc8683c6c1b9dda9155d1acf5475a381853320cf11bfdb8"
+        }
+      }
+    },
+    {
+      "id": "cajal",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5c86cf32afcafad50365829b57d10ed427ee102a63fb37fa5dd099af29cb797a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cajal/spritesheet.webp",
+          "bytes": 1676070,
+          "sha256": "f6018593b89744da954b9eb092e6a2e50eb1027d7c4a5ed1a13c50973d0d56cd"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cajal",
+          "bytes": 1676611,
+          "sha256": "81ef2593732c3135367f862be8c334109a6fb6d4aebb369bf0d32090ef6e5a9c"
+        }
+      }
+    },
+    {
+      "id": "calcifer",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a6246472b8acc7e9ac6907a398391bc2cd4e750ae5e48a9e79a16d7c5e980a4f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/calcifer/spritesheet.webp",
+          "bytes": 2114206,
+          "sha256": "c55bc9800e11afb6f1a4f892912ea90c9b5d00c6b357e50f02d68dfe5afbbdae"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/calcifer",
+          "bytes": 2108568,
+          "sha256": "354ae10cf0734c85b484ea97a8ae698a0041e8dcc819f2004901972a261ecbb8"
+        }
+      }
+    },
+    {
+      "id": "calico",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c68d90fb81516e59faaa033ac743255bdac13a1b79429a6d6dafc34b7cc83cce"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/calico/spritesheet.webp",
+          "bytes": 1820308,
+          "sha256": "083874273fd44e3073d101f2302849cf89bea0afc7eef4fa502172de994eb3bd"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/calico",
+          "bytes": 1820982,
+          "sha256": "6b87e562673135593da98444a9e97d82b0b89e43b4a18f7ace96ca66f9c711f4"
+        }
+      }
+    },
+    {
+      "id": "cannibals",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "f28ca8cd30eb0c9a30a39710e3fdf4fa001737c58eabca346c7bc1ac5da14f17"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cannibals/spritesheet.webp",
+          "bytes": 3369402,
+          "sha256": "702b10953e4ba3d109af22fb37d69734452c7e632360aae1ff1c634bb676311e"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cannibals",
+          "bytes": 3370406,
+          "sha256": "88112a2640c38d2ea8aa216a419f2d40ec96c49cda1e7ffd104ada22b4f224a5"
+        }
+      }
+    },
+    {
+      "id": "cantor-sprig",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "88256e003039ebc7c29c848f4b339f1d8d4a123c3c0b767f05700d6db72b6991"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cantor-sprig/spritesheet.webp",
+          "bytes": 1879980,
+          "sha256": "235e2c8db7123d7940af699e14ed20b80dec05e493ee97f0e638a179d86d745b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cantor-sprig",
+          "bytes": 1880699,
+          "sha256": "d303cb3e79bd31b615d684421ebf3d8501207aead4383050f8380cfeb310873a"
+        }
+      }
+    },
+    {
+      "id": "capoo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "38f566ed80b6c996912132ac33d9af79be26f015cf367380ab4510b4e6c793ed"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/capoo/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/capoo",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "capybaralulu",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "584e7bae9028f2ae69fad0c54fd1d5074973192c6720c632e3b7800799ba84b0"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/capybaralulu/spritesheet.webp",
+          "bytes": 1604714,
+          "sha256": "6c47347520dd26fe4f73d71477aac78aaf71e1f4fa65c2ab9cd7645ef678d32d"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/capybaralulu",
+          "bytes": 1605273,
+          "sha256": "b66a532e49b12949dff0099ad7bab1dabc3d13d8503588d6c1d48f2166f4472c"
+        }
+      }
+    },
+    {
+      "id": "carro-real",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ba5e7cc67fe7ad393b70d9f902584bbf4c2b4a89eb8e99956133c01d7aa43dfc"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/carro-real/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/carro-real",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "carti",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e086a1489a635bf6b415711434bfcbab326edbfbad54e2d1a81da560f2038fc6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/carti/spritesheet.webp",
+          "bytes": 664250,
+          "sha256": "99e5a198336df7c4590101ea2eda6cac4297cfb7105d121c9f062b0090a0b723"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/carti",
+          "bytes": 663947,
+          "sha256": "3ecf24627da1519a075cfdd57227ee7ab9e54a2157ca934443932b6ab30e394b"
+        }
+      }
+    },
+    {
+      "id": "casey-cassette",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c60cc0afa6f782a9b45209e5172f02c50f0b73512e2586663f4884a427e78087"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/casey-cassette/spritesheet.webp",
+          "bytes": 1587952,
+          "sha256": "f544a63c1b51610b4039ded56a09c4f0d86adfa406aa700911e2c1b1e02dbf58"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/casey-cassette",
+          "bytes": 1587804,
+          "sha256": "56816cedf4e29dc3ae6cf6bb99351171c75e5a6a72db1ee907b03f45fadae6bc"
+        }
+      }
+    },
+    {
+      "id": "cash-cuy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "136bf2d8e575dc22fa91e457cdfce8d4c4ce4e09b7e0c4704808077db8269714"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cash-cuy/spritesheet.webp",
+          "bytes": 2406382,
+          "sha256": "62508c8a2e901e2c8b5f369823d6633b59c9716382a01209fb7d6aa791fb466b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cash-cuy",
+          "bytes": 2407190,
+          "sha256": "c84ee30baf97f056d8d521836144972e1da019bcfc4473032f165ce1989f00ae"
+        }
+      }
+    },
+    {
+      "id": "cash-cuy-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "746642cef282ff84fa5534b350659329cd93cc86c2f83cca31b56d9b4c5d92d6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cash-cuy-2/spritesheet.webp",
+          "bytes": 2406382,
+          "sha256": "62508c8a2e901e2c8b5f369823d6633b59c9716382a01209fb7d6aa791fb466b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cash-cuy-2",
+          "bytes": 2407202,
+          "sha256": "d4afe41619082641e08cb6481f6b804ef262a7d13f69b0a1e625791fd43141b5"
+        }
+      }
+    },
+    {
+      "id": "cerbie",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "f3c5889779ebaa237524b46e495b0781211243d6eedbe4921c38791cf2ea045c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cerbie/spritesheet.webp",
+          "bytes": 2218504,
+          "sha256": "808d97ba121e945c4bde977dbd1e377bc4a20b0ce68ffc03962b8c8f746185f3"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cerbie",
+          "bytes": 2219258,
+          "sha256": "23ef14463a2c5bc39c552aee3d14d0dccd64c97c762fc3e5b11c4faf677dd889"
+        }
+      }
+    },
+    {
+      "id": "charles",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "3a1db2708f4162ea2a9e91da95f8753495f727e8866f7f05d74346b9891c860a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/charles/spritesheet.webp",
+          "bytes": 2435026,
+          "sha256": "4588f03d8e8d32a8550f97e037a728c3373fcfcefd19f64e2ee5162771590884"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/charles",
+          "bytes": 2435771,
+          "sha256": "dd0c726a3ee294c428469df48ff2d5be4949e5b5e5e320415f86cd598582578f"
+        }
+      }
+    },
+    {
+      "id": "chef",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a516ef0fe5ef75a33b8948bc8d801267a6bf7520e1ab33bcd9eed814a230cb6c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/chef/spritesheet.webp",
+          "bytes": 1881040,
+          "sha256": "4fdd787e8c74a0cfaa8077d3d14676a67cc7e98d00d9b0dbc3ce5bc8f8c1c3fb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/chef",
+          "bytes": 1881664,
+          "sha256": "92b05d62eef216d38a5279312da52429bc0351f7986266f573150abb19d845fd"
+        }
+      }
+    },
+    {
+      "id": "chikny",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "faa544587f686520e91eabcf066b32329c18a18f3abfd3bd1214ab1eab885016"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/chikny/spritesheet.webp",
+          "bytes": 1758704,
+          "sha256": "7c48a5c807b9197cc57384b6eeb7648d5b1feb9d88c9971507436649c141bf8c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/chikny",
+          "bytes": 1759346,
+          "sha256": "9eac95b78d8f344a102fe8834aea79bbcdfbdc491d3b4ee5861777e3fddc1d9d"
+        }
+      }
+    },
+    {
+      "id": "chillhouse",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "98b1528354809dc10b9bbcb1085eb40637e08cbf1e050c1416699715dd6c0cb8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/chillhouse/spritesheet.webp",
+          "bytes": 1694972,
+          "sha256": "3c881cf9f119c263a8f59db78a397bc13ffa2a35245caca3643dd654aa99b173"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/chillhouse",
+          "bytes": 1695627,
+          "sha256": "3cae2a7298f1f42e91ea864365d8db35ca657f1dc34dfadc63d838a23f9d0d5a"
+        }
+      }
+    },
+    {
+      "id": "chirayu",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d087dd5fde5f73c08bb69432be330eefc9b4b8b1b4768aeca5b9f2397d9a4aa7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/chirayu/spritesheet.webp",
+          "bytes": 1535168,
+          "sha256": "691cf2f5d6e637b69773903d75f1cdfddf93efb517d029d323f71bf11f8d3b09"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/chirayu",
+          "bytes": 1527990,
+          "sha256": "3baba551abf86fcf8c54ef61f8ab7606ad00288308dcf109e7b605e4001274a6"
+        }
+      }
+    },
+    {
+      "id": "chompers",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "59896aeade68db42c0c809138d883ed297cf06b2c1d8610b27bbce6f3e8ab915"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/chompers/spritesheet.webp",
+          "bytes": 1636988,
+          "sha256": "92aa6f800800414b1219b2c71b88d02be5b66f4dff5e69699db225f43e245eeb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/chompers",
+          "bytes": 1637266,
+          "sha256": "d8251ef315b0fd47700b7d1b5834f2d56f7053548e1b0a03e992f29f65c7b464"
+        }
+      }
+    },
+    {
+      "id": "chonk",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e0dea0b8e0aeb3a52bc8187e14d33116432b1892fa69f3108121e10157c02fd8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/chonk/spritesheet.webp",
+          "bytes": 775038,
+          "sha256": "68724add4513229170f20a276502bc823b820d732777ee701c81c2cde99d44cb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/chonk",
+          "bytes": 771309,
+          "sha256": "311f06ae03e2b345db5cda21d6fd35057773a326b6d583a5f493aa391d763bb6"
+        }
+      }
+    },
+    {
+      "id": "cicada",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "864560f27da9d331b53f0996f3b523f11ce651cf61a9a3f35e3481ac3d4c6ee3"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cicada/spritesheet.webp",
+          "bytes": 2822908,
+          "sha256": "5a09fa71c8664ad4d4a3075e6927225044544bab0327653096a568dfd62d79b8"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cicada",
+          "bytes": 2820062,
+          "sha256": "eec9c2f96b68ab1c7346e902c2b5679125114872cc30037a73959c7e1f8f2183"
+        }
+      }
+    },
+    {
+      "id": "cicada-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "2323c0dc360824f88f04975eece541c8ea77c158ef0fcb91535032e9a5b9bb7c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cicada-2/spritesheet.webp",
+          "bytes": 2822908,
+          "sha256": "5a09fa71c8664ad4d4a3075e6927225044544bab0327653096a568dfd62d79b8"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cicada-2",
+          "bytes": 2820074,
+          "sha256": "92ccddbda1f601c647dd5bd3742084e09860c13a064a9295851231bfc6c286cc"
+        }
+      }
+    },
+    {
+      "id": "cinder",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "10edf6c859e6b3c1872f7be384c00f8b5090a90ea804572fd3fb34f5f609401a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cinder/spritesheet.webp",
+          "bytes": 1698346,
+          "sha256": "c924128d1e3064af416851df639a176df6d40fdeb3106fd3989b5ce8f997f879"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cinder",
+          "bytes": 1698995,
+          "sha256": "c033ff0ad987212b4698abdb95f0169480a3ada7d0bdc8d3b4d17863e2b4e78f"
+        }
+      }
+    },
+    {
+      "id": "cinnamonroll",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "af92054677f6e25bf6d1129d352b85bd05253057001ebc0233360a968a96a64f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cinnamonroll/spritesheet.webp",
+          "bytes": 562042,
+          "sha256": "63faba611039de521dafc6a731509b9b3b548c28458224f5fe623c211d65885e"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cinnamonroll",
+          "bytes": 562215,
+          "sha256": "8f4cbdc1642698c8cd2c68219fb8dd551b2e1a86fcf30498952f51a5a744083e"
+        }
+      }
+    },
+    {
+      "id": "clank",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "37be25a422cf6c0d556e91e42e37f3a0892cb318f21d98710d7c1a44917a7c64"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clank/spritesheet.webp",
+          "bytes": 1589436,
+          "sha256": "4ce3f4c5811b41910db7ab12a8cebdcf45c82f44023c63415a9118efd90b0ccf"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clank",
+          "bytes": 1590060,
+          "sha256": "e8f6beec534b5c17d60f3b5db8f13174986834efdb3500f2d822072e0fedc121"
+        }
+      }
+    },
+    {
+      "id": "claude-crab",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "2bc10dfefb522d2d572056773a1096f766627efc61730817978637077bff68a4"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/claude-crab/spritesheet.webp",
+          "bytes": 1019978,
+          "sha256": "7811aca19464b8af97321ee022bc8eedf5477b2a5ae644b22c861eeba887248f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/claude-crab",
+          "bytes": 1020465,
+          "sha256": "b60cf88da636e7fe6b70c9cd42063be38715791432148803fef4ad105a637d27"
+        }
+      }
+    },
+    {
+      "id": "claw-crawler",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b00cf20f6d2761e85eae0962dabab3542ffa4a345a9791c23975d5cad21e8e20"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/claw-crawler/spritesheet.webp",
+          "bytes": 1851250,
+          "sha256": "c949c8092c70cdec1951c48613cbe7d70ea53e4f960606ed5496825d0a3046ee"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/claw-crawler",
+          "bytes": 1851967,
+          "sha256": "879ec808e4bdb5a3d31533498b91c7f32c3d78e8f4b5fcf25ac828a7557d513c"
+        }
+      }
+    },
+    {
+      "id": "clawd",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "8cd73d22bf548dfbbb80da0c0bacd219b358ffadbc921983d0d011a462fed598"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clawd/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clawd",
+          "bytes": 1900011,
+          "sha256": "019b4096428399bcad7842302c2fe6b07bc69a50363cb5a43ddb64e27ba4bb01"
+        }
+      }
+    },
+    {
+      "id": "clawd-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "719c3427bb16396129e070eccd1df828c3458855eb621837c43e36c1cbef2c36"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clawd-2/spritesheet.webp",
+          "bytes": 1050580,
+          "sha256": "97a3816dcaea1698aad7329d8ce15dfd48ca76285dd7a1298d4b5b7fb7ed4bca"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clawd-2",
+          "bytes": 1051100,
+          "sha256": "543fe778ea35d571b4806c81f2838d1fafaeba7931c89d24797edf6ebca00a56"
+        }
+      }
+    },
+    {
+      "id": "clawdex",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1757b222d9a7c7448c534d9fe243ca3e1bebb828a3a2147c08fffeff60517c9d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clawdex/spritesheet.webp",
+          "bytes": 2389222,
+          "sha256": "a9f04e910ded563848642756685a457ef113b24fb1fea2a86adabc021ff2e38c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clawdex",
+          "bytes": 2388221,
+          "sha256": "aaa3bfc0c4e3f33eeb3110a6b1f160f188ba72fd8c177d34fa49444cfc72a4c7"
+        }
+      }
+    },
+    {
+      "id": "clippy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "0cf96365b52e8928e11b69e6d2510994bd4be4babbfcde4314463606bd7b8036"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clippy/spritesheet.webp",
+          "bytes": 1352414,
+          "sha256": "5d1607c89ebf7bf1f370d5b4285f0e672d1e7c98e261360ba37c64924c2ebdc0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clippy",
+          "bytes": 1349971,
+          "sha256": "4006548d22e048a6dc391c8215208ece736dbf204b37a35f3d7ee8d54a52166e"
+        }
+      }
+    },
+    {
+      "id": "clippy-4",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "bc9c5229ace3695efdcccbb86f752fb5404db49d00ccac72b0abbd6d9e27f8c6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clippy-4/spritesheet.webp",
+          "bytes": 94084,
+          "sha256": "a1429ff127d109282f0d8d9e053a602073314699da0d6ebd3fefaa83695b4411"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clippy-4",
+          "bytes": 94104,
+          "sha256": "112cca39405fa5db63f8557ecbc120f10d9923ecdbe5824b9db965fc67e05e9f"
+        }
+      }
+    },
+    {
+      "id": "clippy-5",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "94f743ce1100bddaa943e9edbb15111a82bd39416c4aba21f96bbba816832842"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/clippy-5/spritesheet.webp",
+          "bytes": 1672178,
+          "sha256": "d387f2ca38f5255704233363ab775a95848edda71095c6452f2dd1479faa6778"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/clippy-5",
+          "bytes": 1668321,
+          "sha256": "f2909da59cbadbab7e7b0778e18427cdf865dd61ee3d9d4ad1daac44930f6866"
+        }
+      }
+    },
+    {
+      "id": "cloudlet",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "4465d42c9d40c67f35ad6afeac644ef4b5b803d6281766bafc85450c16fd3397"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cloudlet/spritesheet.webp",
+          "bytes": 1744250,
+          "sha256": "bebc957f72e46d737b84bb39f2db61ac2757fd6aec22e753f1a9c97d9e720105"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cloudlet",
+          "bytes": 1744822,
+          "sha256": "fb59e30b27aaa24d11f09859798c304af7af3859550bf120ef92455b6b3d58e6"
+        }
+      }
+    },
+    {
+      "id": "cloudy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "319f3cfc71a9a3fb685164e1e20291a5bb8f149e64db6814da2cf9b99da81584"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cloudy/spritesheet.webp",
+          "bytes": 1889792,
+          "sha256": "b706cf263678922a2aa6d3f74d24bd2e7367af1848e27da79e44c945dd0526b5"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cloudy",
+          "bytes": 1890478,
+          "sha256": "7a90f10215b4605c9934d92a96205d70d9f22ad4137c8d4ea0c53ece5175a6f6"
+        }
+      }
+    },
+    {
+      "id": "codeberg",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1c53fc2d46afc0d76116a7b20a70e245039e64487dc1dd30172e48123c098246"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/codeberg/spritesheet.webp",
+          "bytes": 1937374,
+          "sha256": "1adc38ab481807991c30f55611f13f81d5997a97af8a08132fcc18edf61d6e8f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/codeberg",
+          "bytes": 1938083,
+          "sha256": "0f843f0d19ea6f54e553d967796f47f849578015e5f9ff249d28dd2ea4a9345a"
+        }
+      }
+    },
+    {
+      "id": "codex",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "38a24cc3130db20c7662e975551c5b4dbd17d5516902a4f71d30b9a0e621542b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/codex/spritesheet.webp",
+          "bytes": 2555372,
+          "sha256": "90ccdfce1ab62e92a2331c6a331d2aed44005b6fb74066b70f6ab7c2340097dc"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/codex",
+          "bytes": 2556045,
+          "sha256": "f4fc31ba130942d441cd744e1105a0b041c9108c9d3ae707ffa3c86ef7b00105"
+        }
+      }
+    },
+    {
+      "id": "codie",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "8e64ecb93e2e5329f1706061caee3afff5e6e85923a6ff247d9e51cd972fcacf"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/codie/spritesheet.webp",
+          "bytes": 2690458,
+          "sha256": "6066682af8322ed70efd6329eb1aa3a72838859d2a803ea3f276a63de5ded6b4"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/codie",
+          "bytes": 2689503,
+          "sha256": "e9b602059175548ee45a233c095aeb806e1325da8df34b2f7868f2e8f70ebbf4"
+        }
+      }
+    },
+    {
+      "id": "cogwick",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ae9d62a9805a5d4b4922f3f7351752bd38c28f2654dd1799e0a559d2c81d8d74"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cogwick/spritesheet.webp",
+          "bytes": 2872108,
+          "sha256": "0c22237c5f0f6a44b8c8b618e5daced14341a7f60dd283592ee91a6fa0c58058"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cogwick",
+          "bytes": 2872895,
+          "sha256": "111f9b3ab151f6d38db1f464777f6089a6f6ad4e6b20c84be1a5a7dbf5954fbf"
+        }
+      }
+    },
+    {
+      "id": "columbinya-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "9f69000512b4b065a9742fa90a86897f460b4185f27ae5f10e2d5cbde4fea7bb"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/columbinya-2/spritesheet.webp",
+          "bytes": 2368802,
+          "sha256": "e2084a769c31c248b13b16bdfa2b4e599996a2da1965f6c0c805598d71c36e69"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/columbinya-2",
+          "bytes": 2369614,
+          "sha256": "11851b16c1e9ee41d7a848c202364389327925330a0a0cd8a5bf178ec2982701"
+        }
+      }
+    },
+    {
+      "id": "commuai",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1f82a94c9d004c9739b3f1f4953e9e9e3001e90ff0d57b2bfe25030917de6666"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/commuai/spritesheet.webp",
+          "bytes": 1813552,
+          "sha256": "7d07e27dc2e20c1491781e4342e3b4f3fb69071f3e0a1dd58693f97e9e0f83a1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/commuai",
+          "bytes": 1814209,
+          "sha256": "080a66a48ec808451df365fa7af969bfbf1350e3dc24cf5d62c5f10ae16eabf5"
+        }
+      }
+    },
+    {
+      "id": "confucius",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b5282806fd8c6ee63d7d85924734dfae5bf7045e79734e84ebee9f876cff2618"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/confucius/spritesheet.webp",
+          "bytes": 1840616,
+          "sha256": "54d401e0f137e63eb3952e9a8f6f0f680d6aa4ef74744d7c10ff80ac8f15717a"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/confucius",
+          "bytes": 1838069,
+          "sha256": "48d434c2fb0d71a6ea31ce1cabc67fcf70064362912b7602552fed4222c5932a"
+        }
+      }
+    },
+    {
+      "id": "consento-kun",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "73d264f587b3c01b30453bc4d7ffcdbce85a5f6333c4e279f862a60a06fd641f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/consento-kun/spritesheet.webp",
+          "bytes": 2236,
+          "sha256": "df77f67cab5a1fc79c777211f75b927b2635bd48f14dd8be783b27916b36eba9"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/consento-kun",
+          "bytes": 2267,
+          "sha256": "403442bbc0c9683f4226b3157abc1165b80b89dd700c491bec0381958437105e"
+        }
+      }
+    },
+    {
+      "id": "cool-clippy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "55797b6d9448882d36285bcde1105a80408f8318619d5bd93ae2e42dc0a66c69"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cool-clippy/spritesheet.webp",
+          "bytes": 1626396,
+          "sha256": "abd5102f1df73acc5ac7bb923f6c50720314dbb45b9ba399da19b512172480c9"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cool-clippy",
+          "bytes": 1627059,
+          "sha256": "01a251febe8b1f45edd453f3a1adb59c25e2e1d4a3616da57e41481d83b6aeaa"
+        }
+      }
+    },
+    {
+      "id": "cortana",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7ed7eda11747a450c4377fbeb5e4531df7fe72882065741207784493af14fe95"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cortana/spritesheet.webp",
+          "bytes": 1789312,
+          "sha256": "65c110ef0fb641b2913f34a57b2a935b98f50a65ff0f3f6ee4f5b35efb51f325"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cortana",
+          "bytes": 1789986,
+          "sha256": "50ce2ec9380582a0eeb34a9ee5c35f1c467fee96b6dbf4ca3a831af98079854b"
+        }
+      }
+    },
+    {
+      "id": "cortana-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e433f59f7606bf6bae1dd7fe89a9c91cc91f281f55c2a645e90758c193bfae81"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cortana-2/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cortana-2",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "cosmo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "61918a72c3d49ffd13362dd1109713f9dd5bfc677e9b52a63136408c50018ecf"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cosmo/spritesheet.webp",
+          "bytes": 2512092,
+          "sha256": "a24be75d4a3862a8858e57b874ce107d2600b285c2a28e686210bcd5bcec93c1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cosmo",
+          "bytes": 2512901,
+          "sha256": "39b38ea090b333b9101a2d8aa9778cd0a9890590994ea41ca893a194011dc835"
+        }
+      }
+    },
+    {
+      "id": "cow",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "8f96927dfd9d150b270b6a8e372f883e740e1c03b196091ec8c1c2634e9431d0"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cow/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cow",
+          "bytes": 2501887,
+          "sha256": "868c2f7f84a0a381648054af76cb7a44e49096f44040f733df3fd10fd9fa84b8"
+        }
+      }
+    },
+    {
+      "id": "crab-buddy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "cf76893c6b271e94e95376b92e111a21f6ea0ebff8754ebf340f37992fb8c2a4"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/crab-buddy/spritesheet.webp",
+          "bytes": 329012,
+          "sha256": "b3d5ca527862406d7832e1d90e4cab172a47108166412e66ddc3580b1b3ac3fe"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/crab-buddy",
+          "bytes": 327147,
+          "sha256": "b38f58b5232a82b71f4870d3fb4333c2a4fe8dfc1cbbc1bd09d883e8fe34208f"
+        }
+      }
+    },
+    {
+      "id": "crash-bandicoot",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7b7b4b523f64d2ce9bb30f839e5125e0121754598c4a6cd47b37ba8cf53eb7b1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/crash-bandicoot/spritesheet.webp",
+          "bytes": 2165252,
+          "sha256": "9a92b29c5ee23fc6ba895bb821e24e63670a8ab2e12dbacadc89133d6ee27fd8"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/crash-bandicoot",
+          "bytes": 2165403,
+          "sha256": "c9159314e2c209475e265f3fde52e9330e5959f1604ff765dcc3378d1dcccb94"
+        }
+      }
+    },
+    {
+      "id": "cream-cat",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7886497111263a06fd558f7faa03f20f0f14ccf006dda9b56222b9204481e6a8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cream-cat/spritesheet.webp",
+          "bytes": 1357900,
+          "sha256": "b71f470974d6540537bffb996ca20e42dbb676db2154202ef5d79d0bcdb562bb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cream-cat",
+          "bytes": 1358498,
+          "sha256": "d96a8eb398579d30f03c3fd472f86b01fcbb1c8666fd6bf425aa25a1b2e40f2e"
+        }
+      }
+    },
+    {
+      "id": "crittersquest",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "aa011427b3c21b47ad583dfacdf454ecbc057760e0c511e173318fb3b7c0310f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/crittersquest/spritesheet.webp",
+          "bytes": 2820978,
+          "sha256": "f0a83d7c1176a283b1bb82a57b34573efd786d4f090573b233445c2c0ccd4446"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/crittersquest",
+          "bytes": 2821882,
+          "sha256": "f1ae8ca96b95dd2c3f7cf7cae258462faa7c2710e4a2f63766d72e19a2465d12"
+        }
+      }
+    },
+    {
+      "id": "crt-pal",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7957e1b9c084a3bed345a9eddf3d61f35b95bce1fd1a8f995585d180b00cbb49"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/crt-pal/spritesheet.webp",
+          "bytes": 1376666,
+          "sha256": "3bc52027678ecd45ac21ccb82f76ad271ad4dd8fa046b69dfb7e8986928931a9"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/crt-pal",
+          "bytes": 1377258,
+          "sha256": "39a8638c6ce58f586ef854247d9eefb373bdb04b16befbda477c3751ddf02320"
+        }
+      }
+    },
+    {
+      "id": "crumbly",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "9723a80304d05491044863163d32bf17fc280de4591bf0fc2250990d362537d1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/crumbly/spritesheet.webp",
+          "bytes": 2267674,
+          "sha256": "9d02925165bae8941dfbbaf788cd743fae08182bf3e02e1f90bb8bb380f369fa"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/crumbly",
+          "bytes": 2268428,
+          "sha256": "62017607f47427371102c2c343c3e64969575ecea0d006cc3af6707165878573"
+        }
+      }
+    },
+    {
+      "id": "crystal-maiden",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e275fec9dfb264971ab4a4d2be2f37d8cf7d632d1e3117486ebddb82e7a5a7d6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/crystal-maiden/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/crystal-maiden",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "cuppy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ecdd6e8436b33865ee1dc25ef7c977a4986cffa7e1270628d25a1f2a2c64dfdb"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cuppy/spritesheet.webp",
+          "bytes": 323968,
+          "sha256": "8a034ab34a069d968298010781e20b417df66cd63899fd75d4b53548c9fa6a82"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cuppy",
+          "bytes": 323985,
+          "sha256": "1592d0f191e1f750f354d2f4a81fa5ab056708188b3960785547bc96d11fcdcc"
+        }
+      }
+    },
+    {
+      "id": "custard",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a1f32a7b216e18136415808351612465fdd20749bbbbdf62128e62697d06142b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/custard/spritesheet.webp",
+          "bytes": 2019376,
+          "sha256": "39b26711c0526a9bd7ce860286ccb915c83ab5fc8288490b688947dbc2075ced"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/custard",
+          "bytes": 2020004,
+          "sha256": "0a278f5884bfdbca6b9eb75ab15ab5bc1cf2b0a7b8cd354c6a69c6f9d618967a"
+        }
+      }
+    },
+    {
+      "id": "cyberholk",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "41679bdfe2b13d4e309a0079959fd2a2d6f4a0efbcf450fd71d12f5fa3d6ce0a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/cyberholk/spritesheet.webp",
+          "bytes": 2411052,
+          "sha256": "66c22892cf1f2455f6e176957124b804f6608ed9f8f7fa45aa91af31cd29faf8"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/cyberholk",
+          "bytes": 2411249,
+          "sha256": "c074b6ce9bc45c909e6cd5d341de987e1b191619675315adc92aa3097d475be0"
+        }
+      }
+    },
+    {
+      "id": "da-zhuang",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b6c4a898720d5b118e0e93c7b7620e19ef5c9c24bed2ac3708d2b82c93679fb5"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/da-zhuang/spritesheet.webp",
+          "bytes": 1989638,
+          "sha256": "9f7d4b3e8dfbb9622ee1f86a6783225f52a796101137780a4a765ca14fd806c1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/da-zhuang",
+          "bytes": 1990318,
+          "sha256": "92e3042289d1c274b34145844fe9b12d4ebb44fec89146b317e024a3404ee5f2"
+        }
+      }
+    },
+    {
+      "id": "da-zhuang-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "4211efe44ded35ce59fd71af86eda6320668d6e86a6afd2a4abcf044adc8548b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/da-zhuang-2/spritesheet.webp",
+          "bytes": 1814924,
+          "sha256": "6d704aac616cb8a33a6f819e2638d682cd0cc46398e0586be8a339f8ec1c2197"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/da-zhuang-2",
+          "bytes": 1815619,
+          "sha256": "a08797116ee00329f3f8b6e180d3ef148fd198baa4d18545f7c0d3d9aaaf5d03"
+        }
+      }
+    },
+    {
+      "id": "daisy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "46cc4c9b9e954bf060794a575f62accbae8419504e9a9a941e93029a134e1c66"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/daisy/spritesheet.webp",
+          "bytes": 1861182,
+          "sha256": "4a67c264bdf937fb083c568acbba800400c97449118d74d108867747fc1ee1b5"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/daisy",
+          "bytes": 1861861,
+          "sha256": "8907248784e22f2ad676eb6209afd2ca88e940bad87a9632db6ee0b47a83aff7"
+        }
+      }
+    },
+    {
+      "id": "daltanyang",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "4a288566fe9f60ccf419800da59428315a2da985e64ce113a5ad9cfac3e224d2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/daltanyang/spritesheet.webp",
+          "bytes": 1829674,
+          "sha256": "1dae756bbe30a35c7a7b3e20e09815bd15a822660445ffc40872a33266745b45"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/daltanyang",
+          "bytes": 1830382,
+          "sha256": "1fcfaca215ef433d6ac75ad6d328924f504217f5756c2584b0f15a05ba59cd6b"
+        }
+      }
+    },
+    {
+      "id": "daltanyang-charles-duo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ce0400c2059555a40033457d3b5f12a9c14c72e2a5b7dae213a53a02196a08d6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/daltanyang-charles-duo/spritesheet.webp",
+          "bytes": 2583400,
+          "sha256": "168881c0a6db41dbc8ae21623638afeebbb0e8327c495c56ee2cea71c0df5b5b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/daltanyang-charles-duo",
+          "bytes": 2581818,
+          "sha256": "e344f5dc77eb0e1be18b15b3fc667f35167180baf56b89a09c7be53122378fb4"
+        }
+      }
+    },
+    {
+      "id": "danny",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "480feb86700be389b5d765cc02338f781ba458a0a8cb3c97ad0bbb5827e81958"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/danny/spritesheet.webp",
+          "bytes": 2357472,
+          "sha256": "b23a76aa5d049d045ed40c332051a23329bb21f9f5afb58df41ecf4a7b764c46"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/danny",
+          "bytes": 2358237,
+          "sha256": "1c9ad78fafe7838d1711dcd31879dd0602dabe3a65582504a3806b8a9eb7b5d1"
+        }
+      }
+    },
+    {
+      "id": "daodun",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5904da1f0e1cb202b06375265115fc33b3b716a32d427612b55ba5176763a287"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/daodun/spritesheet.webp",
+          "bytes": 2319882,
+          "sha256": "abb530c50ae968a6066afddf19f68b381a3b96b05e2e94e18646ae2b1787f168"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/daodun",
+          "bytes": 2320380,
+          "sha256": "35411a11e80f1bbfd11c8f99172c6c85b9a119809c1c11b582a3e6df06aa17cd"
+        }
+      }
+    },
+    {
+      "id": "daodun-dog",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "edb9ce838d9644aedbef9a3a2b2b20b6d558d83de8c8095018db435dda1ab12e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/daodun-dog/spritesheet.webp",
+          "bytes": 1768850,
+          "sha256": "7bb94bde829c33dbe6205fdc03da3adf2d18b1f982a9e67747e13b7e272f93a7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/daodun-dog",
+          "bytes": 1767347,
+          "sha256": "64e204c138ec2a124444b93df25eb72e601c6ca387faa829038be4a1ff6a0a64"
+        }
+      }
+    },
+    {
+      "id": "dave-aitel",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "743eb61a4cd2d87fd62adf3dd6522f9eecedd392d1994dfe2b63dbc8dd7cebbe"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dave-aitel/spritesheet.webp",
+          "bytes": 1675512,
+          "sha256": "570c1840b2f2271aa750db22001a1ee2bfb46cb893c1f45d4d3d44e8c777c656"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dave-aitel",
+          "bytes": 1676180,
+          "sha256": "1fc3edb80689f00087a337da8217a907cd04f50c1a4abb12283e3a0e256ea55c"
+        }
+      }
+    },
+    {
+      "id": "daxter",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "40c67b9cfc21920a86b1717b9ac0bd2a9b3c039eaf30bf339055d501467e47bc"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/daxter/spritesheet.webp",
+          "bytes": 2276418,
+          "sha256": "6db474c178259a1538bf9b1ca77272cdce4c18c21082c8960b481fc9a3741eca"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/daxter",
+          "bytes": 2277187,
+          "sha256": "d56bfde2eb3e3402942313d92e9cca59124aa62c98f1d8c96840a78c5f54fa27"
+        }
+      }
+    },
+    {
+      "id": "ddo-zvzo-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ed9f817f1959a908aa18fe1a3b7bb2860dcdcf9434e0b96f613d18cf7eab719e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ddo-zvzo-2/spritesheet.webp",
+          "bytes": 200874,
+          "sha256": "efbef96ac199cd095c5a90a20e6deb59947d860ac9642abfc6636307f18a8e64"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ddo-zvzo-2",
+          "bytes": 198401,
+          "sha256": "100d1ed3184cc9c0552952473454ea8477b29ff72fe0cbb2715dcc8f688fc9bd"
+        }
+      }
+    },
+    {
+      "id": "decky",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1f7998b0e380a8839ebab4df288449936f19d258fedca06d62c0831a339ac20a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/decky/spritesheet.webp",
+          "bytes": 1638726,
+          "sha256": "45a35b2604113e718ae3896d4ff01149b3f6f2f966d5b2ed24695e9251c3131f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/decky",
+          "bytes": 1639360,
+          "sha256": "c17a7782d9e8fb5e50abfbd998345c90f87d3e386119a372aed4db25e4e79b0d"
+        }
+      }
+    },
+    {
+      "id": "denissexy-itier",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c2990991a0e5a366c8a42407e9ae469e476c046d87677e0b703f787a8e29c820"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/denissexy-itier/spritesheet.webp",
+          "bytes": 1943576,
+          "sha256": "c2bb84ed9efe88c7e60fb107abcf59c6d114e848f71ee6c14fe1467396e13b26"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/denissexy-itier",
+          "bytes": 1944292,
+          "sha256": "47e7f13a0141d7eef7185804ad2ede175fd9f641b2e8f9e68eb6cf64f7d6888d"
+        }
+      }
+    },
+    {
+      "id": "dewsnail",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b6ccfb6beea0ee3e909ffc946541fd42b788424125509b7437e57c5ad695ee1d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dewsnail/spritesheet.webp",
+          "bytes": 2062106,
+          "sha256": "059bc460994c443c022d8f573bc39d95ae06af1c8dbe5ee58949650571c906bb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dewsnail",
+          "bytes": 2062803,
+          "sha256": "1001831b28091ef1c07379a0daeebba141142e331417e0792c6d61f8b0b22616"
+        }
+      }
+    },
+    {
+      "id": "dex-star",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b839e2d851658fce9df6d89284cec3a92ae678542c8f3cc28a71c78c1731b995"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dex-star/spritesheet.webp",
+          "bytes": 1862792,
+          "sha256": "5f28473aea09961b257c38b0e8a41378b40067a9368c024c2e0341f107b6fe19"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dex-star",
+          "bytes": 1863437,
+          "sha256": "df887d409e0117edc0ede9ad02e1d438d341cca3d7c3b8b1f03cc5c039fd4a65"
+        }
+      }
+    },
+    {
+      "id": "diamondhead",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "3bf4ae209ae24052a54499a84436013a147b983a18bfbe59f8afef2fcae18ac1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/diamondhead/spritesheet.webp",
+          "bytes": 2145696,
+          "sha256": "f5b066c8f8322a5c9040841a1c31a1a77ca2c8b12bdf1cae15c6f18902b19302"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/diamondhead",
+          "bytes": 2146451,
+          "sha256": "f5e040dd5f9b62cb5a810fc8b6849ac43cb7b6b5f874fca1c8abe653f54fa352"
+        }
+      }
+    },
+    {
+      "id": "digimon",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e7c9386e2203b4d285b3272e3d3c2326bbf8f0f3051595512e8f5dd4936b1907"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/digimon/spritesheet.webp",
+          "bytes": 2026458,
+          "sha256": "b32e438a3983841e9f45f74b50ef54adaf786e96fc043e0de1114168d1f42cf0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/digimon",
+          "bytes": 2027156,
+          "sha256": "08bd4054b89216fd42e8c7b58500fac717b9e735d8045def7283c5a9c2a609de"
+        }
+      }
+    },
+    {
+      "id": "digimon-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a827b8fea753246f2b14ec74c2185b8bd535cd99e208e7280e8039c75d4f6200"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/digimon-2/spritesheet.webp",
+          "bytes": 1987728,
+          "sha256": "a5868cba09cbb6d83a2743ae6086eec715962f7ad52121fef14cc177ad7c5611"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/digimon-2",
+          "bytes": 1988457,
+          "sha256": "f2c36b7100ef72613b1ca25fb601bf2cf6f30cd810a119d8dbd3b6a9f6941084"
+        }
+      }
+    },
+    {
+      "id": "ding-ding",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b5e7901537ca4ac43d3d06ac6d76455c305664913724dedb5e618020c895ea53"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ding-ding/spritesheet.webp",
+          "bytes": 1636166,
+          "sha256": "8743de70a0495574ce31986cef1b62e355bbdb3bd7480eb85eec7ad5b6394096"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ding-ding",
+          "bytes": 1636751,
+          "sha256": "7228d24332a5837cb2f97a6a52e7a5957086a0c205a22b26cd1f77410b715649"
+        }
+      }
+    },
+    {
+      "id": "discopuff",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d4189cd678dd08126edc9d99b9401d5047e149e27340207e4c1c325af19d4060"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/discopuff/spritesheet.webp",
+          "bytes": 1832790,
+          "sha256": "74c7195b99a2782515115290069fe42e9bbee9b2d3a984f759955a0558bfd650"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/discopuff",
+          "bytes": 1833380,
+          "sha256": "3f34db98dc2c401bb36148940102f769a3f938fe01a0678780242b5bb461deb1"
+        }
+      }
+    },
+    {
+      "id": "ditta",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "22e5f713918f8aa47010d537ae783d7b6fdc690cfb8ed12e410d89bbcd596f57"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ditta/spritesheet.webp",
+          "bytes": 1280206,
+          "sha256": "07612ce9bb65c014994a6e094275766fcc3de0362bd48f774a2ae8923ba5981a"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ditta",
+          "bytes": 1280692,
+          "sha256": "34637aa5d427995815c86b1c97d36a3884a42d0050f82d348f722fac3fab4c00"
+        }
+      }
+    },
+    {
+      "id": "dobby",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "6152da2b58a270dfc1058678e24081c0beeecb64166868560f0fc692f29ebf52"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dobby/spritesheet.webp",
+          "bytes": 2032416,
+          "sha256": "c5fa053d3a94afc1fe3e380fb472c68e2d679d1ff584f5a6dfb6ff895b8b3afc"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dobby",
+          "bytes": 2033130,
+          "sha256": "83ed444ef301e341054386ef882914bcc54575b3be0e0c13880d7e19e2a6c5a6"
+        }
+      }
+    },
+    {
+      "id": "dobby-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "6032e4c92b94655e6768328494f095f7c97f713aecc73f7ac67b25e211325e79"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dobby-2/spritesheet.webp",
+          "bytes": 2115338,
+          "sha256": "26e20d687f6174b3bead841a28d2093ac0af639bd9bd27dca7a483c29028b775"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dobby-2",
+          "bytes": 2116047,
+          "sha256": "5ac6312b917286988dacf5d8a2695ac874c3be9a069c9fdc451f0c1b4bfd23c3"
+        }
+      }
+    },
+    {
+      "id": "dobby-3",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "558cc977554164c385ff84b4ab950bd8a51ce8d63e5a10573cc05f0ff25aa133"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dobby-3/spritesheet.webp",
+          "bytes": 1537182,
+          "sha256": "e934d67b8654435530b64bc5781bdd3615ea267d5809cc126cdf0f36c2a23d7c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dobby-3",
+          "bytes": 1531640,
+          "sha256": "e2f74577cec34334715dd9f39349ba4bbc8945dba25444bf86691953f74eba66"
+        }
+      }
+    },
+    {
+      "id": "doodlebob",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a9715a0998735c2f0c8a87d32179bb51ccc83c00f1980398b03376bfa7e56628"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/doodlebob/spritesheet.webp",
+          "bytes": 1928704,
+          "sha256": "9a9dbcbed3e8d86fd36ba56a3542a4ee5c426948f333ee148ad41bc2e478986e"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/doodlebob",
+          "bytes": 1929327,
+          "sha256": "84ac794d5193e8a0a9846d291dea8531528be8febffade5b5241a36384923aee"
+        }
+      }
+    },
+    {
+      "id": "doom-as-a-pet",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1f1a87f72b0746747a364985e7ba18b20ed792152e3b89f2b2a9cc0d629a8327"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/doom-as-a-pet/spritesheet.webp",
+          "bytes": 199348,
+          "sha256": "c09b61bf56fca2540991d585e6bd543672fe219ed8940f1fd8701555662606ea"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/doom-as-a-pet",
+          "bytes": 196516,
+          "sha256": "5cf468bb7dee7d794ad43ebd4ac659933f64c2af1d08a2b5fb43004cde1058a0"
+        }
+      }
+    },
+    {
+      "id": "doomblade",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "3efcf7119ae1f8f8f34a823c88bbfb01e0f389c07d9da9f63c03701ee27a5a6b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/doomblade/spritesheet.webp",
+          "bytes": 2538748,
+          "sha256": "241fb22d18b9e046843814453b96f9d0c2107a93421fa3a7677fd90d34539f8f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/doomblade",
+          "bytes": 2539582,
+          "sha256": "df004b3ec3c04a9e040105c844878491bb8674fffd82cff0fc2bc1c091d03d50"
+        }
+      }
+    },
+    {
+      "id": "dopami",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "36143a86945bfe336ff94475a2ae1971c109abe32415bd8ec41200edc512c7b9"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dopami/spritesheet.webp",
+          "bytes": 2268028,
+          "sha256": "cd6ed424f801cb5a018ae6589c75011305d464824a16e46c3a0e1bc9e32511b6"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dopami",
+          "bytes": 2268773,
+          "sha256": "95b0c9a6a9a64ef06c0b5df8fc8df2a59297f26faa33bcd943fda676850fb666"
+        }
+      }
+    },
+    {
+      "id": "douos-douos",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "f698d588761c2d613e4dc3714dcf2b1289be12c2d559640b39a3e0a841213a5c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/douos-douos/spritesheet.webp",
+          "bytes": 2378034,
+          "sha256": "7ae8e5a3f2194d7fc50d86ee63a8a83f6ecc2c3e5d62b4e3f55c8fbd7a85dd5c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/douos-douos",
+          "bytes": 2378831,
+          "sha256": "d4f44f9386db3d754a416805f3cd645ffeda1dc1814d3d2eb11dce01dd406380"
+        }
+      }
+    },
+    {
+      "id": "drizz",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "9c7eb5ee087baa45d758d6903f898d22f62db18fff3ea2930ecfcbebbfbcaf83"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/drizz/spritesheet.webp",
+          "bytes": 1188386,
+          "sha256": "a9ccbcc5c5285743e03010e3b71a13ea22aee78487a1089a4e575d42b7fe926b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/drizz",
+          "bytes": 1188930,
+          "sha256": "4dfc085829ecf14fb2d7e9c146a515b3bd28d7a70fca95673d3340a60e073c5c"
+        }
+      }
+    },
+    {
+      "id": "druidika",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "742d0e696b4ad7c656160922e5f98ebdaa55c6ec64b1ec96d71ac3cfa32128df"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/druidika/spritesheet.webp",
+          "bytes": 2584706,
+          "sha256": "5d353ea1d2665e5ffe93e456cf8200376a20fa413fa9fe5d2d97f00b514fac28"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/druidika",
+          "bytes": 2583151,
+          "sha256": "fff163c76c6d785060282750bffdd1ba96a7da271b8739ee33dae3be9d2d118c"
+        }
+      }
+    },
+    {
+      "id": "dude",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d41a36473629440bb4d0fd98289ec68ee6e37070c112483bde7c1773abd6b30c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dude/spritesheet.webp",
+          "bytes": 2253660,
+          "sha256": "464b6424567be53d45215615709bd33e2754a3ddc3814c2ba4ba0f81c64f3b6f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dude",
+          "bytes": 2254414,
+          "sha256": "08777033c94068a70732729c84b09b05cf8efadff2176be0f00e6fa1473d9508"
+        }
+      }
+    },
+    {
+      "id": "dumpster-fire",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5eb47dba40e8618f5d05814fc3fbce0f4259a2522cd951757f62417f57fe9e84"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/dumpster-fire/spritesheet.webp",
+          "bytes": 1972872,
+          "sha256": "b01792079d5f8e8f7e36bfa93809c0d9c71bdb74b2ac60165bea80c06985757b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/dumpster-fire",
+          "bytes": 1973555,
+          "sha256": "b6bb564627cd72ef1183883b1647ac8aba6639ad5b4e7654de17c3dccd48eeed"
+        }
+      }
+    },
+    {
+      "id": "duo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "18fd4d9d9f4d096c28f6673fa77a41bfa758d0e4cc297cbf101d967b6383d406"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/duo/spritesheet.webp",
+          "bytes": 2223264,
+          "sha256": "f25dc616edf2a0d2dd4bacc4a50d3097d85b1aefa6695fca5f3436cd773fdfeb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/duo",
+          "bytes": 2223978,
+          "sha256": "5d87aef7db13f05b1486e3aec2e41a00fb2e25144f61dbb8fe47c1cddd96448a"
+        }
+      }
+    },
+    {
+      "id": "eddy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b637a0ce59a8764da8dd296a5672377f2c17cfb10337229e625bb19c5e575237"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eddy/spritesheet.webp",
+          "bytes": 1912102,
+          "sha256": "e55015eedd7dfa7a99dcd3b98901b22f5e4ffa0f0f453ed2dbf1a263e96e9864"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eddy",
+          "bytes": 1912761,
+          "sha256": "a263b60ca7e28df6020dd4e0a9bfe7ba45fd0503600a4ed1fd03aba69a3cc447"
+        }
+      }
+    },
+    {
+      "id": "eddy-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "869a6f02a0e9907f3d7785f8f500044562c35884d18cc0eb8419a1a08068431e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eddy-2/spritesheet.webp",
+          "bytes": 1912102,
+          "sha256": "e55015eedd7dfa7a99dcd3b98901b22f5e4ffa0f0f453ed2dbf1a263e96e9864"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eddy-2",
+          "bytes": 1912773,
+          "sha256": "41a9b0c6771f8571cc848792e702c58f1a72c1afed90c399577e179d520358ed"
+        }
+      }
+    },
+    {
+      "id": "eddy-3",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "6d104ad5be5badee9af947c2b80d940021340300a33eae90a070f48d7bf4f6f2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eddy-3/spritesheet.webp",
+          "bytes": 1912102,
+          "sha256": "e55015eedd7dfa7a99dcd3b98901b22f5e4ffa0f0f453ed2dbf1a263e96e9864"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eddy-3",
+          "bytes": 1912773,
+          "sha256": "78420bc3d320be68e9b6b90570b57b55b8d7d76ce09756d991453d4ccac47f91"
+        }
+      }
+    },
+    {
+      "id": "egon-olsen",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "bb9defa1bb65a80962f6ee82ffe51f6928b96dcadedd6fdde2b76e91446f3fda"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/egon-olsen/spritesheet.webp",
+          "bytes": 1771760,
+          "sha256": "d3ea6f1249db25f4264aa9d2e42b31ccdbe99ebe06533c88ca42be338e7a1ef0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/egon-olsen",
+          "bytes": 1772448,
+          "sha256": "bfa80d8e9cece6b389b43db93e5c9de67a9a2769a29778a71d404cc42922894d"
+        }
+      }
+    },
+    {
+      "id": "eigenblob",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "2687fab9c1db31d08e1f737eccbf69b5ba02626e22c7699cf3ea98117b2e37a3"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eigenblob/spritesheet.webp",
+          "bytes": 1616434,
+          "sha256": "0e151589d08246152c6131d5d76c4c54307fd9dc891dc801f26f091b9a81ee3b"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eigenblob",
+          "bytes": 1617083,
+          "sha256": "cb2634d17a70e3abec29ccb140797eafc709c5d85ee26a902ee4c4ad8e049237"
+        }
+      }
+    },
+    {
+      "id": "einstein",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "23a7eacb4c917d75f6220fa6990da66043d9504bba467adfd6e42a129509dec5"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/einstein/spritesheet.webp",
+          "bytes": 1997972,
+          "sha256": "14103738df83d831b338e0a35a764aa589238b972f19cab9826ee23fd8ce143a"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/einstein",
+          "bytes": 1998674,
+          "sha256": "9857232a201ecaea7145ad33abc4dbe68e8d64bf071d8d7d94b689d9b9dd4bfc"
+        }
+      }
+    },
+    {
+      "id": "elaina-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "03f69a5883e6187958d27fe7a26e6e0381e43c5fc413bd5b42fb602d5f33d1ba"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/elaina-2/spritesheet.webp",
+          "bytes": 2368004,
+          "sha256": "eba7420b2c15bdb899eccab2ae2624a1607e01c8326e37e46a80e3e4d0663eec"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/elaina-2",
+          "bytes": 2368800,
+          "sha256": "c94b8d1fa61e02d3877a6d3c4844232e984b49a77511e507fcab0c42b8d4fd2e"
+        }
+      }
+    },
+    {
+      "id": "elfie",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5f475be3fd601fc26eee8e25510030b2134011060e180fc70c3a6378a7652fba"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/elfie/spritesheet.webp",
+          "bytes": 1976798,
+          "sha256": "57064f4c1f0460fd49a9631b318b2f2292ed5c92f5d582ae90b673d504c9af70"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/elfie",
+          "bytes": 1977497,
+          "sha256": "9ed45a582a58d120b5ba52c9bddccf6d075c02c29d943da97ee244e338d05c93"
+        }
+      }
+    },
+    {
+      "id": "elon",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1137bc94f78274b84012519566be5779e0a4942b799bf840954adc66863029ea"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/elon/spritesheet.webp",
+          "bytes": 1750322,
+          "sha256": "560a270d60b01c6cfa85fdb89470fb8fa4ab7a270f4a9b79790f62c05b686c9d"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/elon",
+          "bytes": 1750971,
+          "sha256": "b76b21d172f5e3680238348c3350c2f9b15cfe33a42d7f188aa8e1509dc8cc0e"
+        }
+      }
+    },
+    {
+      "id": "elvis",
+      "sourceId": "codexpets",
+      "saved": {
+        "petJson": {
+          "url": "https://codexpets.org/pets/elvis/pet.json",
+          "bytes": 198,
+          "sha256": "b91788fe50de780a5ff5c6cc424d69e5bbc97a78a3259fc43c5fe633b6e89f91"
+        },
+        "spritesheet": {
+          "url": "https://codexpets.org/pets/elvis/spritesheet.webp",
+          "bytes": 1848484,
+          "sha256": "1610b3a2a2eac2e91fc950e03a96600ce236c83ef53d3c95d2a8d8cc8e073931"
+        },
+        "package": {
+          "url": "https://codexpets.org/pets/elvis/elvis-codex-pet.zip",
+          "bytes": 1849388,
+          "sha256": "bc82a2e8c5a9772eca49b95c56e99fcdab186339012489612c629f1b063058f2"
+        }
+      }
+    },
+    {
+      "id": "elyndex",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c3f27988f86f90fcafee85e917010be9a97e923815fbba699630b334641cd7c9"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/elyndex/spritesheet.webp",
+          "bytes": 1779990,
+          "sha256": "933beb7419712dfe4d6e36ad4218385b99bf72cd4da0653f88e48393ecba1d32"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/elyndex",
+          "bytes": 1780660,
+          "sha256": "535ecec843b6d37031b5eddabfa9e50d2ec910373e5849baba2893dd8ad8df03"
+        }
+      }
+    },
+    {
+      "id": "eminem-brisk",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "6504508ac99aafa5d76ca3c3d7b0f0d9bcef8e8e35fc2909ac88a8b690aa1173"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eminem-brisk/spritesheet.webp",
+          "bytes": 1917682,
+          "sha256": "8c0b90270a30699a28ba9f25a31e8c03b734c545df94fa0f705b009a7d9a691f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eminem-brisk",
+          "bytes": 1916666,
+          "sha256": "bfaa306f3f4aff20de055f56a656613f37d61612dcab6ab1f5adad575c313ff7"
+        }
+      }
+    },
+    {
+      "id": "emma",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "37d1f24bfbd746af17695e80e0d36ee2bf365726886173a70377c049b29fca39"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/emma/spritesheet.webp",
+          "bytes": 1858748,
+          "sha256": "6192b30320a06b4172b0080b2449bc783d1983022bca5ee021b0993528dc08d6"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/emma",
+          "bytes": 1859418,
+          "sha256": "5c73e9e2e225fce17afe7b5d351ebeb2f2ee5f128bdc29d9238722994850f0df"
+        }
+      }
+    },
+    {
+      "id": "eva01",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "3d7f1a097e94eec7b6469d289eccd9230393aaff268c141798b01e5c38b869d5"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eva01/spritesheet.webp",
+          "bytes": 2072432,
+          "sha256": "353ad65d28f3d703d4263ccfe29aaee680f859f9084b617d09e9525ad5cb4067"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eva01",
+          "bytes": 2073153,
+          "sha256": "7391b0979814893eae10842e90c88d631cf4dbd6c38e4843c58fad41f80491af"
+        }
+      }
+    },
+    {
+      "id": "eve",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "3936981a5b95cb252d86d4ac80b83f6c7761dff6f5665fefb03ff211a1d5343c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/eve/spritesheet.webp",
+          "bytes": 1437454,
+          "sha256": "e445b22656450e8d118892ab647fa8edbc6890727620f3aae5c7368860574ba7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/eve",
+          "bytes": 1438024,
+          "sha256": "351fd6577967644e7723010aa3b0c7c1ce8b80fe46925c1233288bd2fb80fdab"
+        }
+      }
+    },
+    {
+      "id": "exec",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "84fd581a3ca05aad608999081ccf8f175b32dddde9dde60cbac4585977b0fa89"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/exec/spritesheet.webp",
+          "bytes": 1282856,
+          "sha256": "cbda315c7e18fe0adf7d81713df2c8da4052bec4ae858d141325d2618029cb63"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/exec",
+          "bytes": 1282986,
+          "sha256": "49b966d53b9fe4dc0bae5a8e0c4ac3e96535e2c84c449b3a4b8f4a8ebfbc3b21"
+        }
+      }
+    },
+    {
+      "id": "fangbyte",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "15ccf86acc604c1acec4a21bcac17a98e4ac5a10ca97d9d95acea176694eb46e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/fangbyte/spritesheet.webp",
+          "bytes": 2133710,
+          "sha256": "c04e9deef6b8c26bc414357eea136f484b0816723bcd9a18e61af8b044c62bb2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/fangbyte",
+          "bytes": 2130550,
+          "sha256": "dfe4b6642560157291db34981fcb5dbf1689f497d537cd67ba3c5fe25691f3bd"
+        }
+      }
+    },
+    {
+      "id": "fangjia",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "982943ad88b460aef89eef63c2e7a4bd29bcfe0a73dad7503efc852aaf10fdac"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/fangjia/spritesheet.webp",
+          "bytes": 1475304,
+          "sha256": "a2e49028c43e04ea259ce74aa59ab67527794c0f2542ddbd516c6fdde2d5c2e2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/fangjia",
+          "bytes": 1475856,
+          "sha256": "7963934dc40fb5945177f83b4d19f95ad8416b25a7206f40851dccf4171769f1"
+        }
+      }
+    },
+    {
+      "id": "faye",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "8831f17c532c2fc805485fa6ed92929d0392ba748787786ac4f8b2a1eb511496"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/faye/spritesheet.webp",
+          "bytes": 1831074,
+          "sha256": "d3af2087630f44d18b2e34333bb26db6652523150e83cf019a1138b9f36c19b4"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/faye",
+          "bytes": 1831743,
+          "sha256": "45f80098878589b7dcfbe898e749e13c1261f442768a0eacbf98538444137c50"
+        }
+      }
+    },
+    {
+      "id": "february",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1f14e80302e6462997fbe1500ac9d19ff50677be258661ab623d9055376ab274"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/february/spritesheet.webp",
+          "bytes": 2125172,
+          "sha256": "df14c1d9e97f1b8ce6fe434f468c1c0f7fedcd3c02760c0b184c0477eebc1887"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/february",
+          "bytes": 2125921,
+          "sha256": "9b71f0218662f0ce36e5d6d62b27a58f76cb58dc4b6ba25d4eb2310241b23873"
+        }
+      }
+    },
+    {
+      "id": "ferrari812",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "db8ab173adcf2bff4af4027e55eeffc751a02ea008bd5d44dbf7840dfcd05008"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ferrari812/spritesheet.webp",
+          "bytes": 1522352,
+          "sha256": "f4f86840b13485655477005d3030ebc3a34b53231c42be312d13b179b4a91b85"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ferrari812",
+          "bytes": 1522985,
+          "sha256": "0e9ec89c10291683345697759fc63909dd92443fdbafe53400854b67754f1e5f"
+        }
+      }
+    },
+    {
+      "id": "feynman",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d33577985d180deff2d7f681486dce65facad19384e3ece956a6d2a238ec4793"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/feynman/spritesheet.webp",
+          "bytes": 2016054,
+          "sha256": "bb9c043096e49b33e0af631e16452f6b0fc92891a594bb614ccfa86775969a4e"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/feynman",
+          "bytes": 2011871,
+          "sha256": "7567e8525d7895b0cfdc13ac7df7703a19f4550966d1da0342743e5692cf7d48"
+        }
+      }
+    },
+    {
+      "id": "figaro-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "99ecb34abb633b60130aaf9d02b52ef68c577656cf538c258b3622210ed38b26"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/figaro-2/spritesheet.webp",
+          "bytes": 1522606,
+          "sha256": "86f40854a2226c1df05d11d868e5dbcc5d1c93509cd3bbef5c323790306d0adb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/figaro-2",
+          "bytes": 1523214,
+          "sha256": "efdb01733e63305323e170181ac08a777ba13d70986215e0de133da581a9ca39"
+        }
+      }
+    },
+    {
+      "id": "finderguy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b515197d7a23298f018cb3d61c41e2d054bc2f51c2e3e81c1c6f2b680c4fdb1d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/finderguy/spritesheet.webp",
+          "bytes": 1661456,
+          "sha256": "c981ea725825748e62c8c5920995a8aabb9ff9ff39198c7eb7bffc9c6b66b095"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/finderguy",
+          "bytes": 1662102,
+          "sha256": "8eec926e9d56cabdd5be6b8aadc97de3d00c85983bfac1f2dfb352f49aec80c3"
+        }
+      }
+    },
+    {
+      "id": "fine-pup",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "0b0ccd0063823f4a9abad7dbfebd2710fd7b6d6593dbce5bfe91d40f34666284"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/fine-pup/spritesheet.webp",
+          "bytes": 1707760,
+          "sha256": "6e9b087e2ff79b602ac6c96973474654d7cab41b8e71e294c5f2ed6d463604f3"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/fine-pup",
+          "bytes": 1708412,
+          "sha256": "dad10f2e052231fb21b4dcbb5c2bbabf406d5b38fc45cd344199aad3be969879"
+        }
+      }
+    },
+    {
+      "id": "firebaby",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c50419d22a41457472c8fb33d9351c380c19139722609ab4dc7edede39183968"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/firebaby/spritesheet.webp",
+          "bytes": 2277650,
+          "sha256": "90cba2a61baaf5ca413c35509bcd005e6c45fbc2d888e0f54aeef2249829c269"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/firebaby",
+          "bytes": 2278429,
+          "sha256": "264342232086016b1b140ed16ee8a63ef94ec8e550d6e7750802cb1bd3b1af1b"
+        }
+      }
+    },
+    {
+      "id": "flaskling",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "9edfb7073f0ab2df55890c03d1d0486c68e3315349e0976b6b5e6cb1c7e8c8f6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/flaskling/spritesheet.webp",
+          "bytes": 1806432,
+          "sha256": "3d7888604e2b60c194589e4f74b2e581325e197b11abd59fd1fd3e529462ea29"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/flaskling",
+          "bytes": 1807121,
+          "sha256": "34749ce2e10f7d2db7b1ef3ddb742c3ae5920c4135c6c85c05692186848b25b7"
+        }
+      }
+    },
+    {
+      "id": "fleta",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "178f33e3f3f2f69b1a830cdc4a57b27885d1fdee1db560c9e0c6848de45edc80"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/fleta/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/fleta",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "foxat",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "24a9835fbccad0bae1a89ac1d32c0fcc133168dbc779cc7f8aed3b70196cbc40"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/foxat/spritesheet.webp",
+          "bytes": 846400,
+          "sha256": "f414a314c1eb39ebbf32cc70fb111fd4a9f1cd84efcb1d056edfa320894dfc17"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/foxat",
+          "bytes": 846393,
+          "sha256": "62ef02251d5c0d7fd42f015f853f53ac2bebca67038c7dfe14db9a8d8fb00121"
+        }
+      }
+    },
+    {
+      "id": "foxcloud",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "254e90b3a0d8ac4cef8c36e985f0a369778e8a1c700b6e3bb0920b4fa1fcf93c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/foxcloud/spritesheet.webp",
+          "bytes": 1466390,
+          "sha256": "dc1d3f20c53089ebaa120b98c29cc94a70f96c0db669002935948643c271f66e"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/foxcloud",
+          "bytes": 1466946,
+          "sha256": "cf85c85087d09516dfd445c65c729cf291d61495dde1fa26ca81ebef0ad343af"
+        }
+      }
+    },
+    {
+      "id": "freeticket",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7a820b34df791fbe03c9587793a365c075a9429d5c0a9eba1cfbf378ceb931e2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/freeticket/spritesheet.webp",
+          "bytes": 2292906,
+          "sha256": "714b7011966a6ce7592f9d85c7c85b923e5d01055fd15d9964384cda7191ac75"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/freeticket",
+          "bytes": 2293670,
+          "sha256": "042072a9039c218b18922833c777a59f49927d5b17479fdf19827b2143d2bff7"
+        }
+      }
+    },
+    {
+      "id": "friday",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7cedef90045b170bd2c2257416a88ce93c0e04f401c0624421c35319b8eaa4a7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/friday/spritesheet.webp",
+          "bytes": 1885724,
+          "sha256": "70d94547f57b3c9767d0be37c5711a7b6dd1c2a4b0365c736449945bcd1a1319"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/friday",
+          "bytes": 1884913,
+          "sha256": "9dd747ff3aeeb54a2a6eea9da428221723f16210dcff54c687cb35cf47e966cf"
+        }
+      }
+    },
+    {
+      "id": "frieren-3",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "2f7de8b782b9fc5f67a8f45e066ee77b34cf4c9c3c71a5b2057868e3c151202d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/frieren-3/spritesheet.webp",
+          "bytes": 2569072,
+          "sha256": "487bc8cb9c8389e79e704482d3eeda1eea68a070daea60c0f568f9f8fdc103a8"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/frieren-3",
+          "bytes": 2569862,
+          "sha256": "9ea10a94120fdbded4583d52bfa3a7d661d45b7e48fbd35fb64e10d33c380315"
+        }
+      }
+    },
+    {
+      "id": "frieren-4",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "96d0797529a70992e81e237697c0ead88470421f3d8dcda8bd6537f04ab65f79"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/frieren-4/spritesheet.webp",
+          "bytes": 2654512,
+          "sha256": "68df14a367b8b6c68c0019b946d95d66804d8dd11e9ecb3189e20f8b49fa5afd"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/frieren-4",
+          "bytes": 2655373,
+          "sha256": "404c938e25350cf303c7f108245574036c67714570a46f29e7c3d195b29a7a12"
+        }
+      }
+    },
+    {
+      "id": "froge-openai-mascot",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "2373978c382ab2cd4f15b96e93a950263d13cd9302aa390cf9eaf0453385adb3"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/froge-openai-mascot/spritesheet.webp",
+          "bytes": 1477980,
+          "sha256": "fe2afc7e8876a740df8c2f22d48bf1bcff71264af23ee65ea22d4c09e51d9d2d"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/froge-openai-mascot",
+          "bytes": 1478558,
+          "sha256": "a72250b81d3582468e8fd8f65e7b7d93b1ebf3b845915b728f624658ef728b9d"
+        }
+      }
+    },
+    {
+      "id": "froggle",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1434ce3a7f6fd53fa48dad920e351f4abf6bb3ac3cf9332961c61fd2cd7dd59c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/froggle/spritesheet.webp",
+          "bytes": 2316892,
+          "sha256": "4d587b5f6239c709e1c0f0d856ad9c5086cc2a0ce851c766b5ccb50b42f99c59"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/froggle",
+          "bytes": 2317650,
+          "sha256": "e832539347944c542bdede506bebf96de0551c00da31b63e21f6ba7d98a1a804"
+        }
+      }
+    },
+    {
+      "id": "frosty-codex",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5c1b784ae19823ce9a813bf9b2198d3e3c7ed9c80b5ce5d969d5abc32e20a323"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/frosty-codex/spritesheet.webp",
+          "bytes": 2049514,
+          "sha256": "8339dce5d6807b3df99b4a63def13988fafd6b56f91940d19d3e2be8d17f23bf"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/frosty-codex",
+          "bytes": 2050259,
+          "sha256": "b9730928319d6dfdff56d427e9594d2d278415237ff0e8b0aa444c61993bbef1"
+        }
+      }
+    },
+    {
+      "id": "gabumon",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "0434fbb4835399c8d018128c0c5b13ce472080cc898b66a1500c41235682580c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gabumon/spritesheet.webp",
+          "bytes": 2327944,
+          "sha256": "fee2ca2d0437a37bbf55e1c0a44e18577dc2dacba1250bb0b89652450c91d9da"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gabumon",
+          "bytes": 2328728,
+          "sha256": "301f0b069356c919161a48c4f0cc039e74960245d45370e2435d996deaf3c730"
+        }
+      }
+    },
+    {
+      "id": "gallantmon",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "632445c3578650a2a9dfcf505861e6bcfeefb029e06edaed19384584c73e8749"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gallantmon/spritesheet.webp",
+          "bytes": 2850634,
+          "sha256": "99e905ba71e0720f469745a5f81def1f8f842bb5f075c9517c6f61cd3141f0b9"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gallantmon",
+          "bytes": 2851538,
+          "sha256": "207c07553b504aca02d533b92137aabd60156186f222c509e1e298d12fb8d2ea"
+        }
+      }
+    },
+    {
+      "id": "gandalfclassy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7e4e9ae3a709b2e28f35786512be1ed802d46bf3d5709cf369abe10ddd97ca7c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gandalfclassy/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gandalfclassy",
+          "bytes": 2178581,
+          "sha256": "302723b15918b77b7dc2978e247f3b98cd8cffc07913f28ecadcc307d04f5abf"
+        }
+      }
+    },
+    {
+      "id": "ganesh",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c18e643ef063b6c28d0026d48929e94f9473e5fa0a11b4dd7ff818bdc33707bd"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ganesh/spritesheet.webp",
+          "bytes": 2565650,
+          "sha256": "281b14c0e65bb87b3255ecfc1e249fd777434ea2cbef5094de01e1f55f34fe66"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ganesh",
+          "bytes": 2566358,
+          "sha256": "3cbab108b0966b6c7c5b881a18dcab73a28afecd77a965582518ff383941b00b"
+        }
+      }
+    },
+    {
+      "id": "gat-reaper",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "3c46301f044994f4ea0643a1edba8c2937be33dd806b2f7bebe94f5b16b45313"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gat-reaper/spritesheet.webp",
+          "bytes": 1619868,
+          "sha256": "66c9470b4c95cc91f7ee10a77fed2e1eb328e84962b23b0cf0d6c2ea562989db"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gat-reaper",
+          "bytes": 1620526,
+          "sha256": "81adca265eb4641f581b61cbcea690222ac00f57242f25f0ed3733e7ab6c974d"
+        }
+      }
+    },
+    {
+      "id": "geats",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "94db7af08f236fabd3c9e57703d97008465b4f7f76e76e1ec8b75b396e4d864d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/geats/spritesheet.webp",
+          "bytes": 2293188,
+          "sha256": "ffe7bc63c0dd816610494e58da364c7eba5920bbe4aa757e8100ee44c36d1825"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/geats",
+          "bytes": 2293943,
+          "sha256": "7f3d07f3a940df757738a563a0870e0f4db24d17d9b3053b7310587aa39ae5a2"
+        }
+      }
+    },
+    {
+      "id": "ghostface",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d7ef718e7aa02af81b054d5b5e5f180a9cd1662a4a8d1194fb8601b7e616164e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/ghostface/spritesheet.webp",
+          "bytes": 1716942,
+          "sha256": "a1b91dc35842f5fa95cc02172dbda06e4264dd57121d7bdd2072862b9a8c323f"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/ghostface",
+          "bytes": 1717581,
+          "sha256": "2949f3468413a7661abaee81cce6cf364ff91733d47a90dc8bdd6e2dd1bef57d"
+        }
+      }
+    },
+    {
+      "id": "gilgamesh-v3",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d07fb4fb2fcfce30ad6e704de8ba72674e915d490d48e378620a2dc3d9980270"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gilgamesh-v3/spritesheet.webp",
+          "bytes": 266942,
+          "sha256": "c41233b60ae4c1dd23e3a5dc69a61a5b863cb9a9d17b8cb9ed76d9b4fb1b2263"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gilgamesh-v3",
+          "bytes": 257930,
+          "sha256": "a1a6af2a9915b50d8139a34a044037f5980093efcd8a0989ac8679183d7a95db"
+        }
+      }
+    },
+    {
+      "id": "github-com-ww930912-tony",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e6ddf3070efc77d7a5e6fc93fc89095665510617d69568e3526ebbadf7ae006b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/github-com-ww930912-tony/spritesheet.webp",
+          "bytes": 1594194,
+          "sha256": "7ad207c122b42453ce5ed91b1e8cbf5a4f522cec1613380a2b5abe19c1b6ff7d"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/github-com-ww930912-tony",
+          "bytes": 1594913,
+          "sha256": "80d2b75af2e8ccc33dc9198d0ad4c36c210ea3260daef21d139d795ccc19428c"
+        }
+      }
+    },
+    {
+      "id": "goblin",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "df725b85bb0fc18870693ac9c06c5b89d4827eabe00de88e1db413ad6f824902"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/goblin/spritesheet.webp",
+          "bytes": 1858662,
+          "sha256": "405f0da9b68ec25990a18701cc685e0ba8042da13e67fed540f7be19eec196b9"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/goblin",
+          "bytes": 1859346,
+          "sha256": "50b36cf1d4810c7da5e3a1168b1852a6611da6eb201d5522d8a17604ed684fc7"
+        }
+      }
+    },
+    {
+      "id": "goblin-sama",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "38bdcd88d365d0bed5d1897530b6e628d1c155a915e52162869b470e560e4873"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/goblin-sama/spritesheet.webp",
+          "bytes": 2217418,
+          "sha256": "3ad839a0a3952ab053732e98aee8735127b705059cbd286ac509a0789752a0f1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/goblin-sama",
+          "bytes": 2215663,
+          "sha256": "a69c40eb48a7f891785e347f1b10b61876c6dc2fb5bb628b2a14a7cbe5823875"
+        }
+      }
+    },
+    {
+      "id": "gojo",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "4ff9a38c840ac5bfe5aa7ca06969f838e3a6e37f6178d81a1a869203e432b8ed"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gojo/spritesheet.webp",
+          "bytes": 1529008,
+          "sha256": "d8343d1037285915581d5403b914ff9357549d2fad7f53bfd1073cec7fcf3935"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gojo",
+          "bytes": 1529612,
+          "sha256": "60d52f0f1175b71ef1e741a9f117bf35bfaf23a6f933df60f54455502d18ec04"
+        }
+      }
+    },
+    {
+      "id": "goku-blue",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "8d93dfe08499458e6f16324f8fbe0a562d32f261bec26c96cc31bf892ee77ff9"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/goku-blue/spritesheet.webp",
+          "bytes": 2106678,
+          "sha256": "fd850c05c3f100d41064d599f53e5c82aea3f969551e614c94b80c64984ff77a"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/goku-blue",
+          "bytes": 2107431,
+          "sha256": "9184c390a90ec2efc8e0ed478807ee80fa2f89b2caa807f609d5650f126f56f1"
+        }
+      }
+    },
+    {
+      "id": "golden-retriever",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b66d0d9ee167ea3bbb4e765de2cc797c6a18f44ee57ea815ad402b189a3a0619"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/golden-retriever/spritesheet.webp",
+          "bytes": 2062608,
+          "sha256": "4ac2a7e9f58b7bc9398aae7c89b13e4445a30033f5ccffb9ff310ec5af64fdec"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/golden-retriever",
+          "bytes": 2063387,
+          "sha256": "addb5854992ad5343c12ed95506671f1cd3bdf7c8d6c31ed4d441c605370cc22"
+        }
+      }
+    },
+    {
+      "id": "golden-wyrmling",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ec28f722e9fffbea679c8e9a504983c0b356fea74acb43bd55a29d48847473d7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/golden-wyrmling/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/golden-wyrmling",
+          "error": "502 Bad Gateway"
+        }
+      }
+    },
+    {
+      "id": "gopher",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e3345790c2943beeed15208271596f42c4be0a71c1185f7bae0536bcf8c02c3f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gopher/spritesheet.webp",
+          "bytes": 1741750,
+          "sha256": "326e05d82758771f53f84851bf4e4a73fca9b3477575569e3f1860edb14b3ec1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gopher",
+          "bytes": 1742361,
+          "sha256": "692e3695ebe501a07102b4c7187fe8f41beb6a771a18249e0807c56de9f141e4"
+        }
+      }
+    },
+    {
+      "id": "grace-ashcroft-blue-variant",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c489d5b547aaed27678a817e5a4aaf2155455491730d99f7d720026b16f32bed"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/grace-ashcroft-blue-variant/spritesheet.webp",
+          "bytes": 1839138,
+          "sha256": "ab2bda16bdedc6c0ac27f928ffdc6738d526394af55a18377bf73816b0d00758"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/grace-ashcroft-blue-variant",
+          "bytes": 1835697,
+          "sha256": "4ac772f1c731f9b6def95b8e0a5edceefc87e0f6a385069769999bb612d7bc74"
+        }
+      }
+    },
+    {
+      "id": "gradient-gob",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "48d79a73762bc5f4f39b2c58a6e2736d6430c7ca46588a7dd0eac7f3d6d48262"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gradient-gob/spritesheet.webp",
+          "bytes": 1670444,
+          "sha256": "6ec72144543005408d7ba96180e1b2ae80dd66a1f5a4563efb6743ba806b09f6"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gradient-gob",
+          "bytes": 1671123,
+          "sha256": "8b6fd9ef7c36f161ba0a5e495b88b411426c09bfe92d5b16a805d7e53ae14eae"
+        }
+      }
+    },
+    {
+      "id": "graycraft4",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5627d30380643276ab9ecc5dfb77eb997fb76d0d4828a4735aa69e6bd36d3df2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/graycraft4/spritesheet.webp",
+          "bytes": 2472828,
+          "sha256": "2709c2ba5917d9a1dc103b4f541d448a520e0bca81f08ff90cc146dd92d69bbb"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/graycraft4",
+          "bytes": 2472754,
+          "sha256": "e5e4efdba0ecc50426c49fdfcb7d7ae4aa4428f165196767eebad1409ef39570"
+        }
+      }
+    },
+    {
+      "id": "graycraft5",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b2d9912650708f154d03a1fd43dff8cffb2b11252e3cb3f2977f54474edf6871"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/graycraft5/spritesheet.webp",
+          "bytes": 2327568,
+          "sha256": "a535f9b410ea7523dba58406ced8b651c43268b4046853f94218837280a1b042"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/graycraft5",
+          "bytes": 2328378,
+          "sha256": "5875be4967698c1aa57006dc3bc89ba8dbfd1a2b5393128e3d63259f108307aa"
+        }
+      }
+    },
+    {
+      "id": "graycraft6",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "39b2826587e22bb9b55af6bb03dbb76cd556043e4c2acd75729efe4a7fd1827f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/graycraft6/spritesheet.webp",
+          "bytes": 2586004,
+          "sha256": "00c661839b22da2dae86e58ec193ff36a6af5ed8885e6fb439c07d17d7077586"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/graycraft6",
+          "bytes": 2586589,
+          "sha256": "a4e5fe509b15e2f89008679c20417868a75ba56dabbc282239a5bdc1bd7f512f"
+        }
+      }
+    },
+    {
+      "id": "graycraft7",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "6632f5a342372ac35359a235f0b9134717c997ffd18cf76ad27c774245137c73"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/graycraft7/spritesheet.webp",
+          "bytes": 2305360,
+          "sha256": "e3f8772f4502b8b5391917222b1abe7bd338f8f9f40461bdbed9476b7ac00a59"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/graycraft7",
+          "bytes": 2306172,
+          "sha256": "457e0971595af36feb392e9b2cd7152895669b1ee6ce02aa55416002bb5d854a"
+        }
+      }
+    },
+    {
+      "id": "green-monster",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "9b0a3510443ac2d5ea16991fb35b3b6129ecab0b8afaf40edcb59cc6d08b6ac1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/green-monster/spritesheet.webp",
+          "bytes": 1092404,
+          "sha256": "647d429573f427f54f9d474845256871f8efa8e6a305356b2eab3b2d220665ca"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/green-monster",
+          "bytes": 1092908,
+          "sha256": "63a4f35b6de5cb9afb27f32ea21499a0a541cd65f208d2e7b364b60b416658e5"
+        }
+      }
+    },
+    {
+      "id": "gt3rs",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7c5c0fe19acbb9b42b6577e7c1174125cfb23f46f9b3510f67438c0a669038e3"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gt3rs/spritesheet.webp",
+          "bytes": 1649826,
+          "sha256": "383062a99084cf1b6d38a1e75874ccc02315e572684674a28de0de20752b5259"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gt3rs",
+          "bytes": 1645402,
+          "sha256": "ff787f3b57b7e9873e1ed25da821a5332da67bd9db712de39bf691dbbe09da5c"
+        }
+      }
+    },
+    {
+      "id": "gudako",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "962718d559cf536b0e2631a9cc22b803a8415bcc2f012b35ad12c5988da2d0f4"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gudako/spritesheet.webp",
+          "bytes": 278076,
+          "sha256": "103d4b14c5eb8c4af20beb6a740e10927bff5ba5c8111307c3370b2a7fb8d5b5"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gudako",
+          "bytes": 261480,
+          "sha256": "807fb487bac8996e2045a5b197e4017aa137cf024295c7c3229d15b02ce3c367"
+        }
+      }
+    },
+    {
+      "id": "gugugaga",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "36e517e904046507d4aa8883c641fcf0c0e81fb91d2e4646834f47eecf592004"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gugugaga/spritesheet.webp",
+          "bytes": 1900892,
+          "sha256": "a0c37ff6dfc1491e6dcc42a210e5913f066e633a1aadc81ad450251e0d29b795"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gugugaga",
+          "bytes": 1901542,
+          "sha256": "0612356dd18149ff597dda20c862b6c65f90982d8b0df5d4f498fd4352e5b876"
+        }
+      }
+    },
+    {
+      "id": "gukegare",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "cb1982931918f3071e2472e54fae68fb33d4718717dbd3c759e0e00dd20310d1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gukegare/spritesheet.webp",
+          "bytes": 2575120,
+          "sha256": "0d88f9d8a640619a1f53ca86a53a44f6ad2842a7c1ae6079d675e6713556aabe"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gukegare",
+          "bytes": 2575460,
+          "sha256": "e8a118652de6a3842706033a08cfd9fc46ce4a1fe63b9c03bd30e5f880a122d5"
+        }
+      }
+    },
+    {
+      "id": "gutsy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "132ce4ad12522393ecbc434d2d1090bfd2efae59af2a2e857bc6ab677a64325f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gutsy/spritesheet.webp",
+          "bytes": 2482472,
+          "sha256": "bb47b2a6be9cd188a8c7753d95b180a07a9e77dd731f5d0d660e42cd57ba3c71"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gutsy",
+          "bytes": 2478983,
+          "sha256": "6a480627cfc390cdee0266f9976f64b33978592a3eeb6999177c255c1ababdc5"
+        }
+      }
+    },
+    {
+      "id": "guy",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "bb3e53066b29e4b9f0cb2f3d55b55a36cdb2b18059656b3536558f2be0c204b3"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/guy/spritesheet.webp",
+          "bytes": 2040396,
+          "sha256": "96daae7d0de5d2c00a4497116a6e59bd3ba29ea8ec43268f410110bdfabccca0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/guy",
+          "bytes": 2041091,
+          "sha256": "a71f066d0ed74edf178a10583a99234a9ecad7f5750a525efd6ffacbd4d6d099"
+        }
+      }
+    },
+    {
+      "id": "guybrush",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "77cb16b50ad189adfd49f75593b1825b1622752603f4d9fe9bfa88291bdc745c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/guybrush/spritesheet.webp",
+          "bytes": 1444554,
+          "sha256": "1aa3f90f7584cf7fdf9237ab5e82e0030192c68b7dcc860c01c06f9f90ac60b0"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/guybrush",
+          "bytes": 1445163,
+          "sha256": "29c543ba6af31c015bb68b34299328e65a0693f9c572c1414f0449b2d432bf44"
+        }
+      }
+    },
+    {
+      "id": "gym-ajussi",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "65a862437cdcd1029a1404c89966cc0aac7128dffebab8b0078525afdb3a80cf"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/gym-ajussi/spritesheet.webp",
+          "bytes": 1789344,
+          "sha256": "e60c5914d217fb6dd13cb4596355c862d57b97e2977bc9965996fb352dd1a5b3"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/gym-ajussi",
+          "bytes": 1790030,
+          "sha256": "a8754e7cbe9d96b618bc4f005a9c8a53edc164bd0637760fe5f6bc42e897a937"
+        }
+      }
+    },
+    {
+      "id": "hachiware",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "d76b0c9c6523d8c55f749863f91b3bc214c785a57e116063a668ca3bbedb8738"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hachiware/spritesheet.webp",
+          "bytes": 1585846,
+          "sha256": "f9c81752c0c2b5322e20043cfaa2c2a803a3d8de6f98d9e7c1d65be7a30fd884"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hachiware",
+          "bytes": 1586417,
+          "sha256": "9843b43ff2de3c34d76e080732a8090edb9bff26763c787043c614f37bdeabc3"
+        }
+      }
+    },
+    {
+      "id": "hal",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "66fe8111504a6f1a6f0fb73f4c9a861a3546482f76e2f2787489d17e61d8c505"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hal/spritesheet.webp",
+          "bytes": 2022736,
+          "sha256": "af14a79e359e8cf53d98d94df08349d93fd9f6f81a1042ae1d17c23df3e5adfa"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hal",
+          "bytes": 2023331,
+          "sha256": "8b026955c8e778d3fba893fc739a9db135b34872564f637ec9f926215c6af479"
+        }
+      }
+    },
+    {
+      "id": "hal-9000",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a21b6637dc2eb164040fc02a0e70da81e5b1a1333d1e68537561e2eec718e81a"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hal-9000/spritesheet.webp",
+          "bytes": 1272932,
+          "sha256": "23f45d36859bb62a18a75653e2974c7c197a5cfabdc2abd9e8ffa0f8e9a8ee88"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hal-9000",
+          "bytes": 1273451,
+          "sha256": "2258d4f9c8bbf32ebef05511238d8133f7f89ba102871608dca40701468a924c"
+        }
+      }
+    },
+    {
+      "id": "hana",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "28a81cd586f70fede77deea2bcbaa15bdaa199b44195e4e56981feb325b72486"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hana/spritesheet.webp",
+          "bytes": 2539928,
+          "sha256": "a8f08106196235af49762129a51f88ccec8d249cf91a9dd6b1f2f83caa3146c2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hana",
+          "bytes": 2539904,
+          "sha256": "445962c9718dd15b2b62a56f6ee0ec76dea1869ecdffd13c09bfef2523d81b18"
+        }
+      }
+    },
+    {
+      "id": "hanami-saki",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "ca7fead982f23d1b551e6cf1a4aa0627f72bc2b66ad5828b2ed23408d16aa808"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hanami-saki/spritesheet.webp",
+          "bytes": 2349792,
+          "sha256": "83760ca2bb818d7e94d4ea6c613b2b934537354add9fa926a6ca3cb1f870933a"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hanami-saki",
+          "bytes": 2350592,
+          "sha256": "33389987a7cea0c3104b3e15fd43c11009dbd68aaeab9856f0d92a114fdb4d83"
+        }
+      }
+    },
+    {
+      "id": "hannah-montana",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "19b2bae5754da9874f4cb9ece82dec741577af70791cbb4beda68131ad824ec2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hannah-montana/spritesheet.webp",
+          "bytes": 2182126,
+          "sha256": "a20183402ecbaca01e44d1a31e5726830e341da80f5eecb7509eab488c9306ae"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hannah-montana",
+          "bytes": 2181365,
+          "sha256": "5c34e5df428067c526dedb1699b3c7e796cbee0cd1d52484ba98a653edf40b6e"
+        }
+      }
+    },
+    {
+      "id": "happy-brush",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "03898cb55914f0d4a3439af7d68ad38078dab6636950029d31279a3ae2d564c2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/happy-brush/spritesheet.webp",
+          "bytes": 2163676,
+          "sha256": "c7ff747315f5e2689b78093c140248bc6c478bc32d4cdc205baf1f9f0a2390c2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/happy-brush",
+          "bytes": 2164449,
+          "sha256": "864200a083d76c721b228aa3044678e47a54e6774a29ed0545c8fa561deba467"
+        }
+      }
+    },
+    {
+      "id": "happy-brush-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "b833c8db742d835038351452b84a9cb5141ae4ae9c01045cbb86be4966bb64d7"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/happy-brush-2/spritesheet.webp",
+          "bytes": 2163676,
+          "sha256": "c7ff747315f5e2689b78093c140248bc6c478bc32d4cdc205baf1f9f0a2390c2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/happy-brush-2",
+          "bytes": 2164461,
+          "sha256": "7563a15ba8f8424ab22babb4a6141c424add0393c5a9b692f5b1419af01a3d2d"
+        }
+      }
+    },
+    {
+      "id": "happy-cat",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "8f3a575da43ee1d23427a27aa5e2d4dbea290efed2953e9f264580b7893c7d34"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/happy-cat/spritesheet.webp",
+          "bytes": 1197624,
+          "sha256": "c212a9a5208f206d2488572f401f4844c55f45c322252c7282304e84c246ce20"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/happy-cat",
+          "bytes": 1198182,
+          "sha256": "393345192df17d2d6a5bfcd78c22bcab68136685cd30d266e952a12ebbdba096"
+        }
+      }
+    },
+    {
+      "id": "harry-poptart",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "09376c156e89238a4acc3472cfa5a8a65fd41c9b02b54f384d311d7732334ccf"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/harry-poptart/spritesheet.webp",
+          "bytes": 1973236,
+          "sha256": "c04af7ff9fc4ba23cf3e954c144fe17d15f95d1efdb9b48f72729fe3f2b4a349"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/harry-poptart",
+          "bytes": 1966785,
+          "sha256": "5a2c6c815664deb6ed25939bbbc5d46dc1093c1cb63ca646c3db8b984ff62925"
+        }
+      }
+    },
+    {
+      "id": "harup",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a1a090834b00de0633b484b7545a1d7ab51b8741a62739c6467d1664e35f7985"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/harup/spritesheet.webp",
+          "bytes": 915402,
+          "sha256": "eefb3bcb1f00b725c0c1e44e47b9a591773edc0b954c5178f1ba212c28c49c6c"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/harup",
+          "bytes": 909249,
+          "sha256": "47ffcc86ed08f9f5b9220739c01ba9220448535df5e1dff80ede459c2eaa5498"
+        }
+      }
+    },
+    {
+      "id": "hausdorff-crumb",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "e810da3edf3a10069f330f27a3bf4124897793dcd2949d2a08b83cdeaba12da2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hausdorff-crumb/spritesheet.webp",
+          "bytes": 1768026,
+          "sha256": "79aad016c47a51711c368846fb4812aa41f1ab97256c4086dd63cf8ca76dde62"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hausdorff-crumb",
+          "bytes": 1768737,
+          "sha256": "f12688276f573d3ccd53486f2cadcf1d35e4a940a8b2d9274562b27ea95e573c"
+        }
+      }
+    },
+    {
+      "id": "hiro-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "064628a273872c15ca2ee9e9a6a1852768e9c244ffb3469577f42b770cb86e19"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/hiro-2/spritesheet.webp",
+          "bytes": 2132834,
+          "sha256": "a031f3294eef18f91b92232056cbfb20188bbf62520917f5b54ea04118a6e3aa"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/hiro-2",
+          "bytes": 2132362,
+          "sha256": "749fb7fbb7894e771eabd298012ef510de456e5ee00a3893429eb2b3bd6b828e"
+        }
+      }
+    },
+    {
+      "id": "homie",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "df340ba52a466a071f4e0fee0952d946f09fb26b1062e4b4158ce8a6a7528a87"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/homie/spritesheet.webp",
+          "error": "404 Not Found"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/homie",
+          "bytes": 1444838,
+          "sha256": "fd17bbccddec8fb75addfb96e5a33171f1fef7ad3564d0890ee7a118de1faca0"
+        }
+      }
+    },
+    {
+      "id": "huangdou",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "a7f0e5fbaef8ee6bb501d1a32f9d1b7f01d9e2cb249588ab684be75a8348767c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/huangdou/spritesheet.webp",
+          "bytes": 1841932,
+          "sha256": "3ecf51d1b951c13f11c6a2a0169cc667aeeb5bca3bcc1129e06c51526832d4b4"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/huangdou",
+          "bytes": 1842621,
+          "sha256": "d73c29a2ab2871791132d996fa58d73a09128fdaf43c42ac2e722e6530d598e4"
+        }
+      }
+    },
+    {
+      "id": "humboldt",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "be4479f21a2eaea4fb19fa112081bddf5fb8efeff1eae65778672ff94cc0f12f"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/humboldt/spritesheet.webp",
+          "bytes": 2052704,
+          "sha256": "71ad882853713b544bdd10887e815a93bbd93840355699863b8cf71994f56cfc"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/humboldt",
+          "bytes": 2052054,
+          "sha256": "1de7062cb59e5dc1561022afa2daf8d432205436d3ea88d291dac97581483946"
+        }
+      }
+    },
+    {
+      "id": "huskguin",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1164455f9fc948d2c195c444ac93882f7453ae9432fa207b219def3c58d33da6"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/huskguin/spritesheet.webp",
+          "bytes": 1757576,
+          "sha256": "688b6ad17553468e30fe222f79b130fbf9831e5ff1ef304b3b782d08a7eaba22"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/huskguin",
+          "bytes": 1758250,
+          "sha256": "2775ef2a18f6c3a74305c357273c63b318a44a882c2cce3a9b687079b2215e64"
+        }
+      }
+    },
+    {
+      "id": "inari",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "5e8f4ce5affb6ae7a3a8793730495f34b455a6b832f00cb9175f64cab27ceb4d"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/inari/spritesheet.webp",
+          "bytes": 1739720,
+          "sha256": "9a19d2eafb87fb26ba238acdac251adbe9933e316543b9177aa28386ddd37d50"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/inari",
+          "bytes": 1740373,
+          "sha256": "f3f3c7d1e8d33de60001b7234c3af80f544044ce581fd81acc90c1cfe10c17eb"
+        }
+      }
+    },
+    {
+      "id": "invincible-mark",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "1c6f0c4e92e32e19e7a30bf89d029dc5d60beff9659ac4810d7d1f1f5f4561b1"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/invincible-mark/spritesheet.webp",
+          "bytes": 1697242,
+          "sha256": "9a6b20dcdb1880175755f06823930f63b56cdd8971c98cf92f357702db906acd"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/invincible-mark",
+          "bytes": 1697939,
+          "sha256": "d84485a49d0acce55049ed16b6018ad2efd7cfb415b88457b0e1120c44d05fd6"
+        }
+      }
+    },
+    {
+      "id": "invincible-mark-2",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "89eb97413d9a1ba462f0ba4518ad8bbf93953a00e3e6c48da83ca725aaff1215"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/invincible-mark-2/spritesheet.webp",
+          "bytes": 1713834,
+          "sha256": "08c5b35a9a941d213cc8dd273e80dd14e7842b32edeaab8b8220f61a58d0d4c2"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/invincible-mark-2",
+          "bytes": 1714541,
+          "sha256": "8529e1e6ac5baf22cf81c54e3825fe6e4f6c75a9dac8025a5a2edf036ed48921"
+        }
+      }
+    },
+    {
+      "id": "island-owner",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "fca08b24f50012cc83927590946e3cad70318cd92e9495d97c30aa268dd017a8"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/island-owner/spritesheet.webp",
+          "bytes": 2476364,
+          "sha256": "8d2a1598a4040427ab3f4946433d892838f602336407c6dd5bd76a9bb6100d82"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/island-owner",
+          "bytes": 2472737,
+          "sha256": "5feb50a1a8a27727b0d8122520f6da18f5709bc5ca0db9f53344a8801ec8732d"
+        }
+      }
+    },
+    {
+      "id": "itachi",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "33c51b5465cf26ac14e13b1395540c5e74585871a94a7e98c6eac35fd8739492"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/itachi/spritesheet.webp",
+          "bytes": 1621170,
+          "sha256": "fdede125dc81cd5fe92ac21ccb2a54465584cf2cab92dc82b89e85d271073b59"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/itachi",
+          "bytes": 1621803,
+          "sha256": "c4e66ffae83682c19f99c6030bea9b23e979194cb812345e2b2bbf4964079894"
+        }
+      }
+    },
+    {
+      "id": "izanagi",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "fc1b594420a1fe9e9f331434a4207ea5ed6c750feadfce95f5eff39f091c822c"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/izanagi/spritesheet.webp",
+          "bytes": 1846322,
+          "sha256": "64c42115bacd0e118f9d5f45cc398c8e0e98e344f017cb2ad2a2dcd2ca20fa23"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/izanagi",
+          "bytes": 1847005,
+          "sha256": "06a00a0076fbdd052ec7ca5f484ab94d55ef2968d1acbacbe63904330c323ec3"
+        }
+      }
+    },
+    {
+      "id": "jane",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "7529d313f901000c5c3b2d12467d7c07ff307fd226c230aaac6cd5e1a85babee"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/jane/spritesheet.webp",
+          "bytes": 1938034,
+          "sha256": "61b6c26483a4d4e4df7b7b7fd05ba6d94fcf372e529298d590636c095f1a83a1"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/jane",
+          "bytes": 1938723,
+          "sha256": "ab38e4dd699c67da840eeec2d7fd11c87c430efc79ec6dcf23c4ae12c8aaa625"
+        }
+      }
+    },
+    {
+      "id": "java",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "29e0b39f6a5a1a35166292fd797b67a1eeb6acae2bdabd6b61bfa835a4b00ae2"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/java/spritesheet.webp",
+          "bytes": 1008218,
+          "sha256": "59e291e625dc9a1c5575ef70ea43a1ff4122a85686a1cf2edbc96791b08e2ca7"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/java",
+          "bytes": 1007959,
+          "sha256": "838fc967c298ea3993f0123837f3a7d2cab70807a9a3a35df223283df55ac4b2"
+        }
+      }
+    },
+    {
+      "id": "jeeves",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "35f99b87b611a178c1ee6ee22a49c14cb6b1d4e244bd68c1049e985b85018345"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/jeeves/spritesheet.webp",
+          "bytes": 1587350,
+          "sha256": "2044e78462e95fa907fba0fd7656305941b21c87d866621aeab31bec3dce98ab"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/jeeves",
+          "bytes": 1581917,
+          "sha256": "135ef183f7ee4e33251f139710a620403cefc3beffd7487160e1d9ec909072e4"
+        }
+      }
+    },
+    {
+      "id": "jesus",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "c5f10916d6661c391b415248a271b1c760c60c8520cdf60fde8b9fa778c4097e"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/jesus/spritesheet.webp",
+          "bytes": 2006718,
+          "sha256": "612ea2b68623587d8e62e3d152f93f3f32949f81d5c1e2f1eb844c21c4407c72"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/jesus",
+          "bytes": 2007407,
+          "sha256": "f0c430c89e0caedaf4f598382698a50d91028eeaa62d18e3e9ede40ef6d972b1"
+        }
+      }
+    },
+    {
+      "id": "jiangjiang",
+      "sourceId": "codex-pet",
+      "saved": {
+        "petJson": {
+          "generated": true,
+          "sha256": "86850d56fcca1d7d7b63eecf6d1ec3acf61695285d5588a2a7937baabcd0ca6b"
+        },
+        "spritesheet": {
+          "url": "https://cdn.codex-pet.com/pets/jiangjiang/spritesheet.webp",
+          "bytes": 944476,
+          "sha256": "77b255347a666694f6ed03c37aa1c9c9dae368a037ce5e33d5ae71dd365c3de5"
+        },
+        "package": {
+          "url": "https://codex-pet.com/api/download/jiangjiang",
+          "bytes": 944919,
+          "sha256": "93ab840e3cc152701a2b151aad5a9a14a04098f76c5cdabb2402fbb048df2a00"
+        }
+      }
+    }
+  ],
+  "failures": []
+}

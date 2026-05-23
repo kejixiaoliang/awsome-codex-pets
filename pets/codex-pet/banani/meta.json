@@ -1,0 +1,39 @@
+{
+  "id": "banani",
+  "name": "Banani",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/banani",
+  "description": "",
+  "generatedManifest": {
+    "id": "banani",
+    "displayName": "Banani",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/banani/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/banani"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "a903f8313fc215f52b049e24ef98edcf6976d9142657bd49efc7c57a728b28ad"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/banani/spritesheet.webp",
+      "bytes": 1719256,
+      "sha256": "0827233be5014240997ec497fe6f1c598b77e40a361858b676e22a1b4238915f"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/banani",
+      "bytes": 1719882,
+      "sha256": "37f5f9d1abf68fac075a52b2594e5df693fdd3bd11700d78b826e3894fcda3d8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/banani/banani.zip",
+  "petJsonPath": "pets/codex-pet/banani/pet.json",
+  "spritesheetPath": "pets/codex-pet/banani/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.671Z"
+}

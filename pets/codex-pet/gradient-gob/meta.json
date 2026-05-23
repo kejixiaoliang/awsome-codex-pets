@@ -1,0 +1,39 @@
+{
+  "id": "gradient-gob",
+  "name": "Gradient Gob",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gradient-gob",
+  "description": "",
+  "generatedManifest": {
+    "id": "gradient-gob",
+    "displayName": "Gradient Gob",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gradient-gob/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gradient-gob"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "48d79a73762bc5f4f39b2c58a6e2736d6430c7ca46588a7dd0eac7f3d6d48262"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gradient-gob/spritesheet.webp",
+      "bytes": 1670444,
+      "sha256": "6ec72144543005408d7ba96180e1b2ae80dd66a1f5a4563efb6743ba806b09f6"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gradient-gob",
+      "bytes": 1671123,
+      "sha256": "8b6fd9ef7c36f161ba0a5e495b88b411426c09bfe92d5b16a805d7e53ae14eae"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gradient-gob/gradient-gob.zip",
+  "petJsonPath": "pets/codex-pet/gradient-gob/pet.json",
+  "spritesheetPath": "pets/codex-pet/gradient-gob/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.218Z"
+}

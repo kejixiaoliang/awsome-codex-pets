@@ -1,0 +1,39 @@
+{
+  "id": "gabumon",
+  "name": "Gabumon",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/gabumon",
+  "description": "",
+  "generatedManifest": {
+    "id": "gabumon",
+    "displayName": "Gabumon",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/gabumon/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/gabumon"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "0434fbb4835399c8d018128c0c5b13ce472080cc898b66a1500c41235682580c"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/gabumon/spritesheet.webp",
+      "bytes": 2327944,
+      "sha256": "fee2ca2d0437a37bbf55e1c0a44e18577dc2dacba1250bb0b89652450c91d9da"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/gabumon",
+      "bytes": 2328728,
+      "sha256": "301f0b069356c919161a48c4f0cc039e74960245d45370e2435d996deaf3c730"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/gabumon/gabumon.zip",
+  "petJsonPath": "pets/codex-pet/gabumon/pet.json",
+  "spritesheetPath": "pets/codex-pet/gabumon/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.999Z"
+}

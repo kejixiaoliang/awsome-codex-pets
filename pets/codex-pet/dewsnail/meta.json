@@ -1,0 +1,39 @@
+{
+  "id": "dewsnail",
+  "name": "Dewsnail",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/dewsnail",
+  "description": "",
+  "generatedManifest": {
+    "id": "dewsnail",
+    "displayName": "Dewsnail",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/dewsnail/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/dewsnail"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b6ccfb6beea0ee3e909ffc946541fd42b788424125509b7437e57c5ad695ee1d"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/dewsnail/spritesheet.webp",
+      "bytes": 2062106,
+      "sha256": "059bc460994c443c022d8f573bc39d95ae06af1c8dbe5ee58949650571c906bb"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/dewsnail",
+      "bytes": 2062803,
+      "sha256": "1001831b28091ef1c07379a0daeebba141142e331417e0792c6d61f8b0b22616"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/dewsnail/dewsnail.zip",
+  "petJsonPath": "pets/codex-pet/dewsnail/pet.json",
+  "spritesheetPath": "pets/codex-pet/dewsnail/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.207Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bankr",
+  "name": "Bankr",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/bankr",
+  "description": "",
+  "generatedManifest": {
+    "id": "bankr",
+    "displayName": "Bankr",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/bankr/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/bankr"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "d7e4873f459c9eec66dab03dfc0f7eb4482341b86f697ecb7309ea512ef8ccc9"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/bankr/spritesheet.webp",
+      "bytes": 1819034,
+      "sha256": "e835cce43f36183d7cd8a374ce1808583e2efdb4f2f662c6d81faf077bf87585"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/bankr",
+      "bytes": 1819564,
+      "sha256": "5916d4a439c390362991a9ef5f946f42240fe962cccd5c8ada8b438d17c8e3e3"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/bankr/bankr.zip",
+  "petJsonPath": "pets/codex-pet/bankr/pet.json",
+  "spritesheetPath": "pets/codex-pet/bankr/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.683Z"
+}

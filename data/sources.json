@@ -1,0 +1,44 @@
+[
+  {
+    "id": "openpets",
+    "name": "OpenPets",
+    "url": "https://openpets.app/",
+    "type": "gallery",
+    "notes": "Verified Codex CLI pet registry with downloadable packs."
+  },
+  {
+    "id": "codexpets",
+    "name": "Codex Pets",
+    "url": "https://codexpets.org/",
+    "type": "gallery",
+    "notes": "Browse, preview, and add Codex pets. Includes install documentation."
+  },
+  {
+    "id": "codingpets",
+    "name": "CodingPets.dev",
+    "url": "https://www.codingpets.dev/",
+    "type": "gallery-and-generator",
+    "notes": "Codex pet generator and install metadata."
+  },
+  {
+    "id": "codexpethub",
+    "name": "CodexPetHub",
+    "url": "https://codexpethub.com/",
+    "type": "gallery",
+    "notes": "Custom Codex pet hub with hash verification claims."
+  },
+  {
+    "id": "codex-pet",
+    "name": "codex-pet.com",
+    "url": "https://codex-pet.com/",
+    "type": "gallery",
+    "notes": "Animated Codex pet gallery with CLI add examples."
+  },
+  {
+    "id": "petscodex",
+    "name": "Pets Codex",
+    "url": "https://petscodex.com/",
+    "type": "submission-gallery",
+    "notes": "Community submission flow for Codex desktop pets."
+  }
+]

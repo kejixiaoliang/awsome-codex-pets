@@ -1,0 +1,39 @@
+{
+  "id": "casey-cassette",
+  "name": "Casey Cassette",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/casey-cassette",
+  "description": "",
+  "generatedManifest": {
+    "id": "casey-cassette",
+    "displayName": "Casey Cassette",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/casey-cassette/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/casey-cassette"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c60cc0afa6f782a9b45209e5172f02c50f0b73512e2586663f4884a427e78087"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/casey-cassette/spritesheet.webp",
+      "bytes": 1587952,
+      "sha256": "f544a63c1b51610b4039ded56a09c4f0d86adfa406aa700911e2c1b1e02dbf58"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/casey-cassette",
+      "bytes": 1587804,
+      "sha256": "56816cedf4e29dc3ae6cf6bb99351171c75e5a6a72db1ee907b03f45fadae6bc"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/casey-cassette/casey-cassette.zip",
+  "petJsonPath": "pets/codex-pet/casey-cassette/pet.json",
+  "spritesheetPath": "pets/codex-pet/casey-cassette/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.214Z"
+}

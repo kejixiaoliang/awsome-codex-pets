@@ -1,0 +1,39 @@
+{
+  "id": "aoxiaotiger",
+  "name": "Aoxiaotiger",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/aoxiaotiger",
+  "description": "",
+  "generatedManifest": {
+    "id": "aoxiaotiger",
+    "displayName": "Aoxiaotiger",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/aoxiaotiger/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/aoxiaotiger"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "c4ed27ace06aa959828d73c7b3e0f694c9bef95504c67c2c16175a648547177f"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/aoxiaotiger/spritesheet.webp",
+      "bytes": 1631690,
+      "sha256": "2b0db8e0a92025543239ffdafa4889f07215bc157dcfc3f5a3ada0f6b0994cea"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/aoxiaotiger",
+      "bytes": 1632216,
+      "sha256": "4a77deb7b07e1cb4dc4fa1bbdab8a966af022ca69f421c55189c93bacfcd397c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/aoxiaotiger/aoxiaotiger.zip",
+  "petJsonPath": "pets/codex-pet/aoxiaotiger/pet.json",
+  "spritesheetPath": "pets/codex-pet/aoxiaotiger/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.477Z"
+}

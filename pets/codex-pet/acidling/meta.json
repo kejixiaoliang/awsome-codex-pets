@@ -1,0 +1,39 @@
+{
+  "id": "acidling",
+  "name": "Acidling",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/acidling",
+  "description": "",
+  "generatedManifest": {
+    "id": "acidling",
+    "displayName": "Acidling",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/acidling/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/acidling"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b84d4a9f0c80b62d18ce39cdef52a356e2b344de3e42854bfc9020de3f94dc3a"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/acidling/spritesheet.webp",
+      "bytes": 2093536,
+      "sha256": "9b1650a3af0ed8b77219d4a0797a29035288f640809ce4d001b3f85dfda40571"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/acidling",
+      "bytes": 2090045,
+      "sha256": "e11ece6f7c06d6d07fa0d11ca9bb38a44021cf8178fc1bb96105718aee6f9cc2"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/acidling/acidling.zip",
+  "petJsonPath": "pets/codex-pet/acidling/pet.json",
+  "spritesheetPath": "pets/codex-pet/acidling/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.289Z"
+}

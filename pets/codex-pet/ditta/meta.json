@@ -1,0 +1,39 @@
+{
+  "id": "ditta",
+  "name": "Ditta",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/ditta",
+  "description": "",
+  "generatedManifest": {
+    "id": "ditta",
+    "displayName": "Ditta",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/ditta/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/ditta"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "22e5f713918f8aa47010d537ae783d7b6fdc690cfb8ed12e410d89bbcd596f57"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/ditta/spritesheet.webp",
+      "bytes": 1280206,
+      "sha256": "07612ce9bb65c014994a6e094275766fcc3de0362bd48f774a2ae8923ba5981a"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/ditta",
+      "bytes": 1280692,
+      "sha256": "34637aa5d427995815c86b1c97d36a3884a42d0050f82d348f722fac3fab4c00"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/ditta/ditta.zip",
+  "petJsonPath": "pets/codex-pet/ditta/pet.json",
+  "spritesheetPath": "pets/codex-pet/ditta/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.316Z"
+}

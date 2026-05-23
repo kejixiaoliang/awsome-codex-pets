@@ -1,0 +1,39 @@
+{
+  "id": "axel",
+  "name": "Axel",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/axel",
+  "description": "",
+  "generatedManifest": {
+    "id": "axel",
+    "displayName": "Axel",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/axel/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/axel"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "35b7823cec74a05630266d19f0fc3148283619d8e1945c38e1d0c43215ea1004"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/axel/spritesheet.webp",
+      "bytes": 1585178,
+      "sha256": "ab76a8d557e98b92dd82d50c6da132fefbfb471cf5d0f129b30bcfa0c22af702"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/axel",
+      "bytes": 1583631,
+      "sha256": "d5ec7bbf1f6d55d4084302dccf8a07bac8782b1ff935f8942fad86a839948880"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/axel/axel.zip",
+  "petJsonPath": "pets/codex-pet/axel/pet.json",
+  "spritesheetPath": "pets/codex-pet/axel/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:19.600Z"
+}

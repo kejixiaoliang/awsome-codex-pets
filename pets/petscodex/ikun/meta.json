@@ -1,0 +1,41 @@
+{
+  "id": "ikun",
+  "name": "IKUN",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/ikun",
+  "description": "A hoodie chick with hot path stage energy.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "ikun"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/ikun/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/ikun/spritesheet.webp",
+    "package": "https://petscodex.com/download/ikun.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/ikun/pet.json",
+      "bytes": 148,
+      "sha256": "5edac81fc77f60a9f8c3b11a6c478ee57d0eb235b1b5571ccb3800ff2b6e0c80"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/ikun/spritesheet.webp",
+      "bytes": 1644844,
+      "sha256": "6ba7f573635b48a1aeeb0162711869dc91da522e380725568d97c2559ef8510f"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/ikun.zip",
+      "bytes": 311883,
+      "sha256": "6b26cabee790c889fa3665872297617af9405f60456eaf9f1e623009cc1cfa5f"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/ikun/ikun.zip",
+  "petJsonPath": "pets/petscodex/ikun/pet.json",
+  "spritesheetPath": "pets/petscodex/ikun/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.094Z"
+}

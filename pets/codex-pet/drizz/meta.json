@@ -1,0 +1,39 @@
+{
+  "id": "drizz",
+  "name": "Drizz",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/drizz",
+  "description": "",
+  "generatedManifest": {
+    "id": "drizz",
+    "displayName": "Drizz",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/drizz/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/drizz"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "9c7eb5ee087baa45d758d6903f898d22f62db18fff3ea2930ecfcbebbfbcaf83"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/drizz/spritesheet.webp",
+      "bytes": 1188386,
+      "sha256": "a9ccbcc5c5285743e03010e3b71a13ea22aee78487a1089a4e575d42b7fe926b"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/drizz",
+      "bytes": 1188930,
+      "sha256": "4dfc085829ecf14fb2d7e9c146a515b3bd28d7a70fca95673d3340a60e073c5c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/drizz/drizz.zip",
+  "petJsonPath": "pets/codex-pet/drizz/pet.json",
+  "spritesheetPath": "pets/codex-pet/drizz/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:21.444Z"
+}

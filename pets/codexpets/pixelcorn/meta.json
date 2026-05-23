@@ -1,0 +1,35 @@
+{
+  "id": "pixelcorn",
+  "name": "Pixelcorn",
+  "sourceId": "codexpets",
+  "sourceUrl": "https://codexpets.org/pets/pixelcorn",
+  "description": "",
+  "urls": {
+    "petJson": "https://codexpets.org/pets/pixelcorn/pet.json",
+    "spritesheet": "https://codexpets.org/pets/pixelcorn/spritesheet.webp",
+    "package": "https://codexpets.org/pets/pixelcorn/pixelcorn-codex-pet.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://codexpets.org/pets/pixelcorn/pet.json",
+      "bytes": 266,
+      "sha256": "5c2ccaab60842e487fa7dfae300b08bbb9271858ba730b7c5a828696b45d36fc"
+    },
+    "spritesheet": {
+      "url": "https://codexpets.org/pets/pixelcorn/spritesheet.webp",
+      "bytes": 2110642,
+      "sha256": "71897bf5f901af0684d3460ff526437f96f402cd49cd88ac3b2b702fc2b5edd0"
+    },
+    "package": {
+      "url": "https://codexpets.org/pets/pixelcorn/pixelcorn-codex-pet.zip",
+      "bytes": 2111675,
+      "sha256": "68f2561e7e8a8e4b92d56532aa93625e1631d1330c4f8d3c6907e79689e93d24"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codexpets/pixelcorn/pixelcorn.zip",
+  "petJsonPath": "pets/codexpets/pixelcorn/pet.json",
+  "spritesheetPath": "pets/codexpets/pixelcorn/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.003Z"
+}

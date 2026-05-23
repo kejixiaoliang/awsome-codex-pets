@@ -1,0 +1,41 @@
+{
+  "id": "zhubajie",
+  "name": "Zhu Bajie",
+  "sourceId": "petscodex",
+  "sourceUrl": "https://petscodex.com/pets/zhubajie",
+  "description": "A cute chibi anime Zhu Bajie Codex pet wearing a monk travel robe and carrying a tiny nine-toothed rake.",
+  "author": "",
+  "tags": [],
+  "remote": {
+    "repository": "https://github.com/mn8821236/petscodex",
+    "githubFolder": "zhubajie"
+  },
+  "urls": {
+    "petJson": "https://raw.githubusercontent.com/mn8821236/petscodex/main/zhubajie/pet.json",
+    "spritesheet": "https://raw.githubusercontent.com/mn8821236/petscodex/main/zhubajie/spritesheet.webp",
+    "package": "https://petscodex.com/download/zhubajie.zip"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/zhubajie/pet.json",
+      "bytes": 210,
+      "sha256": "e5ddf296ab78a153e9129326f56472748c00e6c65ccfd0c67df51e94ec02f910"
+    },
+    "spritesheet": {
+      "url": "https://raw.githubusercontent.com/mn8821236/petscodex/main/zhubajie/spritesheet.webp",
+      "bytes": 1391352,
+      "sha256": "7e86be45e1dd5207050fc2defcf0cf1d6b13683ae0c34eeca83628de196f16fa"
+    },
+    "package": {
+      "url": "https://petscodex.com/download/zhubajie.zip",
+      "bytes": 311883,
+      "sha256": "79105220d69cef729f13795ebc849c60ba8df9859a0702356e409a24d1038be8"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/petscodex/zhubajie/zhubajie.zip",
+  "petJsonPath": "pets/petscodex/zhubajie/pet.json",
+  "spritesheetPath": "pets/petscodex/zhubajie/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:23.314Z"
+}

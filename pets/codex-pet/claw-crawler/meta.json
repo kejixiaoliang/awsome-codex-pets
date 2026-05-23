@@ -1,0 +1,39 @@
+{
+  "id": "claw-crawler",
+  "name": "Claw Crawler",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/claw-crawler",
+  "description": "",
+  "generatedManifest": {
+    "id": "claw-crawler",
+    "displayName": "Claw Crawler",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/claw-crawler/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/claw-crawler"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "b00cf20f6d2761e85eae0962dabab3542ffa4a345a9791c23975d5cad21e8e20"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/claw-crawler/spritesheet.webp",
+      "bytes": 1851250,
+      "sha256": "c949c8092c70cdec1951c48613cbe7d70ea53e4f960606ed5496825d0a3046ee"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/claw-crawler",
+      "bytes": 1851967,
+      "sha256": "879ec808e4bdb5a3d31533498b91c7f32c3d78e8f4b5fcf25ac828a7557d513c"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/claw-crawler/claw-crawler.zip",
+  "petJsonPath": "pets/codex-pet/claw-crawler/pet.json",
+  "spritesheetPath": "pets/codex-pet/claw-crawler/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:20.469Z"
+}

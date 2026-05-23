@@ -1,0 +1,39 @@
+{
+  "id": "hana",
+  "name": "Hana",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hana",
+  "description": "",
+  "generatedManifest": {
+    "id": "hana",
+    "displayName": "Hana",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hana/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hana"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "28a81cd586f70fede77deea2bcbaa15bdaa199b44195e4e56981feb325b72486"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hana/spritesheet.webp",
+      "bytes": 2539928,
+      "sha256": "a8f08106196235af49762129a51f88ccec8d249cf91a9dd6b1f2f83caa3146c2"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hana",
+      "bytes": 2539904,
+      "sha256": "445962c9718dd15b2b62a56f6ee0ec76dea1869ecdffd13c09bfef2523d81b18"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hana/hana.zip",
+  "petJsonPath": "pets/codex-pet/hana/pet.json",
+  "spritesheetPath": "pets/codex-pet/hana/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.530Z"
+}

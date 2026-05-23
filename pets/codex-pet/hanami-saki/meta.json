@@ -1,0 +1,39 @@
+{
+  "id": "hanami-saki",
+  "name": "Hanami Saki",
+  "sourceId": "codex-pet",
+  "sourceUrl": "https://codex-pet.com/pets/hanami-saki",
+  "description": "",
+  "generatedManifest": {
+    "id": "hanami-saki",
+    "displayName": "Hanami Saki",
+    "description": "",
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "urls": {
+    "spritesheet": "https://cdn.codex-pet.com/pets/hanami-saki/spritesheet.webp",
+    "package": "https://codex-pet.com/api/download/hanami-saki"
+  },
+  "reviewOnly": true,
+  "saved": {
+    "petJson": {
+      "generated": true,
+      "sha256": "ca7fead982f23d1b551e6cf1a4aa0627f72bc2b66ad5828b2ed23408d16aa808"
+    },
+    "spritesheet": {
+      "url": "https://cdn.codex-pet.com/pets/hanami-saki/spritesheet.webp",
+      "bytes": 2349792,
+      "sha256": "83760ca2bb818d7e94d4ea6c613b2b934537354add9fa926a6ca3cb1f870933a"
+    },
+    "package": {
+      "url": "https://codex-pet.com/api/download/hanami-saki",
+      "bytes": 2350592,
+      "sha256": "33389987a7cea0c3104b3e15fd43c11009dbd68aaeab9856f0d92a114fdb4d83"
+    }
+  },
+  "note": "Local review cache. Do not redistribute until the original license is confirmed.",
+  "packagePath": "pets/codex-pet/hanami-saki/hanami-saki.zip",
+  "petJsonPath": "pets/codex-pet/hanami-saki/pet.json",
+  "spritesheetPath": "pets/codex-pet/hanami-saki/spritesheet.webp",
+  "promotedAt": "2026-05-23T14:10:22.554Z"
+}
